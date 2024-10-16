@@ -1,0 +1,339 @@
+English (en): enc
+Cebuano (ceb): ceb
+Deutsch (de): deu
+français (fr): fra
+svenska (sv): swe
+Nederlands (nl): nld
+русский (ru): rus
+español (es): spa
+italiano (it): ita
+polski (pl): pol
+مصرى (arz): arz
+中文 (zh): zho
+日本語 (ja): jpn
+українська (uk): ukr
+Tiếng Việt (vi): vie
+Winaray (war): war
+العربية (ar): ara
+português (pt): por
+فارسی (fa): fas
+català (ca): cat
+Bahasa Indonesia (id): ind
+српски / srpski (sr): srp
+한국어 (ko): fuj
+norsk (no): nor
+Türkçe (tr): tur
+нохчийн (ce): che
+suomi (fi): fin
+čeština (cs): ces
+magyar (hu): huo
+татарча / tatarça (tt): tat
+română (ro): ron
+srpskohrvatski / српскохрватски (sh): hbs
+euskara (eu): eus
+閩南語 / Bân-lâm-gú (zh-min-nan): Unknown
+Bahasa Melayu (ms): msa
+עברית (he): heb
+Esperanto (eo): epo
+հայերեն (hy): hye
+dansk (da): dan
+български (bg): bul
+oʻzbekcha / ўзбекча (uz): uzb
+Cymraeg (cy): cym
+Simple English (simple): Unknown
+slovenčina (sk): slk
+eesti (et): est
+беларуская (be): bel
+تۆرکجه (azb): azb
+Ελληνικά (el): ell
+қазақша (kk): kaz
+Minangkabau (min): min
+hrvatski (hr): hrv
+lietuvių (lt): lit
+galego (gl): glg
+اردو (ur): urd
+azərbaycanca (az): aze
+slovenščina (sl): slv
+Ladin (lld): lld
+ქართული (ka): kat
+norsk nynorsk (nn): nno
+தமிழ் (ta): tam
+ไทย (th): tha
+हिन्दी (hi): hin
+বাংলা (bn): ben
+македонски (mk): mkd
+粵語 (zh-yue): Unknown
+Latina (la): lat
+asturianu (ast): ast
+latviešu (lv): lav
+Afrikaans (af): afr
+тоҷикӣ (tg): tgk
+မြန်မာဘာသာ (my): mya
+తెలుగు (te): tel
+shqip (sq): sqi
+Malagasy (mg): mlg
+मराठी (mr): mar
+bosanski (bs): bos
+occitan (oc): oci
+беларуская (тарашкевіца) (be-tarask): Unknown
+brezhoneg (br): bre
+മലയാളം (ml): mal
+Plattdüütsch (nds): nds
+Kiswahili (sw): swa
+kurdî (ku): kur
+кыргызча (ky): kir
+lombard (lmo): lmo
+Jawa (jv): jav
+پنجابی (pnb): pnb
+کوردی (ckb): ckb
+नेपाल भाषा (new): new
+Kreyòl ayisyen (ht): hat
+vèneto (vec): vec
+Piemontèis (pms): pms
+Lëtzebuergesch (lb): ltz
+башҡортса (ba): bak
+Sunda (su): sun
+Gaeilge (ga): gaa
+íslenska (is): isl
+ślůnski (szl): szl
+чӑвашла (cv): chv
+ਪੰਜਾਬੀ (pa): pan
+Frysk (fy): fry
+Ido (io): ido
+Hausa (ha): haq
+Tagalog (tl): tgl
+aragonés (an): arg
+مازِرونی (mzn): mzn
+吴语 (wuu): wuu
+Zazaki (diq): diq
+Volapük (vo): vol
+Igbo (ig): ibo
+Scots (sco): sco
+Yorùbá (yo): yor
+ಕನ್ನಡ (kn): kan
+नेपाली (ne): nep
+Alemannisch (als): als
+ગુજરાતી (gu): guj
+interlingua (ia): ina
+Kotava (avk): avk
+qırımtatarca (crh): crh
+Boarisch (bar): bar
+sicilianu (scn): scn
+Basa Bali (ban): ban
+বিষ্ণুপ্রিয়া মণিপুরী (bpy): bpy
+монгол (mn): mon
+Runa Simi (qu): que
+Diné bizaad (nv): nav
+მარგალური (xmf): xmf
+සිංහල (si): sin
+Nordfriisk (frr): frr
+پښتو (ps): pus
+ирон (os): oss
+chiTumbuka (tum): tum
+ଓଡ଼ିଆ (or): ori
+سنڌي (sd): snd
+Bikol Central (bcl): bcl
+žemaitėška (bat-smg): Unknown
+саха тыла (sah): sah
+閩東語 / Mìng-dĕ̤ng-ngṳ̄ (cdo): cdo
+Gàidhlig (gd): gla
+Basa Ugi (bug): bug
+گیلکی (glk): glk
+ייִדיש (yi): yid
+Ilokano (ilo): ilo
+አማርኛ (am): amh
+Limburgs (li): lim
+Napulitano (nap): nap
+Bahasa Hulontalo (gor): gor
+मैथिली (mai): mai
+føroyskt (fo): fao
+hornjoserbsce (hsb): hsb
+Basa Banyumasan (map-bms): Unknown
+অসমীয়া (as): asz
+ၽႃႇသႃႇတႆး (shn): shn
+文言 (zh-classical): Unknown
+emiliàn e rumagnòl (eml): Unknown
+Acèh (ace): ace
+Interlingue (ie): ile
+walon (wa): wbm
+संस्कृतम् (sa): sax
+Արեւմտահայերէն (hyw): hyw
+ᱥᱟᱱᱛᱟᱲᱤ (sat): sat
+isiZulu (zu): zul
+chiShona (sn): sna
+олык марий (mhr): mhr
+Ligure (lij): lij
+Fiji Hindi (hif): hif
+ភាសាខ្មែរ (km): khm
+Banjar (bjn): bjn
+ꯃꯤꯇꯩ ꯂꯣꯟ (mni): mni
+кырык мары (mrj): mrj
+الدارجة (ary): ary
+客家語 / Hak-kâ-ngî (hak): hak
+dagbanli (dag): dag
+Kapampangan (pam): pam
+русиньскый (rue): rue
+tarandíne (roa-tara): Unknown
+भोजपुरी (bh): Unknown
+Sesotho sa Leboa (nso): nso
+corsu (co): cos
+Soomaaliga (so): som
+tolışi (tly): tly
+West-Vlams (vls): vls
+Māori (mi): mri
+Nedersaksies (nds-nl): Unknown
+davvisámegiella (se): sme
+эрзянь (myv): myv
+Ikinyarwanda (rw): kin
+Qaraqalpaqsha (kaa): kaa
+sardu (sc): srd
+བོད་ཡིག (bo): bod
+kernowek (kw): cor
+vepsän kel’ (vep): vep
+Türkmençe (tk): tuk
+Malti (mt): mlt
+Taqbaylit (kab): kab
+Gaelg (gv): glv
+мокшень (mdf): mdf
+贛語 (gan): gan
+võro (fiu-vro): vro
+Zeêuws (zea): zea
+аԥсшәа (ab): abk
+ئۇيغۇرچە / Uyghurche (ug): uig
+سرائیکی (skr): skr
+anarâškielâ (smn): smn
+Avañe'ẽ (gn): grn
+arpetan (frp): frp
+Picard (pcd): pcd
+कॉशुर / کٲشُر (ks): kas
+удмурт (udm): udm
+коми (kv): kom
+kaszëbsczi (csb): csb
+Fulfulde (ff): ful
+Aymar aru (ay): aym
+Nouormand (nrm): nrm
+Ænglisc (ang): ang
+furlan (fur): fur
+livvinkarjala (olo): olo
+Lingua Franca Nova (lfn): lfn
+лезги (lez): lez
+Nāhuatl (nah): Unknown
+Mirandés (mwl): mwl
+Papiamentu (pap): pap
+lingála (ln): lin
+Twi (tw): twi
+Seeltersk (stq): stq
+ລາວ (lo): lao
+rumantsch (rm): roh
+estremeñu (ext): ext
+Ladino (lad): lad
+गोंयची कोंकणी / Gõychi Konknni (gom): gom
+डोटेली (dty): dty
+авар (av): ava
+тыва дыл (tyv): tyv
+перем коми (koi): koi
+dolnoserbski (dsb): dsb
+Luganda (lg): lug
+Chavacano de Zamboanga (cbk-zam): Unknown
+ދިވެހިބަސް (dv): div
+Ripoarisch (ksh): ksh
+Vahcuengh (za): zha
+буряад (bxr): bxr
+ပအိုဝ်ႏဘာႏသာႏ (blk): blk
+Gagauz (gag): gag
+ⵜⴰⵎⴰⵣⵉⵖⵜ ⵜⴰⵏⴰⵡⴰⵢⵜ (zgh): zgh
+Pälzisch (pfl): pfl
+Sakizaya (szy): szy
+Betawi (bew): bew
+Hawaiʻi (haw): haw
+Tayal (tay): tay
+Pangasinan (pag): pag
+पालि (pi): pli
+अवधी (awa): awa
+ತುಳು (tcy): tcy
+къарачай-малкъар (krc): krc
+гӀалгӀай (inh): inh
+isiXhosa (xh): xho
+fɔ̀ngbè (fon): fon
+Atikamekw (atj): atj
+Kumoring (kge): kge
+Ghanaian Pidgin (gpe): gpe
+lea faka-Tonga (to): toz
+Deitsch (pdc): pdc
+ဘာသာမန် (mnw): mnw
+ܐܪܡܝܐ (arc): arc
+Taclḥit (shi): shi
+Setswana (tn): tsn
+Oromoo (om): orm
+Gĩkũyũ (ki): kik
+хальмг (xal): xal
+Li Niha (nia): nia
+Dagaare (dga): dga
+Patois (jam): jam
+Kabɩyɛ (kbp): kbp
+Wolof (wo): wol
+Novial (nov): nov
+адыгэбзэ (kbd): kbd
+अंगिका (anp): anp
+ߒߞߏ (nqo): nqo
+Bislama (bi): bis
+armãneashti (roa-rup): Unknown
+Tok Pisin (tpi): tpi
+Kongo (kg): kon
+tetun (tet): tet
+gungbe (guw): guw
+la .lojban. (jbo): jbo
+Na Vosa Vakaviti (fj): fij
+Madhurâ (mad): mad
+лакку (lbe): lbe
+Tyap (kcg): kcg
+словѣньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟ (cu): chu
+Naijá (pcm): pcm
+reo tahiti (ty): tah
+Seediq (trv): trv
+Gagana Samoa (sm): smo
+Pangcah (ami): ami
+Dusun Bundu-liwan (dtp): dtp
+Sranantongo (srn): srn
+Batak Mandailing (btm): btm
+алтай тил (alt): alt
+latgaļu (ltg): ltg
+kriyòl gwiyannen (gcr): gcr
+Chi-Chewa (ny): nya
+Sesotho (st): sot
+Kʋsaal (kus): kus
+ᏣᎳᎩ (chr): chr
+SiSwati (ss): ssw
+eʋegbe (ee): ewe
+moore (mos): mos
+farefare (gur): gur
+Xitsonga (ts): tso
+𐌲𐌿𐍄𐌹𐍃𐌺 (got): got
+bamanankan (bm): bam
+Norfuk / Pitkern (pih): pih
+Batak Toba (bbc): bbc
+Tshivenda (ve): ven
+romani čhib (rmy): rmy
+Tsetsêhestâhese (chy): chy
+mfantse (fat): fat
+ikirundi (rn): run
+Jaku Iban (iba): iba
+Igala (igl): igl
+Iñupiatun (ik): ikx
+wayuunaiki (guc): guc
+адыгабзэ (ady): ady
+Chamoru (ch): cha
+Ποντιακά (pnt): pnt
+Obolo (ann): ann
+ᐃᓄᒃᑎᑐᑦ / inuktitut (iu): iku
+pinayuanan (pwn): pwn
+Thuɔŋjäŋ (din): din
+руски (rsk): rsk
+Sängö (sg): sag
+ትግርኛ (ti): tir
+ཇོང་ཁ (dz): dzo
+kalaallisut (kl): kal
+Bajau Sama (bdr): bdr
+isiNdebele seSewula (nr): nbl
+Nēhiyawēwin / ᓀᐦᐃᔭᐍᐏᐣ (cr): cre
+ᥖᥭᥰ ᥖᥬᥲ ᥑᥨᥒᥰ (tdd): tdd
