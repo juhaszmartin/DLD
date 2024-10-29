@@ -334,7 +334,7 @@ def count_articles_per_language(dump_directory):
 
 
 def main():
-    download_all_wiki_dumps(how_many_dumps=6)
+    download_all_wiki_dumps(how_many_dumps=10)
     count_articles_per_language("downloads")
 
     ## URLs for the multistream dump and index
