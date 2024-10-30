@@ -1,22 +1,54 @@
 import requests
 from bs4 import BeautifulSoup
 import pycountry
+import csv
 import json
+
+# URL of the ISO 639-3 table
+iso_639_3_url = "https://iso639-3.sil.org/sites/iso639-3/files/downloads/iso-639-3.tab"
+
+# Download and save the table
+response = requests.get(iso_639_3_url)
+with open("iso-639-3.tab", "wb") as f:
+    f.write(response.content)
+
+print("ISO 639-3 table downloaded and saved as 'iso-639-3.tab'")
+
+
+# Load ISO 639-3 data from the iso-639-3.tab file
+def load_iso_639_3_table(file_path="iso-639-3.tab"):
+    iso_639_3_codes = set()
+    with open(file_path, "r", encoding="utf-8") as f:
+        reader = csv.DictReader(f, delimiter="\t")
+        for row in reader:
+            iso_639_3_codes.add(row["Id"])  # Add the ISO 639-3 code (ID column)
+    return iso_639_3_codes
+
+
+# Load the ISO 639-3 code set
+iso_639_3_codes = load_iso_639_3_table()
 
 
 def get_iso_code(code, name):
-    # Try to get ISO code using the code
+    # First, try using ISO 639-1 alpha-2 code if available
     try:
-        lang = pycountry.languages.lookup(code)
-        return lang.alpha_3
+        lang = pycountry.languages.get(alpha_2=code)
+        if lang and lang.alpha_3:
+            return lang.alpha_3
     except LookupError:
         pass
-    # Try to get ISO code using the language name
+
+    # If alpha-2 lookup fails, try looking up by language name
     try:
         lang = pycountry.languages.lookup(name)
         return lang.alpha_3
     except LookupError:
         pass
+
+    # If previous checks fail, directly check if the 3-letter code exists in ISO 639-3
+    if code in iso_639_3_codes:
+        return code  # Map directly if it exists in ISO 639-3
+
     return "Unknown"
 
 
@@ -58,7 +90,7 @@ with open("iso_codes_of_wikis.txt", "w", encoding="utf-8") as f:
             # Extract the English language name from the third cell
             language_name = cells[2].text.strip()
 
-            # Get the ISO 639-2 code
+            # Get the ISO code using the main and fallback methods
             iso_code = get_iso_code(code, language_name)
 
             # Add the mapping to the dictionary
