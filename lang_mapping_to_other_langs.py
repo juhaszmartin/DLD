@@ -6,6 +6,9 @@ import csv
 from pathlib import Path
 import langid
 
+# TODO: fix this to fill the matrix with correct values
+# as of now, the detection function is not correct.
+
 
 def load_iso_mapping():
     """
