@@ -5,6 +5,7 @@ import re
 import csv
 from pathlib import Path
 import langid
+from tqdm import tqdm
 
 # TODO: fix this to fill the matrix with correct values
 # as of now, the detection function is not correct.
@@ -72,7 +73,7 @@ def get_language_mention_matrix(dump_directory, iso_mapping):
 
                 try:
                     with bz2.open(file, "rt", encoding="utf-8") as f:
-                        for line in f:
+                        for line in tqdm(f):
                             title = line.strip()
                             # Detect language of the title using langid
                             detected_lang, _ = langid.classify(title)
