@@ -69,14 +69,14 @@ def process_language(args):
 
             article_count += 1  # Increment article count
 
-            for revision in page:
+            for revision in reversed(page):  # Reverse to get the latest revision first
                 text = revision.text
                 if text:
                     article_length = len(text)
                     char_counts = Counter(text)
                     article_lengths.append(article_length)
                     char_counts_total.update(char_counts)
-                    break  # Only process the first revision
+                    break  # Only process the latest revision
             return
 
         # Open the compressed file using bz2.open() in binary mode
