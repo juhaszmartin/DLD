@@ -1,0 +1,6 @@
+requests==2.32.3
+tqdm==4.66.4
+beautifulsoup4==4.12.3
+pandas==2.2.2
+pycountry==24.6.1
+selenium==4.24.0
