@@ -1,0 +1,85 @@
+Language,Native name,Base language required,ISO 639-3 Code
+Afrikaans,Afrikaans,English (United States),afr
+Albanian,shqip,English (United States),sqi
+Amharic,አማርኛ,English (United States),amh
+Arabic,العربية,Any language,ara
+Armenian,Հայերեն,English (United States),hye
+Assamese,অসমীয়া,English (United States),asm
+Azerbaijani (Latin),Azərbaycan,English (United States),aze
+Bangla (India),বাংলা (ভারত),English (United States),ben
+Basque,euskara,Spanish (Spain),eus
+Belarusian,беларуская мова,Russian,bel
+Bosnian (Latin),bosanski,English (United States),bos
+Bulgarian,Български,Any language,bul
+Catalan,català,Spanish (Spain),cat
+Cherokee (Cherokee),ᏣᎳᎩ ᎦᏬᏂᎯᏍᏗ,English (United States),chr
+Chinese Simplified,中文(简体),Any language,zho
+Chinese Traditional,中文(繁體),Any language,zho
+Croatian,hrvatski,Any language,hrv
+Czech,čeština,Any language,ces
+Danish,dansk,Any language,dan
+Dutch,Nederlands,Any language,nld
+English,English,Any language,eng
+Estonian,eesti,Any language,est
+Filipino,Filipino,English (United States),fil
+Finnish,suomi,Any language,fin
+French,français,Any language,fra
+Galician,galego,Spanish (Spain),glg
+Georgian,ქართული,English (United States),kat
+German,Deutsch,Any language,deu
+Greek,Ελληνικά,Any language,grk
+Gujarati,ગુજરાતી,English (United States),guj
+Hebrew,עברית,Any language,heb
+Hindi,हिंदी,English (United States),hin
+Hungarian,magyar,Any language,hun
+Icelandic,íslenska,English (United States),isl
+Indonesian,Bahasa Indonesia,English (United States),ind
+Irish,Gaeilge,English (United States),gle
+Italian,italiano,Any language,ita
+Japanese,日本語‫,Any language,jpn
+Kannada,ಕನ್ನಡ,English (United States),kan
+Kazakh,Қазақ,English (United States),kaz
+Khmer,ខ្មែរ,English (United States),khm
+Konkani,कोंकणी,English (United States),kkn
+Korean,한국어‫,Any language,kor
+Latvian,latviešu,Any language,lav
+Lithuanian,lietuvių,Any language,lit
+Luxembourgish,Lëtzebuergesch,French,ltz
+Macedonian,македонски јазик,English (United States),mkd
+"Malay (Malaysia, Brunei, and Singapore)",Bahasa Melayu,English (United States),mly
+Malayalam,മലയാളം,English (United States),mal
+Maltese,Malti,English (United States),mlt
+Maori,Te Reo Māori,English (United States),mri
+Marathi,मराठी,English (United States),mar
+Nepali,नेपाली,English (United States),nep
+Norwegian (Bokmål),norsk (bokmål),Any language,nor
+Norwegian (Nynorsk),norsk (nynorsk),Norwegian (Bokmål),nor
+Odia,ଓଡିଆ,English (United States),ory
+Persian,فارسی,English (United States),fas
+Polish,Polski,Any language,pol
+Portuguese (Brazil),português,Any language,por
+Portuguese (Portugal),português,Any language,por
+Punjabi (Arabic),پنجابی,English (United States),pan
+Quechua,runasimi,Spanish (Mexico),que
+Romanian,română,Any language,ron
+Russian,Русский,Any language,rus
+Scottish Gaelic,Gàidhlig,English (United States),gae
+"Serbian (Cyrillic, Bosnia and Herzegovina)",српски,English (United States),srp
+"Serbian (Cyrillic, Serbia)",српски,Serbian (Latin),srp
+Serbian (Latin),srpski,Any language,srp
+Slovak,slovenčina,Any language,slk
+Slovenian,slovenski,Any language,slv
+Spanish,Español,Any language,spa
+Swedish,svenska,Any language,swe
+Tamil (India and Sri Lanka),தமிழ்,English (United States),tam
+Tatar,Татар,Russian,tat
+Telugu,తెలుగు,English (United States),tel
+Thai,ไทย,Any language,tha
+Turkish,Türkçe,Any language,tur
+Ukrainian,українська,Any language,ukr
+Urdu,اردو,English (United States),urd
+Uyghur,ئۇيغۇرچە,Simplified Chinese (China),uyg
+Uzbek (Latin),O'zbekcha,English (United States),uzb
+Valencian,valencià,Spanish (Spain),
+Vietnamese,Tiếng Việt,English (United States),vie
+Welsh,Cymraeg,English (United States),cym
