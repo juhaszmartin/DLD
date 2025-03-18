@@ -24,7 +24,7 @@ options.binary_location = EDGE_BINARY_PATH  # Explicitly set Edge binary
 driver = webdriver.Edge(service=service, options=options)
 
 # Load the language codes from the .txt file
-output_folder = "./dicts"
+output_folder = "./data"
 file_path = os.path.join(output_folder, "ethnologue_code_list.txt")
 
 with open(file_path, "r", encoding="utf-8") as f:

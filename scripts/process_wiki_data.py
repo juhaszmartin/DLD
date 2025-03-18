@@ -17,7 +17,7 @@ def load_iso_mapping():
     Returns:
         dict: A dictionary where the keys are Wikipedia language codes (e.g., 'en') and values are ISO 639-3 codes (e.g., 'eng').
     """
-    with open("./dicts/wiki_code_to_iso_code.json", "r", encoding="utf-8") as f:
+    with open("./data/wiki_code_to_iso_code.json", "r", encoding="utf-8") as f:
         return json.load(f)
 
 
@@ -263,19 +263,19 @@ def main():
         - Saves all results to JSON files.
     """
     dump_directory = "./downloads"
-    count_output_file = "./dicts/iso_article_counts.json"
-    avg_length_output_file = "./dicts/iso_avg_article_lengths.json"
-    median_length_output_file = "./dicts/iso_median_article_lengths.json"
-    real_ratio_output_file = "./dicts/iso_real_ratios.json"
-    adjusted_wikipedia_size_output_file = "./dicts/iso_adjusted_wikipedia_sizes.json"
-    entropy_output_file = "./dicts/iso_entropy_values.json"
+    count_output_file = "./data/iso_article_counts.json"
+    avg_length_output_file = "./data/iso_avg_article_lengths.json"
+    median_length_output_file = "./data/iso_median_article_lengths.json"
+    real_ratio_output_file = "./data/iso_real_ratios.json"
+    adjusted_wikipedia_size_output_file = "./data/iso_adjusted_wikipedia_sizes.json"
+    entropy_output_file = "./data/iso_entropy_values.json"
 
     # New output files
-    wp_size_in_chars_output_file = "./dicts/WPsizeinchars.json"
-    adjusted_wp_size_output_file = "./dicts/AdjustedWPsize.json"
-    articles_output_file = "./dicts/Articles.json"
-    real_total_ratio_output_file = "./dicts/Realtotalratio.json"
-    avg_good_page_length_output_file = "./dicts/Avggoodpagelength.json"
+    wp_size_in_chars_output_file = "./data/WPsizeinchars.json"
+    adjusted_wp_size_output_file = "./data/AdjustedWPsize.json"
+    articles_output_file = "./data/Articles.json"
+    real_total_ratio_output_file = "./data/Realtotalratio.json"
+    avg_good_page_length_output_file = "./data/Avggoodpagelength.json"
 
     iso_mapping = load_iso_mapping()
 

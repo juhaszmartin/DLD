@@ -9,14 +9,14 @@ iso_639_3_url = "https://iso639-3.sil.org/sites/iso639-3/files/downloads/iso-639
 
 # Download and save the table
 response = requests.get(iso_639_3_url)
-with open("iso-639-3.tab", "wb") as f:
+with open("./data/iso-639-3.tab", "wb") as f:
     f.write(response.content)
 
 print("ISO 639-3 table downloaded and saved as 'iso-639-3.tab'")
 
 
 # Load ISO 639-3 data from the iso-639-3.tab file
-def load_iso_639_3_table(file_path="iso-639-3.tab"):
+def load_iso_639_3_table(file_path="./data/iso-639-3.tab"):
     iso_639_3_codes = set()
     with open(file_path, "r", encoding="utf-8") as f:
         reader = csv.DictReader(f, delimiter="\t")
@@ -74,7 +74,7 @@ rows = table.find_all("tr")
 wiki_code_to_iso_code = {}
 
 # Open the output file with UTF-8 encoding
-with open("iso_codes_of_wikis.txt", "w", encoding="utf-8") as f:
+with open("./data/iso_codes_of_wikis.txt", "w", encoding="utf-8") as f:
     # Iterate over the rows, skipping the header rows
     for row in rows[1:]:
         cells = row.find_all(["td", "th"])
@@ -100,5 +100,5 @@ with open("iso_codes_of_wikis.txt", "w", encoding="utf-8") as f:
             f.write(f"{language_name} ({code}): {iso_code}\n")
 
 # Save the dictionary
-with open("./dicts/wiki_code_to_iso_code.json", "w", encoding="utf-8") as json_file:
+with open("./data/wiki_code_to_iso_code.json", "w", encoding="utf-8") as json_file:
     json.dump(wiki_code_to_iso_code, json_file, ensure_ascii=False, indent=4)

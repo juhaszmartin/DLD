@@ -10,32 +10,38 @@ from tqdm import tqdm
 import mwxml
 from collections import Counter  # Import Counter for efficient counting
 
+
 def load_iso_mapping():
-    with open("./dicts/wiki_code_to_iso_code.json", "r", encoding="utf-8") as f:
+    with open("./data/wiki_code_to_iso_code.json", "r", encoding="utf-8") as f:
         return json.load(f)
+
 
 def get_iso6393_code(language_code):
     try:
-        language_code = language_code.split('-')[0]
+        language_code = language_code.split("-")[0]
         lang = pycountry.languages.get(alpha_2=language_code)
-        if lang and hasattr(lang, 'alpha_3'):
+        if lang and hasattr(lang, "alpha_3"):
             return lang.alpha_3
         else:
             lang = pycountry.languages.lookup(language_code)
-            if hasattr(lang, 'alpha_3'):
+            if hasattr(lang, "alpha_3"):
                 return lang.alpha_3
     except (LookupError, AttributeError):
         return None
+
 
 def process_single_dump(args):
     wiki_code, iso_code, dump_path, iso_index, position = args
     col_idx = iso_index[iso_code]
     local_counts = Counter()  # Use Counter for efficient counting
-    
+
     # Find the multistream XML file for the current wiki_code
-    files = [file for file in dump_path.iterdir()
-             if file.is_file() and re.match(rf"^{wiki_code}wiki-.*-pages-articles-multistream\.xml\.bz2$", file.name)]
-    
+    files = [
+        file
+        for file in dump_path.iterdir()
+        if file.is_file() and re.match(rf"^{wiki_code}wiki-.*-pages-articles-multistream\.xml\.bz2$", file.name)
+    ]
+
     if not files:
         print(f"No multistream XML file found for wiki code '{wiki_code}'.")
         return None
@@ -48,7 +54,7 @@ def process_single_dump(args):
     try:
         dump_file_path = dump_file
         # Open the compressed file using bz2.open() in binary mode
-        with bz2.open(str(dump_file_path), 'rb') as f:
+        with bz2.open(str(dump_file_path), "rb") as f:
             dump = mwxml.Dump.from_file(f)
             pages = dump.pages  # Get the pages iterator
 
@@ -73,11 +79,11 @@ def process_single_dump(args):
                         continue
 
                     latest_revision_text = None  # Store latest revision text
-                    
+
                     for revision in page:
                         if revision.text:
                             latest_revision_text = revision.text  # Overwrite to get the latest one
-                    
+
                     if latest_revision_text:  # Process only if we have a valid text
                         # Detect language of the text using cld3
                         result = cld3.get_language(latest_revision_text)
@@ -97,12 +103,15 @@ def process_single_dump(args):
 
     return local_counts
 
+
 def initialize_matrix(size):
     return [[0 for _ in range(size)] for _ in range(size)]
+
 
 def aggregate_counts(matrix, partial_counts):
     for (row_idx, col_idx), count in partial_counts.items():
         matrix[row_idx][col_idx] += count
+
 
 def save_matrix_to_csv(matrix, iso_codes, output_file):
     with open(output_file, "w", newline="", encoding="utf-8") as f:
@@ -113,9 +122,10 @@ def save_matrix_to_csv(matrix, iso_codes, output_file):
         for i, row in enumerate(matrix):
             writer.writerow([iso_codes[i]] + row)
 
+
 def main():
     dump_directory = "/mnt/c/matek_msc/AML/DLD/DLD/downloads"
-    matrix_output_file = "./dicts/language_mention_matrix.csv"
+    matrix_output_file = "./data/language_mention_matrix.csv"
 
     # Load ISO mapping and language names
     iso_mapping = load_iso_mapping()
@@ -151,6 +161,7 @@ def main():
     # Save the matrix to CSV
     save_matrix_to_csv(matrix, iso_codes, matrix_output_file)
     print(f"Language mention matrix saved to {matrix_output_file}")
+
 
 if __name__ == "__main__":
     main()

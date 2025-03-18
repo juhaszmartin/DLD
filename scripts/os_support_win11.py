@@ -73,4 +73,4 @@ if response.status_code == 200:
 else:
     print(f"Failed to retrieve the webpage. Status code: {response.status_code}")
 
-df.to_csv("./dicts/os_support_windows.csv", index=False)
+df.to_csv("./data/os_support_windows.csv", index=False)

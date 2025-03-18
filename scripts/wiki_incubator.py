@@ -8,7 +8,7 @@ import pycountry
 
 
 # Load the language codes from the .txt file
-output_folder = "./dicts"
+output_folder = "./data"
 file_path = os.path.join(output_folder, "ethnologue_code_list.txt")
 with open(file_path, "r", encoding="utf-8") as f:
     language_codes = [line.strip() for line in f.readlines()]
@@ -52,7 +52,7 @@ for scraped_code, scraped_name in scraped_data:
     else:
         print(f"Warning: No ISO 639-3 code found for '{scraped_name}'.")
 
-# Save the dictionary as WPincubatornew.JSON in the /dicts folder
+# Save the dictionary as WPincubatornew.JSON in the /data folder
 output_file_path = os.path.join(output_folder, "WPincubatornew.json")
 with open(output_file_path, "w", encoding="utf-8") as json_file:
     json.dump(language_dict, json_file, ensure_ascii=False, indent=4)
