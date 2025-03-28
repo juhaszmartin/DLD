@@ -2402,6 +2402,7 @@ hng
 hnh
 hni
 hnj
+hnm
 hnn
 hno
 hns
@@ -3728,6 +3729,7 @@ lud
 lue
 luf
 lug
+luh
 lui
 luj
 luk
@@ -5749,6 +5751,7 @@ siy
 siz
 sja
 sjb
+sjc
 sjd
 sje
 sjg
@@ -7403,6 +7406,7 @@ ymr
 ymx
 ymz
 yna
+ynb
 ynd
 yne
 yng

@@ -4,6 +4,8 @@ import pycountry
 import csv
 import json
 
+# TODO: pycountry can't find all language codes, maybe check with the wals or ethnologue data
+
 # URL of the ISO 639-3 table
 iso_639_3_url = "https://iso639-3.sil.org/sites/iso639-3/files/downloads/iso-639-3.tab"
 

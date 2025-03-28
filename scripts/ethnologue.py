@@ -82,10 +82,18 @@ for code in language_codes:
         )
         digital_support = digital_support_img.split("/")[-1].split(".")[0]
 
+        # Scrape the language name
+        language_name = driver.find_element(By.XPATH, "/html/body/main/article/header/h1").text.strip()
+
+        # Scrape the summary
+        summary = driver.find_element(By.XPATH, "/html/body/main/article/section[1]/p").text.strip()
+
         # Append the data to the list
         data.append(
             [
                 code,
+                language_name,
+                summary,
                 population_size,
                 vitality_data.get("Institutional", "0%"),
                 vitality_data.get("Stable", "0%"),
@@ -95,10 +103,10 @@ for code in language_codes:
             ]
         )
 
-        print(f"Scraped data for {code}: {population_size}, {vitality_data}, {digital_support}")
+        print(f"Scraped data for {code}:{language_name} {summary} {population_size}, {vitality_data}, {digital_support}")
 
         # Wait a short time before moving to the next code (optional)
-        time.sleep(2)
+        # time.sleep(0.1)
 
     except Exception as e:
         print(f"Error scraping data for {code}: {e}")
@@ -108,7 +116,18 @@ driver.quit()
 
 # Create a DataFrame from the scraped data
 df = pd.DataFrame(
-    data, columns=["ISO Code", "Population Size", "Institutional (%)", "Stable (%)", "Endangered (%)", "Extinct (%)", "Digital Support"]
+    data,
+    columns=[
+        "ISO Code",
+        "Language Name",
+        "Summary",
+        "Population Size",
+        "Institutional (%)",
+        "Stable (%)",
+        "Endangered (%)",
+        "Extinct (%)",
+        "Digital Support",
+    ],
 )
 
 # Save the DataFrame to a CSV file
