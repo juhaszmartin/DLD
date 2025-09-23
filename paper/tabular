@@ -1,0 +1,13 @@
+\begin{center}
+\begin{tabular}{r|cccc||cccc|}
+& \multicolumn{4}{c}{Seed 0} & \multicolumn{4}{c}{Seed 1}\\
+\# feat & MH-VC & M-H-VC & MH-V-C & M-H-V-C &  MH-VC & M-H-VC & MH-V-C & M-H-V-C \\\hline
+33 & 92.3 & 97.1 & 87.9 & 90.7 & 99.3 & 95.0 & 91.4 & 85.0  
+18 & 95.7 & 97.1 & 92.1 & 92.1 & 99.3 & 95.7 & 93.6 & 85.7
+10 & 95.7 & 97.1 & 92.9 & 92.1 & 100.0 & 96.4 & 94.3 & 86.4
+8 & 96.4 & 97.1 & 92.9 & 92.1 & 100.0 & 95.7 & 92.9 & 85.7
+6 & 97.1 & 96.4 & 93.6 & 92.9 & 100.0 & 95.0 & 94.3 & 88.6
+\end{tabular}\\
+{\bf Table~ 1} Classification accuracy (10-fold crossvalidation)
+\end{center}
+

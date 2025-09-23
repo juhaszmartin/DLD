@@ -1,0 +1,256 @@
+\begin{thebibliography}{10}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+\providecommand{\bibAnnoteFile}[1]{%
+  \IfFileExists{#1}{\begin{quotation}\noindent\textsc{Key:} #1\\
+  \textsc{Annotation:}\ \input{#1}\end{quotation}}{}}
+\providecommand{\bibAnnote}[2]{%
+  \begin{quotation}\noindent\textsc{Key:} #1\\
+  \textsc{Annotation:}\ #2\end{quotation}}
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem{Kornai:2013c}
+Kornai A (2013) Digital language death.
+\newblock PloS ONE 8: DOI 10.1371/journal.pone.0077056.
+\bibAnnoteFile{Kornai:2013c}
+
+\bibitem{Morpurgo-Davies:1992}
+Morpurgo-Davies A (1998) History of Linguistics.Vol. IV: Nineteenth-Century
+  Linguistics.
+\newblock London and New York: Longman, 464 pp.
+\bibAnnoteFile{Morpurgo-Davies:1992}
+
+\bibitem{Darwin:1871}
+Darwin C (1871) The Descent of Man, and Selection in Relation to Sex.
+\newblock London: John Murray, 423 pp.
+\bibAnnoteFile{Darwin:1871}
+
+\bibitem{Frank:2008}
+Frank RM (2008) The language-organism-species analogy: A complex adaptive
+  systems approach to shifting perspective on `language'.
+\newblock In: M FR, Dirven R, Ziemke T, Bern\'ardez E, editors, Body, Language
+  and Mind. Vol. 2. Sociocultural Situatedness, Berlin: Mouton de Gruyter. pp.
+  215--262.
+\bibAnnoteFile{Frank:2008}
+
+\bibitem{Nettle:2000}
+Nettle D, Romaine S (2000) Vanishing voices: The extinction of the world's
+  languages.
+\newblock Oxford: Oxford University Press, 243 pp.
+\bibAnnoteFile{Nettle:2000}
+
+\bibitem{Crystal:2002}
+Crystal D (2002) Language death.
+\newblock Cambridge University Press, 210 pp.
+\bibAnnoteFile{Crystal:2002}
+
+\bibitem{UN_biodiv:2004}
+Ad~hoc technical expert group on indicators for assessing progress towards the
+  2010~biodiversity target UNEPCoBD (2004).
+\newblock Indicators for assessing progress towards the 2010 target: status and
+  trends of linguistic diversity and numbers of speakers of indigenous
+  languages.
+\bibAnnoteFile{UN_biodiv:2004}
+
+\bibitem{Bloomfield:1927}
+Bloomfield L (1927) Literate and illiterate speech.
+\newblock American speech 2: 432--439.
+\bibAnnoteFile{Bloomfield:1927}
+
+\bibitem{Dorian:1981}
+Dorian NC (1981) Language death: The life cycle of a Scottish Gaelic dialect.
+\newblock University of Pennsylvania Press Philadelphia, 202 pp.
+\bibAnnoteFile{Dorian:1981}
+
+\bibitem{Schmidt:1985}
+Schmidt A (1985) The fate of ergativity in dying {D}yirbal.
+\newblock Language : 378--396.
+\bibAnnoteFile{Schmidt:1985}
+
+\bibitem{Prensky:2001}
+Prensky M (2001) Digital natives, digital immigrants part 1.
+\newblock On the horizon 9: 1--6.
+\bibAnnoteFile{Prensky:2001}
+
+\bibitem{Lewis:2010}
+Lewis MP, Simons GF (2010) Assessing endangerment: Expanding {F}ishman's
+  {GIDS}.
+\newblock Revue roumaine de linguistique 2: 103--119.
+\bibAnnoteFile{Lewis:2010}
+
+\bibitem{Fishman:1991}
+Fishman JA (1991) Reversing language shift: Theoretical and empirical
+  foundations of assistance to threatened language, volume~76.
+\newblock Multilingual Matters Ltd, 431 pp.
+\bibAnnoteFile{Fishman:1991}
+
+\bibitem{Mosley:2010}
+Mosley C (2010) Atlas of the World's Languages in Danger.
+\newblock \urlprefix\url{UNESCO Publishing,
+  http://www.unesco.org/culture/languages-atlas}.
+\newblock [accessed 17-July-2013.
+\bibAnnoteFile{Mosley:2010}
+
+\bibitem{Simons:2013}
+Simons GF, Lewis MP (2013).
+\newblock A global profile of language development versus language
+  endangerment.
+\newblock
+  \urlprefix\url{http://www-01.sil.org/\~{}simonsg/presentation/Simons\%20and\%20Lewis\%20ICLDC\%202013.pdf}.
+\newblock Presented at the Conference on Language Documentation and
+  Conservation, University of Hawai'i, Feb 28-Mar 3, Online, accessed
+  27-Aug-2015.
+\bibAnnoteFile{Simons:2013}
+
+\bibitem{Cazden:2003}
+Cazden CB (2003) Sustaining indigenous languages in cyberspace.
+\newblock Nurturing Native Languages : 53--57.
+\bibAnnoteFile{Cazden:2003}
+
+\bibitem{Scannell:2007}
+Scannell KP (2007) The {C}r{\'u}bad{\'a}n {P}roject: {C}orpus building for
+  under-resourced languages.
+\newblock In: Building and Exploring Web Corpora: Proceedings of the 3rd Web as
+  Corpus Workshop. volume~4, pp. 5--15.
+\bibAnnoteFile{Scannell:2007}
+
+\bibitem{Zseder:2012}
+Zs{\'e}der A, Recski G, Varga D, Kornai A (2012) Rapid creation of large-scale
+  corpora and frequency dictionaries.
+\newblock In: Proceedings of the Eighth International Conference on Language
+  Resources and Evaluation ({LREC}'12). Istanbul, Turkey: European Language
+  Resources Association (ELRA), pp. 1462--1465.
+\newblock
+  \urlprefix\url{http://www.lrec-conf.org/proceedings/lrec2012/pdf/783_Paper.pdf}.
+\bibAnnoteFile{Zseder:2012}
+
+\bibitem{Rehm:2012}
+Rehm G, de~Smedt K (2012) The Norwegian Language in the Digital Age: Norsk i
+  Den Digitale Tidsalderen.
+\newblock Springer, 81 pp.
+\bibAnnoteFile{Rehm:2012}
+
+\bibitem{MandIncu}
+Requests for new languages/{W}ikipedia {M}andinka.
+\newblock
+  \url{http://meta.wikimedia.org/wiki/Requests\_for\_new\_languages/Wikipedia\_Mandika}.
+\newblock [14-September-2008, accessed 17-July-2013.
+\bibAnnoteFile{MandIncu}
+
+\bibitem{Nemeth:2004}
+N{\'e}meth L, Tr{\'o}n V, Hal{\'a}csy P, Kornai A, Rung A, et~al. (2004)
+  Leveraging the open source ispell codebase for minority language analysis.
+\newblock In: Carson-Berndsen J, editor, Proc. SALTMIL. pp. 56--59.
+\bibAnnoteFile{Nemeth:2004}
+
+\bibitem{Quakenbush:2012}
+Quakenbush JS, Simons GF (2012) Looking at {A}ustronesian language vitality
+  through {EGIDS} and {SUM}.
+\newblock In: Proc. 12-ICAL.
+\bibAnnoteFile{Quakenbush:2012}
+
+\bibitem{smh:2006}
+Mapuche indians to {B}ill {G}ates: hands off our language.
+\newblock
+  \urlprefix\url{http://www.smh.com.au/news/biztech/mapuche-indians-to-bill-gates-hands-off-our-language/2006/11/24/1163871586715.html}.
+\bibAnnoteFile{smh:2006}
+
+\bibitem{Hosmer:1989}
+Hosmer D, Lemeshow S (1989) Applied logistic regression.
+\newblock Wiley, 392 pp.
+\bibAnnoteFile{Hosmer:1989}
+
+\bibitem{Menard:2002}
+Menard S (2002) Applied logistic regression analysis.
+\newblock Sage Publications, 128 pp.
+\bibAnnoteFile{Menard:2002}
+
+\bibitem{Kegl:1994}
+Kegl J (1994) The {N}icaraguan sign language project: An overview.
+\newblock Signpost 7: 24--31.
+\bibAnnoteFile{Kegl:1994}
+
+\bibitem{Senghas:2004}
+Senghas A, Kita S, {\"O}zy{\"u}rek A (2004) Children creating core properties
+  of language: Evidence from an emerging sign language in {N}icaragua.
+\newblock Science 305: 1779--1782.
+\bibAnnoteFile{Senghas:2004}
+
+\bibitem{Bickerton:1981}
+Bickerton D (1981) The Roots of Language.
+\newblock Ann Arbor: Karoma, 351 pp.
+\bibAnnoteFile{Bickerton:1981}
+
+\bibitem{Pajkossy:2013}
+Pajkossy K (2013) Studying feature selection methods applied to classification
+  tasks in natural language processing.
+\newblock M{S}c thesis, E\"otv\"os Lor\'and University.
+\bibAnnoteFile{Pajkossy:2013}
+
+\bibitem{Breiman:1996}
+Breiman L (1996) Bagging predictors.
+\newblock Machine Learning 24: 123--140.
+\bibAnnoteFile{Breiman:1996}
+
+\bibitem{flanderstoday:12-06-12}
+The week in figures.
+\newblock \urlprefix\url{http://www.flanderstoday.eu/content/week-figures-0}.
+\newblock [12-June-2012, accessed 27-August-2012.
+\bibAnnoteFile{flanderstoday:12-06-12}
+
+\bibitem{Spice:2010}
+Spice B (2012).
+\newblock Carnegie {M}ellon releases data on {H}aitian {C}reole to hasten
+  development of translation tools.
+\newblock
+  \urlprefix\url{http://www.eurekalert.org/pub\_releases/2010-01/cmu-cmr012710.php}.
+\bibAnnoteFile{Spice:2010}
+
+\bibitem{Varga:2007}
+Varga D, Halacsy P, Kornai A, Nagy V, Nemeth L, et~al. (2007) Parallel corpora
+  for medium density languages.
+\newblock In: Nicolov N, Bontcheva K, Angelova G, Mitkov R, editors, Recent
+  Advances in Natural Language Processing IV. Selected papers from RANLP-05,
+  Amsterdam: Benjamins. pp. 247--258.
+\bibAnnoteFile{Varga:2007}
+
+\bibitem{Krauss:1992}
+Krauss M (1992) The world's languages in crisis.
+\newblock Language 68: 4--10.
+\bibAnnoteFile{Krauss:1992}
+
+\bibitem{Poser:pc}
+Poser W (2012).
+\newblock personal communication.
+\bibAnnoteFile{Poser:pc}
+
+\bibitem{Thangali:2011}
+Thangali A, Nash JP, Sclaroff S, Neidle C (2011) Exploiting phonological
+  constraints for handshape inference in {ASL} video.
+\newblock In: Proc. 2011 IEEE Conference on Computer Vision and Pattern
+  Recognition (CVPR). IEEE, pp. 521--528.
+\bibAnnoteFile{Thangali:2011}
+
+\bibitem{Hiddinga:2011}
+Hiddinga A, Crasborn O (2011) Signed languages and globalization.
+\newblock Language in Society 40: 483--505.
+\bibAnnoteFile{Hiddinga:2011}
+
+\bibitem{Ginsburgh:2011}
+Ginsburgh V, Weber S (2011) How many languages do we need?: The economics of
+  linguistic diversity.
+\newblock Princeton University Press, 248 pp.
+\bibAnnoteFile{Ginsburgh:2011}
+
+\bibitem{Proszeky:2005}
+Pr{\'o}sz{\'e}ky G, Nov{\'a}k A (2005) Computational morphologies for small
+  {U}ralic languages.
+\newblock Inquiries into Words, Constraints and Contexts Festschrift in the
+  Honour of Kimmo Koskenniemi on his 60th Birthday : 116--125.
+\bibAnnoteFile{Proszeky:2005}
+
+\end{thebibliography}
