@@ -13,132 +13,132 @@ polski (pl): pol
 日本語 (ja): jpn
 українська (uk): ukr
 Tiếng Việt (vi): vie
-Winaray (war): war
 العربية (ar): ara
+Winaray (war): war
 português (pt): por
 فارسی (fa): fas
 català (ca): cat
 Bahasa Indonesia (id): ind
-српски / srpski (sr): srp
 한국어 (ko): kor
+српски / srpski (sr): srp
 norsk (no): nor
 Türkçe (tr): tur
-нохчийн (ce): che
 suomi (fi): fin
+нохчийн (ce): che
 čeština (cs): ces
 magyar (hu): hun
 română (ro): ron
 татарча / tatarça (tt): tat
-srpskohrvatski / српскохрватски (sh): hbs
 euskara (eu): eus
-閩南語 / Bân-lâm-gú (zh-min-nan): Unknown
+srpskohrvatski / српскохрватски (sh): hbs
+閩南語 / Bân-lâm-gí (zh-min-nan): Unknown
 Bahasa Melayu (ms): msa
 עברית (he): heb
 Esperanto (eo): epo
 հայերեն (hy): hye
 dansk (da): dan
-български (bg): bul
 oʻzbekcha / ўзбекча (uz): uzb
+български (bg): bul
 Cymraeg (cy): cym
 Simple English (simple): Unknown
-slovenčina (sk): slk
-беларуская (be): bel
-eesti (et): est
 Ελληνικά (el): ell
+беларуская (be): bel
+slovenčina (sk): slk
+eesti (et): est
 تۆرکجه (azb): azb
 қазақша (kk): kaz
+اردو (ur): urd
 Minangkabau (min): min
 hrvatski (hr): hrv
-lietuvių (lt): lit
 galego (gl): glg
-اردو (ur): urd
+lietuvių (lt): lit
 azərbaycanca (az): aze
 slovenščina (sl): slv
-Ladin (lld): lld
 ქართული (ka): kat
-norsk nynorsk (nn): nno
+Ladin (lld): lld
 தமிழ் (ta): tam
 ไทย (th): tha
 বাংলা (bn): ben
+norsk nynorsk (nn): nno
 हिन्दी (hi): hin
 македонски (mk): mkd
 粵語 (zh-yue): Unknown
 Latina (la): lat
-asturianu (ast): ast
 latviešu (lv): lav
+asturianu (ast): ast
 Afrikaans (af): afr
-тоҷикӣ (tg): tgk
 తెలుగు (te): tel
+тоҷикӣ (tg): tgk
 မြန်မာဘာသာ (my): mya
 shqip (sq): sqi
-मराठी (mr): mar
-Malagasy (mg): mlg
 Kiswahili (sw): swa
+Malagasy (mg): mlg
+मराठी (mr): mar
 bosanski (bs): bos
-occitan (oc): oci
 kurdî (ku): kur
+occitan (oc): oci
 беларуская (тарашкевіца) (be-tarask): Unknown
 brezhoneg (br): bre
 മലയാളം (ml): mal
 Plattdüütsch (nds): nds
+lombard (lmo): lmo
 کوردی (ckb): ckb
 кыргызча (ky): kir
-lombard (lmo): lmo
 Jawa (jv): jav
 پنجابی (pnb): pnb
 नेपाल भाषा (new): new
 Kreyòl ayisyen (ht): hat
 Piemontèis (pms): pms
+Hausa (ha): hau
 vèneto (vec): vec
 Lëtzebuergesch (lb): ltz
-башҡортса (ba): bak
-Sunda (su): sun
-Gaeilge (ga): gle
-íslenska (is): isl
-ślůnski (szl): szl
-чӑвашла (cv): chv
-ਪੰਜਾਬੀ (pa): pan
-Hausa (ha): hau
-Frysk (fy): fry
-Ido (io): ido
 مازِرونی (mzn): mzn
-Tagalog (tl): tgl
+башҡортса (ba): bak
+Gaeilge (ga): gle
+Sunda (su): sun
+íslenska (is): isl
+Ido (io): ido
+ślůnski (szl): szl
+ਪੰਜਾਬੀ (pa): pan
+Frysk (fy): fry
+чӑвашла (cv): chv
 aragonés (an): arg
+Tagalog (tl): tgl
 گیلکی (glk): glk
 吴语 (wuu): wuu
-Zazaki (diq): diq
-Igbo (ig): ibo
 Volapük (vo): vol
+Igbo (ig): ibo
+Zazaki (diq): diq
 Yorùbá (yo): yor
 Scots (sco): sco
 ಕನ್ನಡ (kn): kan
+Basa Bali (ban): ban
 Alemannisch (als): als
 ગુજરાતી (gu): guj
-नेपाली (ne): nep
-Kotava (avk): avk
 interlingua (ia): ina
+Kotava (avk): avk
 qırımtatarca (crh): crh
-Basa Bali (ban): ban
+नेपाली (ne): nep
 Boarisch (bar): bar
-sicilianu (scn): scn
 монгол (mn): mon
+sicilianu (scn): scn
 বিষ্ণুপ্রিয়া মণিপুরী (bpy): bpy
+සිංහල (si): sin
+سرائیکی (skr): skr
 Runa Simi (qu): que
 Diné bizaad (nv): nav
-සිංහල (si): sin
 მარგალური (xmf): xmf
+ирон (os): oss
+Bikol Central (bcl): bcl
 پښتو (ps): pus
 Nordfriisk (frr): frr
-ирон (os): oss
 ଓଡ଼ିଆ (or): ori
+অসমীয়া (as): asm
 سنڌي (sd): snd
-Bikol Central (bcl): bcl
 chiTumbuka (tum): tum
 саха тыла (sah): sah
-অসমীয়া (as): asm
 žemaitėška (bat-smg): Unknown
 閩東語 / Mìng-dĕ̤ng-ngṳ̄ (cdo): cdo
-سرائیکی (skr): skr
 Gàidhlig (gd): gla
 Basa Ugi (bug): bug
 ייִדיש (yi): yid
@@ -150,193 +150,194 @@ Bahasa Hulontalo (gor): gor
 मैथिली (mai): mai
 føroyskt (fo): fao
 hornjoserbsce (hsb): hsb
-Basa Banyumasan (map-bms): Unknown
 တႆး (shn): shn
+Basa Banyumasan (map-bms): Unknown
 文言 (zh-classical): Unknown
-Interlingue (ie): ile
-emiliàn e rumagnòl (eml): Unknown
-Acèh (ace): ace
 ᱥᱟᱱᱛᱟᱲᱤ (sat): sat
+emiliàn e rumagnòl (eml): Unknown
+Interlingue (ie): ile
+dagbanli (dag): dag
+Արեւմտահայերէն (hyw): hyw
+Acèh (ace): ace
 walon (wa): wln
 संस्कृतम् (sa): san
-Արեւմտահայերէն (hyw): hyw
-dagbanli (dag): dag
+Fiji Hindi (hif): hif
 ⵜⴰⵎⴰⵣⵉⵖⵜ ⵜⴰⵏⴰⵡⴰⵢⵜ (zgh): zgh
 isiZulu (zu): zul
-Fiji Hindi (hif): hif
+Fulfulde (ff): ful
+ភាសាខ្មែរ (km): khm
 chiShona (sn): sna
 Ligure (lij): lij
-олык марий (mhr): mhr
-ភាសាខ្មែរ (km): khm
 Banjar (bjn): bjn
+олык марий (mhr): mhr
+Taclḥit (shi): shi
 الدارجة (ary): ary
-кырык мары (mrj): mrj
+Qaraqalpaqsha (kaa): kaa
 ꯃꯤꯇꯩ ꯂꯣꯟ (mni): mni
+кырык мары (mrj): mrj
 客家語 / Hak-kâ-ngî (hak): hak
 Kapampangan (pam): pam
 русиньскый (rue): rue
-tarandíne (roa-tara): Unknown
-ئۇيغۇرچە / Uyghurche (ug): uig
 tolışi (tly): tly
-Qaraqalpaqsha (kaa): kaa
+ئۇيغۇرچە / Uyghurche (ug): uig
+tarandíne (roa-tara): Unknown
 भोजपुरी (bh): Unknown
 Sesotho sa Leboa (nso): nso
 corsu (co): cos
 Soomaaliga (so): som
-Fulfulde (ff): ful
-West-Vlams (vls): vls
 Ikinyarwanda (rw): kin
+West-Vlams (vls): vls
 Nedersaksies (nds-nl): Unknown
 Māori (mi): mri
 davvisámegiella (se): sme
 эрзянь (myv): myv
+کٲشُر (ks): kas
 sardu (sc): srd
-Malti (mt): mlt
 мокшень (mdf): mdf
+Malti (mt): mlt
 བོད་ཡིག (bo): bod
 kernowek (kw): cor
 vepsän kel’ (vep): vep
-Türkmençe (tk): tuk
+Zeêuws (zea): zea
 Taqbaylit (kab): kab
+Türkmençe (tk): tuk
 Gaelg (gv): glv
 võro (fiu-vro): vro
 贛語 (gan): gan
-कॉशुर / کٲشُر (ks): kas
-Zeêuws (zea): zea
 аԥсшәа (ab): abk
 anarâškielâ (smn): smn
-Avañe'ẽ (gn): grn
 Picard (pcd): pcd
+Avañe'ẽ (gn): grn
 arpetan (frp): frp
-удмурт (udm): udm
 коми (kv): kom
-Taclḥit (shi): shi
+удмурт (udm): udm
 kaszëbsczi (csb): csb
+ລາວ (lo): lao
 Aymar aru (ay): aym
 Nouormand (nrm): nrm
 Ænglisc (ang): ang
-lingála (ln): lin
-furlan (fur): fur
-livvinkarjala (olo): olo
 Papiamentu (pap): pap
+furlan (fur): fur
+lingála (ln): lin
+Twi (tw): twi
+livvinkarjala (olo): olo
 Lingua Franca Nova (lfn): lfn
-ລາວ (lo): lao
 лезги (lez): lez
 Nāhuatl (nah): Unknown
 Mirandés (mwl): mwl
-Twi (tw): twi
 Seeltersk (stq): stq
+Luganda (lg): lug
 estremeñu (ext): ext
+тыва дыл (tyv): tyv
 Ladino (lad): lad
 rumantsch (rm): roh
+Ghanaian Pidgin (gpe): gpe
 авар (av): ava
 गोंयची कोंकणी / Gõychi Konknni (gom): gom
 डोटेली (dty): dty
-тыва дыл (tyv): tyv
 перем коми (koi): koi
 dolnoserbski (dsb): dsb
-Luganda (lg): lug
 Chavacano de Zamboanga (cbk-zam): Unknown
+fɔ̀ngbè (fon): fon
 ދިވެހިބަސް (dv): div
 Ripoarisch (ksh): ksh
-Vahcuengh (za): zha
-Gagauz (gag): gag
 Betawi (bew): bew
+Gagauz (gag): gag
+Vahcuengh (za): zha
 Hawaiʻi (haw): haw
-буряад (bxr): bxr
 ပအိုဝ်ႏဘာႏသာႏ (blk): blk
+буряад (bxr): bxr
 Pälzisch (pfl): pfl
-Ghanaian Pidgin (gpe): gpe
-Sakizaya (szy): szy
 ತುಳು (tcy): tcy
-Pangasinan (pag): pag
-Tayal (tay): tay
-पालि (pi): pli
+Sakizaya (szy): szy
 Kumoring (kge): kge
-fɔ̀ngbè (fon): fon
-अवधी (awa): awa
-гӀалгӀай (inh): inh
+Pangasinan (pag): pag
 къарачай-малкъар (krc): krc
-isiXhosa (xh): xho
+Tayal (tay): tay
+Dagaare (dga): dga
+पालि (pi): pli
+अवधी (awa): awa
 Setswana (tn): tsn
+гӀалгӀай (inh): inh
+isiXhosa (xh): xho
 Atikamekw (atj): atj
 Deitsch (pdc): pdc
 lea faka-Tonga (to): ton
-Dagaare (dga): dga
-ဘာသာမန် (mnw): mnw
 Oromoo (om): orm
-ܐܪܡܝܐ (arc): arc
-Novial (nov): nov
-Gĩkũyũ (ki): kik
-Li Niha (nia): nia
-Patois (jam): jam
-Wolof (wo): wol
-Kabɩyɛ (kbp): kbp
-хальмг (xal): xal
-адыгэбзэ (kbd): kbd
-अंगिका (anp): anp
-ߒߞߏ (nqo): nqo
-Kongo (kg): kon
-Na Vosa Vakaviti (fj): fij
+ဘာသာမန် (mnw): mnw
 Madhurâ (mad): mad
-Bislama (bi): bis
-gungbe (guw): guw
-armãneashti (roa-rup): Unknown
-Tok Pisin (tpi): tpi
-Sesotho (st): sot
-Kadazandusun (dtp): dtp
-tetun (tet): tet
+ܐܪܡܝܐ (arc): arc
+Gĩkũyũ (ki): kik
+Novial (nov): nov
+Li Niha (nia): nia
 Jaku Iban (iba): iba
-la .lojban. (jbo): jbo
+Wolof (wo): wol
+Patois (jam): jam
+Kabɩyɛ (kbp): kbp
+Kadazandusun (dtp): dtp
+अंगिका (anp): anp
+адыгэбзэ (kbd): kbd
+хальмг (xal): xal
+Na Vosa Vakaviti (fj): fij
+Kongo (kg): kon
+ߒߞߏ (nqo): nqo
+gungbe (guw): guw
+Tok Pisin (tpi): tpi
 Naijá (pcm): pcm
+Sesotho (st): sot
+Bislama (bi): bis
+Yerwa Kanuri (knc): knc
 Tyap (kcg): kcg
+armãneashti (roa-rup): Unknown
+tetun (tet): tet
+la .lojban. (jbo): jbo
 словѣньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟ (cu): chu
+moore (mos): mos
+eʋegbe (ee): ewe
 лакку (lbe): lbe
 reo tahiti (ty): tah
 Seediq (trv): trv
-Gagana Samoa (sm): smo
-Batak Mandailing (btm): btm
-Yerwa Kanuri (knc): knc
-Pangcah (ami): ami
 ꠍꠤꠟꠐꠤ (syl): syl
+Kʋsaal (kus): kus
+Batak Toba (bbc): bbc
+Batak Mandailing (btm): btm
+Gagana Samoa (sm): smo
+farefare (gur): gur
+Pangcah (ami): ami
 Sranantongo (srn): srn
+SiSwati (ss): ssw
+mfantse (fat): fat
 алтай тил (alt): alt
 latgaļu (ltg): ltg
-kriyòl gwiyannen (gcr): gcr
 Chi-Chewa (ny): nya
-SiSwati (ss): ssw
-moore (mos): mos
+kriyòl gwiyannen (gcr): gcr
 ᏣᎳᎩ (chr): chr
-Kʋsaal (kus): kus
-eʋegbe (ee): ewe
-Batak Toba (bbc): bbc
-Xitsonga (ts): tso
-farefare (gur): gur
+ရခိုင် (rki): rki
 𐌲𐌿𐍄𐌹𐍃𐌺 (got): got
+Xitsonga (ts): tso
+Igala (igl): igl
 bamanankan (bm): bam
+руски (rsk): rsk
 Tshivenda (ve): ven
-Norfuk / Pitkern (pih): pih
-mfantse (fat): fat
 romani čhib (rmy): rmy
 Tsetsêhestâhese (chy): chy
 ikirundi (rn): run
-Igala (igl): igl
 wayuunaiki (guc): guc
-руски (rsk): rsk
 Iñupiatun (ik): ipk
-Chamoru (ch): cha
 адыгабзэ (ady): ady
+Chamoru (ch): cha
 Ποντιακά (pnt): pnt
-ᐃᓄᒃᑎᑐᑦ / inuktitut (iu): iku
+Nupe (nup): nup
 Obolo (ann): ann
+ᐃᓄᒃᑎᑐᑦ / inuktitut (iu): iku
 pinayuanan (pwn): pwn
+Sängö (sg): sag
 ཇོང་ཁ (dz): dzo
+ᥖᥭᥰ ᥖᥬᥲ ᥑᥨᥒᥰ (tdd): tdd
 Thuɔŋjäŋ (din): din
 ትግርኛ (ti): tir
-Sängö (sg): sag
-ᥖᥭᥰ ᥖᥬᥲ ᥑᥨᥒᥰ (tdd): tdd
+isiNdebele seSewula (nr): nbl
 kalaallisut (kl): kal
 Bajau Sama (bdr): bdr
-isiNdebele seSewula (nr): nbl
 ትግሬ (tig): tig
 Nēhiyawēwin / ᓀᐦᐃᔭᐍᐏᐣ (cr): cre

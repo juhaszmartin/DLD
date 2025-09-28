@@ -124,7 +124,7 @@ def save_matrix_to_csv(matrix, iso_codes, output_file):
 
 
 def main():
-    dump_directory = "/mnt/c/matek_msc/AML/DLD/DLD/downloads"
+    dump_directory = "./downloads"
     matrix_output_file = "./data/language_mention_matrix.csv"
 
     # Load ISO mapping and language names

@@ -309,17 +309,17 @@ def main():
     print(f"ISO-to-entropy mapping saved to {entropy_output_file}")
 
     # === Compute and Save New Metrics ===
-    # 1. Raw character count of the language’s Wikipedia (should be used with logarithmic scale)
-    wp_size_in_chars = {iso_code: sum(char_counts_total.values()) for iso_code, char_counts_total in iso_adjusted_wikipedia_sizes.items()}
+    # 1. Raw character count of the language’s Wikipedia (logarithmic scale)
+    wp_size_in_chars = iso_adjusted_wikipedia_sizes
     save_iso_article_counts(wp_size_in_chars, wp_size_in_chars_output_file)
     print(f"Raw character count of the language’s Wikipedia saved to {wp_size_in_chars_output_file}")
 
-    # 2. Character count of ‘real’ Wikipedia pages, normalized for character entropy (should be used with logarithmic scale)
+    # 2. Character count of ‘real’ Wikipedia pages, normalized for character entropy (logarithmic scale)
     adjusted_wp_size = iso_adjusted_wikipedia_sizes  # Already computed
     save_iso_article_counts(adjusted_wp_size, adjusted_wp_size_output_file)
     print(f"Character count of ‘real’ Wikipedia pages saved to {adjusted_wp_size_output_file}")
 
-    # 3. Number of articles in Wikipedia (should be used with logarithmic scale)
+    # 3. Number of articles in Wikipedia (logarithmic scale)
     articles = iso_article_counts  # Already computed
     save_iso_article_counts(articles, articles_output_file)
     print(f"Number of articles in Wikipedia saved to {articles_output_file}")
@@ -329,7 +329,7 @@ def main():
     save_iso_article_counts(real_total_ratio, real_total_ratio_output_file)
     print(f"Proportion of ‘real’ Wikipedia pages to total pages saved to {real_total_ratio_output_file}")
 
-    # 5. Average length of ‘real’ Wikipedia pages (should be used with logarithmic scale)
+    # 5. Average length of ‘real’ Wikipedia pages (logarithmic scale)
     avg_good_page_length = {iso_code: iso_avg_article_lengths[iso_code] for iso_code in iso_avg_article_lengths}
     save_iso_article_counts(avg_good_page_length, avg_good_page_length_output_file)
     print(f"Average length of ‘real’ Wikipedia pages saved to {avg_good_page_length_output_file}")
