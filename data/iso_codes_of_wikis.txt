@@ -23,12 +23,12 @@ Bahasa Indonesia (id): ind
 српски / srpski (sr): srp
 norsk (no): nor
 Türkçe (tr): tur
-suomi (fi): fin
 нохчийн (ce): che
+suomi (fi): fin
 čeština (cs): ces
 magyar (hu): hun
-română (ro): ron
 татарча / tatarça (tt): tat
+română (ro): ron
 euskara (eu): eus
 srpskohrvatski / српскохрватски (sh): hbs
 閩南語 / Bân-lâm-gí (zh-min-nan): Unknown
@@ -162,9 +162,9 @@ Acèh (ace): ace
 walon (wa): wln
 संस्कृतम् (sa): san
 Fiji Hindi (hif): hif
+Fulfulde (ff): ful
 ⵜⴰⵎⴰⵣⵉⵖⵜ ⵜⴰⵏⴰⵡⴰⵢⵜ (zgh): zgh
 isiZulu (zu): zul
-Fulfulde (ff): ful
 ភាសាខ្មែរ (km): khm
 chiShona (sn): sna
 Ligure (lij): lij
@@ -189,18 +189,18 @@ Ikinyarwanda (rw): kin
 West-Vlams (vls): vls
 Nedersaksies (nds-nl): Unknown
 Māori (mi): mri
+کٲشُر (ks): kas
 davvisámegiella (se): sme
 эрзянь (myv): myv
-کٲشُر (ks): kas
 sardu (sc): srd
-мокшень (mdf): mdf
 Malti (mt): mlt
+мокшень (mdf): mdf
 བོད་ཡིག (bo): bod
 kernowek (kw): cor
 vepsän kel’ (vep): vep
 Zeêuws (zea): zea
-Taqbaylit (kab): kab
 Türkmençe (tk): tuk
+Taqbaylit (kab): kab
 Gaelg (gv): glv
 võro (fiu-vro): vro
 贛語 (gan): gan
@@ -225,39 +225,39 @@ Lingua Franca Nova (lfn): lfn
 лезги (lez): lez
 Nāhuatl (nah): Unknown
 Mirandés (mwl): mwl
-Seeltersk (stq): stq
 Luganda (lg): lug
+Seeltersk (stq): stq
 estremeñu (ext): ext
 тыва дыл (tyv): tyv
 Ladino (lad): lad
-rumantsch (rm): roh
 Ghanaian Pidgin (gpe): gpe
 авар (av): ava
+rumantsch (rm): roh
 गोंयची कोंकणी / Gõychi Konknni (gom): gom
 डोटेली (dty): dty
 перем коми (koi): koi
 dolnoserbski (dsb): dsb
-Chavacano de Zamboanga (cbk-zam): Unknown
 fɔ̀ngbè (fon): fon
+Chavacano de Zamboanga (cbk-zam): Unknown
 ދިވެހިބަސް (dv): div
 Ripoarisch (ksh): ksh
 Betawi (bew): bew
 Gagauz (gag): gag
 Vahcuengh (za): zha
 Hawaiʻi (haw): haw
-ပအိုဝ်ႏဘာႏသာႏ (blk): blk
 буряад (bxr): bxr
-Pälzisch (pfl): pfl
+ပအိုဝ်ႏဘာႏသာႏ (blk): blk
 ತುಳು (tcy): tcy
+Pälzisch (pfl): pfl
 Sakizaya (szy): szy
 Kumoring (kge): kge
+Setswana (tn): tsn
 Pangasinan (pag): pag
 къарачай-малкъар (krc): krc
 Tayal (tay): tay
 Dagaare (dga): dga
 पालि (pi): pli
 अवधी (awa): awa
-Setswana (tn): tsn
 гӀалгӀай (inh): inh
 isiXhosa (xh): xho
 Atikamekw (atj): atj
@@ -269,22 +269,22 @@ Madhurâ (mad): mad
 ܐܪܡܝܐ (arc): arc
 Gĩkũyũ (ki): kik
 Novial (nov): nov
-Li Niha (nia): nia
 Jaku Iban (iba): iba
+Li Niha (nia): nia
 Wolof (wo): wol
 Patois (jam): jam
 Kabɩyɛ (kbp): kbp
 Kadazandusun (dtp): dtp
 अंगिका (anp): anp
 адыгэбзэ (kbd): kbd
-хальмг (xal): xal
+Tok Pisin (tpi): tpi
 Na Vosa Vakaviti (fj): fij
+хальмг (xal): xal
 Kongo (kg): kon
 ߒߞߏ (nqo): nqo
 gungbe (guw): guw
-Tok Pisin (tpi): tpi
-Naijá (pcm): pcm
 Sesotho (st): sot
+Naijá (pcm): pcm
 Bislama (bi): bis
 Yerwa Kanuri (knc): knc
 Tyap (kcg): kcg
@@ -298,18 +298,18 @@ eʋegbe (ee): ewe
 reo tahiti (ty): tah
 Seediq (trv): trv
 ꠍꠤꠟꠐꠤ (syl): syl
-Kʋsaal (kus): kus
 Batak Toba (bbc): bbc
+Kʋsaal (kus): kus
 Batak Mandailing (btm): btm
 Gagana Samoa (sm): smo
 farefare (gur): gur
 Pangcah (ami): ami
-Sranantongo (srn): srn
 SiSwati (ss): ssw
+Sranantongo (srn): srn
 mfantse (fat): fat
+Chi-Chewa (ny): nya
 алтай тил (alt): alt
 latgaļu (ltg): ltg
-Chi-Chewa (ny): nya
 kriyòl gwiyannen (gcr): gcr
 ᏣᎳᎩ (chr): chr
 ရခိုင် (rki): rki
@@ -331,8 +331,8 @@ Nupe (nup): nup
 Obolo (ann): ann
 ᐃᓄᒃᑎᑐᑦ / inuktitut (iu): iku
 pinayuanan (pwn): pwn
-Sängö (sg): sag
 ཇོང་ཁ (dz): dzo
+Sängö (sg): sag
 ᥖᥭᥰ ᥖᥬᥲ ᥑᥨᥒᥰ (tdd): tdd
 Thuɔŋjäŋ (din): din
 ትግርኛ (ti): tir
