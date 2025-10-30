@@ -34,6 +34,6 @@ cols[2] = "ISO 639-3"
 df.columns = cols
 df.drop(df.columns[:1], axis=1, inplace=True)
 df.reset_index(drop=True, inplace=True)
-
+df["Sentences"] = pd.to_numeric(df["Sentences"].str.replace(",", "", regex=False), errors="coerce").fillna(0).astype(int)
 print(df.head())
 df.to_csv("./data/tatoeba_sentences_by_language.csv", index=False)
