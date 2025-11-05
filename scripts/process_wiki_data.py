@@ -263,12 +263,12 @@ def main():
         - Saves all results to JSON files.
     """
     dump_directory = "./downloads"
-    count_output_file = "./data/iso_article_counts.json"
-    avg_length_output_file = "./data/iso_avg_article_lengths.json"
-    median_length_output_file = "./data/iso_median_article_lengths.json"
-    real_ratio_output_file = "./data/iso_real_ratios.json"
-    adjusted_wikipedia_size_output_file = "./data/iso_adjusted_wikipedia_sizes.json"
-    entropy_output_file = "./data/iso_entropy_values.json"
+    count_output_file = "./data/unused/iso_article_counts.json"
+    avg_length_output_file = "./data/unused/iso_avg_article_lengths.json"
+    median_length_output_file = "./data/unused/iso_median_article_lengths.json"
+    real_ratio_output_file = "./data/unused/iso_real_ratios.json"
+    adjusted_wikipedia_size_output_file = "./data/unused/iso_adjusted_wikipedia_sizes.json"
+    entropy_output_file = "./data/unused/iso_entropy_values.json"
 
     # New output files
     wp_size_in_chars_output_file = "./data/WPsizeinchars.json"
@@ -309,17 +309,17 @@ def main():
     print(f"ISO-to-entropy mapping saved to {entropy_output_file}")
 
     # === Compute and Save New Metrics ===
-    # 1. Raw character count of the language’s Wikipedia (logarithmic scale)
+    # 1. Raw character count of the language’s Wikipedia
     wp_size_in_chars = iso_adjusted_wikipedia_sizes
     save_iso_article_counts(wp_size_in_chars, wp_size_in_chars_output_file)
     print(f"Raw character count of the language’s Wikipedia saved to {wp_size_in_chars_output_file}")
 
-    # 2. Character count of ‘real’ Wikipedia pages, normalized for character entropy (logarithmic scale)
+    # 2. Character count of ‘real’ Wikipedia pages, normalized for character entropy
     adjusted_wp_size = iso_adjusted_wikipedia_sizes  # Already computed
     save_iso_article_counts(adjusted_wp_size, adjusted_wp_size_output_file)
     print(f"Character count of ‘real’ Wikipedia pages saved to {adjusted_wp_size_output_file}")
 
-    # 3. Number of articles in Wikipedia (logarithmic scale)
+    # 3. Number of articles in Wikipedia
     articles = iso_article_counts  # Already computed
     save_iso_article_counts(articles, articles_output_file)
     print(f"Number of articles in Wikipedia saved to {articles_output_file}")
@@ -329,7 +329,7 @@ def main():
     save_iso_article_counts(real_total_ratio, real_total_ratio_output_file)
     print(f"Proportion of ‘real’ Wikipedia pages to total pages saved to {real_total_ratio_output_file}")
 
-    # 5. Average length of ‘real’ Wikipedia pages (logarithmic scale)
+    # 5. Average length of ‘real’ Wikipedia pages
     avg_good_page_length = {iso_code: iso_avg_article_lengths[iso_code] for iso_code in iso_avg_article_lengths}
     save_iso_article_counts(avg_good_page_length, avg_good_page_length_output_file)
     print(f"Average length of ‘real’ Wikipedia pages saved to {avg_good_page_length_output_file}")

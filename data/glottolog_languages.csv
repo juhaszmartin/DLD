@@ -39,7 +39,7 @@ achi1258,"Achi', Cubulco",Bookkeeping,acc,North America,0,,
 achu1247,Achumawi,Palaihnihan,acv,North America,0,41.10,-121.19
 achu1248,Achuar-Shiwiar,Chicham,acu,South America,2,-2.83,-77.26
 acol1236,Acoli,Nilotic,ach,Africa,3,3.58,32.51
-acro1239,Acroá,Nuclear-Macro-Je,acs,South America,0,-12.59,-40.21
+acro1239,Acroá,Nuclear-Macro-Je,acs,South America,0,-12.20,-45.09
 adab1235,Adabe,Bookkeeping,adb,Papunesia,0,-8.23,125.58
 adai1235,Adai,,xad,North America,0,31.63,-92.01
 adam1238,Adamorobe Sign Language,Sign Language,ads,Africa,0,5.83,-0.15
@@ -70,7 +70,7 @@ afar1241,Afar,Afro-Asiatic,aar,Africa,4,12.23,41.81
 afgh1239,Afghan Sign Language,Sign Language,afg,Eurasia,0,34.43,70.45
 afgh1240,Afghanistan Gorbat,Mixed Language,,Eurasia,0,,
 afit1238,Afitti,Nyimang,aft,Africa,0,12.45,30.76
-afri1274,Afrikaans,Indo-European,afr,Africa,3,-22.00,30.00
+afri1274,Afrikaans,Indo-European,afr,Africa,3,-31.63,20.46
 afri1275,Afrihili,Artificial Language,afh,Africa,0,,
 afro1254,Afro-Seminole Creole,Indo-European,afs,North America,0,31.78,-99.29
 afud1235,Afudu,Atlantic-Congo,,Africa,0,9.83,11.30
@@ -103,7 +103,7 @@ aher1237,Aheri Gondi,Dravidian,esg,Eurasia,3,19.42,80.01
 aheu1239,Thavung,Austroasiatic,thm,Eurasia,0,17.77,104.23
 ahin1234,Ahin-Kayapa Kalanguya,Austronesian,kak,Papunesia,2,16.32,120.90
 ahir1243,Ahirani,Bookkeeping,ahr,Eurasia,0,21.55,73.69
-ahom1240,Ahom,Tai-Kadai,aho,Eurasia,0,27.28,88.46
+ahom1240,Ahom,Tai-Kadai,aho,Eurasia,0,27.04,94.33
 ahte1237,Ahtena,Athabaskan-Eyak-Tlingit,aht,North America,5,61.71,-144.89
 ahwa1235,Ndunic,Atlantic-Congo,nfd,Africa,0,9.18,8.56
 aich1238,Ai-Cham,Tai-Kadai,aih,Eurasia,2,25.49,107.84
@@ -245,6 +245,7 @@ amga1235,Amganad Ifugao,Austronesian,ifa,Papunesia,2,16.90,121.04
 amha1245,Amharic,Afro-Asiatic,amh,Africa,5,11.71,39.54
 amii1238,Ami,Western Daly,amy,Australia,0,-13.56,130.04
 amik1238,Amikoana,Bookkeeping,akn,,0,,
+amir1234,Amira,,,Africa,0,10.05,30.72
 amis1246,Amis,Austronesian,ami,Papunesia,4,23.09,121.35
 amol1235,Mol,Nuclear Torricelli,alx,Papunesia,0,-3.47,142.53
 amol1236,Amoltepec Mixtec,Otomanguean,mbz,North America,0,16.65,-97.45
@@ -364,7 +365,7 @@ aral1243,Aralle-Tabulahan,Austronesian,atq,Papunesia,3,-2.78,119.32
 aram1252,Aramanik,Bookkeeping,aam,Africa,0,-2.91,37.35
 aram1253,Arammba,Yam,stk,Papunesia,0,-8.30,141.44
 aram1260,Arame-Gubaare,Atlantic-Congo,,Africa,2,12.30,-16.37
-aran1237,Dombano,South Bird's Head Family,jbj,Papunesia,3,-2.08,132.98
+aran1237,Dombano,South Bird's Head,jbj,Papunesia,3,-2.08,132.98
 aran1261,Aranadan,Dravidian,aaf,Eurasia,0,11.35,75.80
 aran1265,Aranama,Unclassifiable,xrt,North America,0,28.65,-97.39
 arao1248,Araona,Pano-Tacanan,aro,South America,0,-12.42,-67.73
@@ -432,7 +433,6 @@ asil1242,Asilulu,Austronesian,asl,Papunesia,3,-3.67,127.95
 asko1238,Askopan,North Bougainville,eiv,Papunesia,0,-6.23,155.31
 asoa1238,Asoa,Central Sudanic,asv,Africa,0,2.27,26.72
 assa1263,Assamese,Indo-European,asm,Eurasia,4,26.09,91.29
-assa1266,Assan,Bookkeeping,xss,Eurasia,0,56.00,94.00
 assa1269,Assangori,Tamaic,sjg,Africa,6,13.96,22.64
 assi1247,Assiniboine,Siouan,asb,North America,0,49.29,-106.07
 asss1237,As,Austronesian,asz,Papunesia,0,-0.75,131.73
@@ -633,7 +633,7 @@ balk1252,Balkan Romani,Indo-European,rmn,Eurasia,19,42.67,21.17
 balk1254,Rumelian Turkish,Turkic,bgx,Eurasia,8,41.17,24.45
 balo1261,Loi-Likila,Atlantic-Congo,biz,Africa,4,0.94,18.13
 balo1264,Balo,Atlantic-Congo,bqo,Africa,0,6.13,9.69
-balt1257,Baltic Romani,Indo-European,rml,Eurasia,5,60.00,38.00
+balt1257,Baltic Romani,Indo-European,rml,Eurasia,5,57.29,29.06
 balt1258,Balti,Sino-Tibetan,bft,Eurasia,0,34.45,77.29
 balu1257,Paluai,Austronesian,blq,Papunesia,2,-2.56,147.28
 bama1249,Langue de Signes Malienne,Sign Language,bog,Africa,0,12.65,-8.00
@@ -727,7 +727,7 @@ basa1282,Basa (Nigeria),Atlantic-Congo,bzw,Africa,0,8.03,7.06
 basa1284,Basa (Cameroon),Atlantic-Congo,bas,Africa,11,3.81,10.42
 basa1286,Basap,Austronesian,bdb,Papunesia,4,1.41,117.94
 basa1287,Basay,Austronesian,byq,Papunesia,2,25.00,121.86
-bash1263,Bashkardi,Indo-European,bsg,Eurasia,18,32.00,53.00
+bash1263,Bashkardi,Indo-European,bsg,Eurasia,18,27.33,56.87
 bash1264,Bashkir,Turkic,bak,Eurasia,3,53.60,56.56
 bask1236,Basketo,Ta-Ne-Omotic,bst,Africa,0,6.46,36.58
 basq1248,Basque,,eus,Eurasia,11,43.28,-1.32
@@ -751,7 +751,7 @@ bata1301,Batak,Austronesian,bya,Papunesia,0,10.11,119.03
 bata1314,Bata,Afro-Asiatic,bta,Africa,9,9.68,12.68
 bate1261,Bateri,Indo-European,btv,Eurasia,0,34.96,72.93
 bate1262,Batek,Austroasiatic,btq,Eurasia,2,4.82,102.38
-bath1244,Bathari,Afro-Asiatic,bhm,Eurasia,0,17.45,53.12
+bath1244,Bathari,Afro-Asiatic,bhm,Eurasia,0,17.89,55.61
 bati1251,Bati (Cameroon),Atlantic-Congo,btc,Africa,0,4.26,11.06
 bati1253,Bati (Indonesia),Austronesian,bvt,Papunesia,0,-3.61,130.81
 bats1242,Bats,Nakh-Daghestanian,bbl,Eurasia,0,42.18,45.34
@@ -769,7 +769,7 @@ baux1234,Bauxite Pidgin,Pidgin,,Africa,0,,
 bauz1241,Bauzi,Geelvink Bay,bvz,Papunesia,3,-2.45,137.63
 bava1246,Bavarian,Indo-European,bar,Eurasia,12,47.92,13.25
 bawm1236,Bawm Chin,Sino-Tibetan,bgr,Eurasia,0,22.44,92.93
-baya1257,Bayali,Pama-Nyungan,bjy,Australia,0,-24.98,151.70
+baya1257,Bayali,Pama-Nyungan,bjy,Australia,0,-23.73,150.87
 bayb1234,Baybayanon,Austronesian,bvy,Papunesia,0,10.70,124.81
 bayg1239,Baygo,Dajuic,byg,Africa,0,11.13,25.22
 baym1241,Bay Miwok,Miwok-Costanoan,mkq,North America,0,37.78,-122.42
@@ -1051,7 +1051,7 @@ braz1236,Brazilian Sign Language,Sign Language,bzs,South America,0,-15.50,-48.00
 brek1238,Brek Karen,Sino-Tibetan,kvl,Eurasia,0,19.06,96.84
 brem1238,Barem,Nuclear Trans New Guinea,buq,Papunesia,0,-4.67,145.56
 brer1240,Breri,Ramu,brq,Papunesia,0,-4.73,144.71
-bret1244,Breton,Indo-European,bre,Eurasia,6,48.25,-3.79
+bret1244,Breton,Indo-European,bre,Eurasia,4,48.25,-3.79
 brib1243,Bribri,Chibchan,bzd,North America,3,9.40,-83.05
 brib1244,Bribri Sign Language,Sign Language,rib,North America,0,9.40,-83.05
 brit1235,British Sign Language,Sign Language,bfi,Eurasia,0,51.67,-0.44
@@ -1267,8 +1267,8 @@ casu1237,Casuarina Coast Asmat,Nuclear Trans New Guinea,asc,Papunesia,2,-6.43,13
 cata1241,Catalan Sign Language,Sign Language,csc,Eurasia,0,41.63,-1.97
 cata1284,Cataelano Mandaya,Bookkeeping,mst,Papunesia,0,7.77,126.37
 cata1286,Catawba,Siouan,chc,North America,0,34.97,-80.89
-catu1242,Catuquinaru-Bach,Unclassifiable,,South America,0,-0.83,-70.87
-cauc1241,Cauca,Bookkeeping,cca,South America,0,1.27,-69.91
+catu1242,Catuquinaru-Bach,Unclassifiable,,South America,0,-8.21,-70.14
+cauc1241,Cauca,Bookkeeping,cca,South America,0,2.09,-75.88
 cauh1234,Cauho,Sino-Tibetan,,Eurasia,0,22.03,102.05
 cauq1239,Cauqui of Cachuy,Aymaran,,South America,0,-12.72,-75.91
 cavi1250,Cavineña,Pano-Tacanan,cav,South America,0,-13.35,-66.63
@@ -1418,7 +1418,7 @@ chim1312,Chimwiini,Atlantic-Congo,,Africa,0,1.11,44.03
 chin1253,Chinese Pidgin English,Pidgin,cpi,Eurasia,0,-0.53,166.93
 chin1272,Creolized Grand Ronde Chinook Jargon,Chinookan,chn,North America,0,55.00,-125.00
 chin1283,Chinese Sign Language,Sign Language,csl,Eurasia,2,30.91,121.57
-chin1286,Clatsop-Shoalwater Chinook,Chinookan,chh,North America,2,45.17,-119.17
+chin1286,Clatsop-Shoalwater Chinook,Chinookan,chh,North America,2,46.39,-123.92
 chin1475,Chinali,Indo-European,cih,Eurasia,0,32.55,76.96
 chin1476,China Buriat,Mongolic-Khitan,bxu,Eurasia,1,48.76,117.79
 chin1478,Chinbon Chin,Sino-Tibetan,cnb,Eurasia,0,20.08,94.05
@@ -1454,7 +1454,7 @@ chol1284,Cholón,Hibito-Cholon,cht,South America,0,-9.23,-75.96
 chol1285,"Chol, Tila",Bookkeeping,cti,North America,0,17.49,-92.47
 chon1248,Chono,,,South America,0,-44.30,-73.88
 chon1284,Chong of Chanthaburi,Austroasiatic,cog,Eurasia,0,12.52,102.51
-chon1285,Choni,Sino-Tibetan,cda,Eurasia,17,27.76,99.83
+chon1285,Choni,Sino-Tibetan,cda,Eurasia,17,33.91,103.46
 chon1287,Chonyi-Dzihana-Kauma,Atlantic-Congo,coh,Africa,0,-6.52,38.67
 chop1243,Chopi,Atlantic-Congo,cce,Africa,6,-24.83,34.11
 chor1273,Ch'orti',Mayan,caa,North America,0,14.82,-89.24
@@ -1653,7 +1653,7 @@ dara1255,Darang Deng,Bookkeeping,dat,,0,,
 dard1243,Dar Daju Daju,Dajuic,djc,Africa,3,12.12,18.80
 darf1239,Dar Fur Daju,Dajuic,daj,Africa,2,12.26,25.31
 darg1241,North-Central Dargwa,Nakh-Daghestanian,dar,Eurasia,15,42.43,47.44
-dari1249,Dari,Indo-European,prs,Eurasia,2,31.04,67.36
+dari1249,Dari,Indo-European,prs,Eurasia,2,34.40,66.15
 darl1242,Darlong,Sino-Tibetan,dln,Eurasia,0,23.99,91.33
 darl1243,Paakantyi,Pama-Nyungan,drl,Australia,3,-32.70,142.69
 darm1243,Darma,Sino-Tibetan,drd,Eurasia,0,29.86,80.54
@@ -1693,7 +1693,7 @@ demm1245,Dem,,dem,Papunesia,0,-3.72,137.63
 demt1241,Demta,Sentanic,dmy,Papunesia,0,-2.38,140.17
 demu1235,Demushbo,Pano-Tacanan,,South America,0,-4.84,-70.87
 dend1242,Dendi (Central African Republic),Atlantic-Congo,deq,Africa,0,4.48,22.57
-dend1243,Dendi (Benin),Songhay,ddn,Africa,0,11.67,3.49
+dend1243,Dendi (Benin),Songhay,ddn,Africa,3,11.67,3.49
 deng1250,Dengese,Atlantic-Congo,dez,Africa,0,-3.26,21.42
 deng1253,Dengka,Austronesian,dnk,Papunesia,3,-10.79,122.95
 deni1241,Deni,Arawan,dny,South America,4,-6.75,-67.50
@@ -1847,7 +1847,7 @@ dung1254,Dungu,Unattested,dbv,Africa,0,10.50,8.20
 dupa1235,Dupaninan Agta,Austronesian,duo,Papunesia,11,17.37,122.19
 dura1244,Dura,Sino-Tibetan,drq,Eurasia,0,28.17,84.44
 duri1242,Duri,Austronesian,mvp,Papunesia,2,-3.37,119.87
-duri1243,Duriankere,Inanwatan,dbn,Papunesia,0,-1.35,130.96
+duri1243,Duriankere,South Bird's Head,dbn,Papunesia,0,-1.35,130.96
 duru1236,Duruwa,Dravidian,pci,Eurasia,4,19.05,82.49
 duru1249,Duruma,Atlantic-Congo,dug,Africa,0,-4.10,39.32
 dusn1237,Dusner,Austronesian,dsn,Papunesia,0,-2.74,134.39
@@ -1885,7 +1885,7 @@ east1472,Eastern Keres,Keresan,kee,North America,5,35.52,-106.45
 east2290,Eastphalian,Indo-European,,Eurasia,4,52.12,10.01
 east2295,Eastern Yiddish,Indo-European,ydd,Eurasia,12,51.75,19.42
 east2303,Archaic Finnish Swedish,Indo-European,,Eurasia,4,62.48,21.35
-east2304,Eastern Balochi,Indo-European,bgp,Eurasia,6,28.00,62.00
+east2304,Eastern Balochi,Indo-European,bgp,Eurasia,6,29.38,69.06
 east2328,Eastern Mari,Uralic,mhr,Eurasia,1,55.83,48.41
 east2330,Eastern Lawa,Austroasiatic,lwl,Eurasia,1,19.01,98.76
 east2332,Eastern Bru,Austroasiatic,bru,Eurasia,4,17.13,105.67
@@ -2174,7 +2174,7 @@ gade1236,Gade Lohar,Indo-European,gda,Eurasia,0,25.86,78.22
 gade1242,Gade,Atlantic-Congo,ged,Africa,0,8.71,7.50
 gadj1243,Gajirrabeng,Jarrakan,gdh,Australia,0,-15.48,129.16
 gads1258,Gadsup,Nuclear Trans New Guinea,gaj,Papunesia,2,-6.32,146.00
-gafa1240,Gafat,Afro-Asiatic,gft,Africa,0,11.58,39.56
+gafa1240,Gafat,Afro-Asiatic,gft,Africa,0,10.11,38.18
 gaga1249,Gagauz,Turkic,gag,Eurasia,2,44.60,28.03
 gaga1251,Gaagudju,,gbu,Australia,0,-12.52,132.64
 gagn1235,Gagnoa Bété,Kru,btg,Africa,6,6.10,-5.97
@@ -2188,7 +2188,7 @@ gala1264,Galambu,Afro-Asiatic,glo,Africa,0,10.13,10.25
 gale1257,Galeya,Austronesian,gar,Papunesia,6,-9.54,150.84
 gale1259,Galela,North Halmahera,gbi,Papunesia,4,2.31,128.44
 gali1258,Galician,Indo-European,glg,Eurasia,0,42.24,-7.53
-gali1261,Galice,Athabaskan-Eyak-Tlingit,gce,North America,0,45.39,-120.75
+gali1261,Galice,Athabaskan-Eyak-Tlingit,gce,North America,0,42.56,-123.59
 gali1262,Galibi Carib,Cariban,car,South America,3,5.84,-56.83
 gall1276,Gallurese Sardinian,Indo-European,sdn,Eurasia,0,41.11,9.24
 gall1278,Gal,Nuclear Trans New Guinea,gap,Papunesia,0,-5.16,145.62
@@ -2468,7 +2468,6 @@ guya1250,Guyambal,Pama-Nyungan,,Australia,0,-29.10,151.00
 guya1251,Guya,Nuclear Trans New Guinea,gka,Papunesia,0,-5.70,146.45
 guya1253,Guyana Sign Language,Sign Language,,South America,0,6.80,-58.15
 gvok1239,Gvoko,Afro-Asiatic,ngs,Africa,0,10.99,13.75
-gwaa1239,Gwa,Atlantic-Congo,gwb,Africa,0,10.31,9.11
 gwah1244,Gwahatike,Nuclear Trans New Guinea,dah,Papunesia,5,-5.65,146.46
 gwam1244,Gwamhi-Wuri,Atlantic-Congo,bga,Africa,2,11.81,5.08
 gwan1268,Gwandara,Afro-Asiatic,gwn,Africa,6,9.20,7.50
@@ -2479,7 +2478,7 @@ gwer1238,Gwere,Atlantic-Congo,gwr,Africa,0,1.11,33.82
 gwic1235,Gwich'in,Athabaskan-Eyak-Tlingit,gwi,North America,2,67.43,-142.96
 gwii1239,/Gwi,Khoe-Kwadi,gwj,Africa,1,-22.27,21.94
 gyel1242,Gyele,Atlantic-Congo,gyi,Africa,0,2.47,10.25
-gyem1238,Gyem,Atlantic-Congo,gye,Africa,0,10.41,9.24
+gyem1238,Gyem,Atlantic-Congo,gye,Africa,2,10.41,9.24
 haaa1252,Ha,Atlantic-Congo,haq,Africa,0,-3.78,30.49
 habu1241,Habu,Austronesian,hbu,Papunesia,0,-8.77,125.97
 hach1239,Hachijo,Japonic,,Eurasia,0,33.11,139.79
@@ -2491,6 +2490,7 @@ hadz1240,Hadza,,hts,Africa,0,-3.83,35.05
 haek1239,Haeke,Austronesian,aek,Papunesia,0,-21.07,164.87
 haho1237,Hahon,Austronesian,hah,Papunesia,3,-5.59,154.80
 haig1237,Haigwai,Austronesian,hgw,Papunesia,2,-10.27,150.26
+hain1238,Hainanese,Sino-Tibetan,hnm,Eurasia,5,19.78,110.69
 hain1253,Hainyaxo Bozo,Mande,bzx,Africa,0,13.87,-5.65
 haio1238,Hai//om-Akhoe,Khoe-Kwadi,hgm,Africa,3,-19.76,17.03
 haip1238,Haiphong Sign Language,Sign Language,haf,Eurasia,0,20.85,106.69
@@ -2614,7 +2614,7 @@ holm1250,Holma,Afro-Asiatic,hod,Africa,0,9.97,13.20
 holo1240,Holoholo,Atlantic-Congo,hoo,Africa,0,-5.38,28.33
 holu1245,Holu,Atlantic-Congo,hol,Africa,2,-8.15,17.57
 homa1239,Homa,Atlantic-Congo,hom,Africa,0,4.98,28.00
-homs1234,Western Armenian,Indo-European,hyw,Eurasia,44,40.19,44.48
+homs1234,Western Armenian,Indo-European,hyw,Eurasia,58,40.19,44.48
 hond1239,Honduras Sign Language,Sign Language,hds,North America,0,14.62,-87.22
 hone1235,Hõne,Atlantic-Congo,juh,Africa,2,9.80,10.92
 hong1241,Hong Kong-Macau Sign Language,Sign Language,hks,Eurasia,0,22.16,113.56
@@ -2794,7 +2794,7 @@ inte1259,International Sign,Sign Language,ils,Eurasia,0,44.95,11.40
 inte1260,Interlingue (Occidental),Artificial Language,ile,,0,,
 inte1261,Interglossa,Artificial Language,igs,Eurasia,0,,
 inte1262,Interlingue,Artificial Language,ine,Eurasia,0,,
-inte1263,Interslavic zonal constructed language,Artificial Language,,Eurasia,0,49.08,17.44
+inte1263,Interslavic zonal constructed language,Artificial Language,isv,Eurasia,0,49.08,17.44
 inth1238,Intha-Danu,Sino-Tibetan,int,Eurasia,2,20.39,96.94
 inui1247,Inuit Sign Language,Sign Language,iks,North America,0,63.75,-68.52
 ioit1234,Ioi Trade Jargon,Pidgin,,Papunesia,0,-8.10,146.59
@@ -3017,7 +3017,7 @@ kabi1264,Kabixí,Bookkeeping,xbx,South America,0,-14.24,-58.99
 kabo1247,Kabola,Timor-Alor-Pantar,klz,Papunesia,5,-8.17,124.54
 kabo1248,Kabore One,Nuclear Torricelli,onk,Papunesia,0,-3.32,141.88
 kabr1240,Kabras,Atlantic-Congo,lkb,Africa,0,0.29,34.83
-kabu1249,Kaburi,South Bird's Head Family,uka,Papunesia,0,-1.93,132.53
+kabu1249,Kaburi,South Bird's Head,uka,Papunesia,0,-1.93,132.53
 kabu1254,Kabutra,Indo-European,kbu,Eurasia,0,25.29,69.69
 kabu1256,Kabuverdianu,Indo-European,kea,Africa,3,15.06,-23.61
 kabw1241,Kabwa,Atlantic-Congo,cwa,Africa,0,-1.71,34.39
@@ -3067,7 +3067,7 @@ kain1277,Kainuu Saami,Unclassifiable,,Eurasia,0,,
 kair1263,Kairiru,Austronesian,kxa,Papunesia,0,-3.35,143.56
 kair1265,Kairui-Midiki,Austronesian,krd,Papunesia,2,-8.74,126.06
 kair1267,Kairak,Baining,ckr,Papunesia,0,-4.47,151.98
-kais1235,Kais,South Bird's Head Family,kzm,Papunesia,0,-1.78,132.31
+kais1235,Kais,South Bird's Head,kzm,Papunesia,0,-1.78,132.31
 kais1242,Kaishana,Arawakan,,South America,0,-2.17,-67.32
 kais1245,Kaisanic,Sino-Tibetan,,Eurasia,9,26.70,95.60
 kaiv1238,Kaivi,Unattested,kce,Africa,0,10.43,8.11
@@ -3132,7 +3132,7 @@ kamb1239,Kambiwá,Unclassifiable,xbw,South America,0,-8.61,-36.60
 kamb1287,Kamba (Brazil),Bookkeeping,xba,South America,0,-18.83,-57.33
 kamb1297,Kamba (Kenya),Atlantic-Congo,kam,Africa,4,-1.61,37.95
 kamb1299,Kambera,Austronesian,xbr,Papunesia,7,-9.88,120.23
-kamb1302,Kamberau,Nuclear Trans New Guinea,irx,Papunesia,0,-3.53,133.52
+kamb1302,North Kamrau,Nuclear Trans New Guinea,irx,Papunesia,0,-3.53,133.52
 kamb1303,Kambaira,Nuclear Trans New Guinea,kyy,Papunesia,0,-6.27,146.08
 kamb1316,Kambaata,Afro-Asiatic,ktb,Africa,3,7.38,37.91
 kami1256,Kami (Tanzania),Atlantic-Congo,kcu,Africa,0,-6.71,37.98
@@ -3328,7 +3328,7 @@ keli1248,Keliko,Central Sudanic,kbo,Africa,4,3.56,30.56
 kelo1246,Kelo,Eastern Jebel,xel,Africa,2,10.93,34.38
 kelo1247,Klon,Timor-Alor-Pantar,kyo,Papunesia,4,-8.41,124.43
 kema1243,Kemak,Austronesian,kem,Papunesia,2,-9.00,125.16
-kemb1235,Kemberano,South Bird's Head Family,bzp,Papunesia,2,-2.24,132.99
+kemb1235,Kemberano,South Bird's Head,bzp,Papunesia,2,-2.24,132.99
 kemb1249,Mateq,Austronesian,xem,Papunesia,0,0.66,110.47
 kemb1250,Kembra,Lepki-Murkim-Kembra,xkw,Papunesia,0,-3.89,140.43
 keme1240,Kemezung,Atlantic-Congo,dmo,Africa,0,6.70,10.50
@@ -3371,7 +3371,7 @@ ketu1238,Ketum,Nuclear Trans New Guinea,ktt,Papunesia,4,-5.35,140.60
 keya1238,Keyagana,Nuclear Trans New Guinea,kyg,Papunesia,0,-6.48,145.46
 kgal1244,Kgalagadi,Atlantic-Congo,xkv,Africa,11,-24.92,22.72
 khah1234,Khah,Indo-European,hkh,Eurasia,0,33.24,75.20
-khak1248,Khakas,Turkic,kjh,Eurasia,14,50.74,107.17
+khak1248,Khakas,Turkic,kjh,Eurasia,14,52.66,89.67
 khal1270,Khalaj,Bookkeeping,kjf,Eurasia,0,36.53,49.58
 khal1275,Khaling,Sino-Tibetan,klr,Eurasia,0,27.39,87.51
 kham1280,Khamla,Bookkeeping,,Eurasia,0,,
@@ -3524,7 +3524,7 @@ kokb1239,Kok Borok,Sino-Tibetan,trp,Eurasia,5,23.19,91.47
 koke1240,Koke,Atlantic-Congo,kou,Africa,0,10.68,18.41
 koke1241,Kokenop Mandobo,Nuclear Trans New Guinea,,Papunesia,3,-5.55,140.60
 kokn1236,Kok-Nar,Pama-Nyungan,gko,Australia,0,-16.18,141.61
-koko1265,Kokoda,South Bird's Head Family,xod,Papunesia,3,-2.13,132.45
+koko1265,Kokoda,South Bird's Head,xod,Papunesia,3,-2.13,132.45
 koko1267,Kokola,Atlantic-Congo,kzn,Africa,0,-16.27,35.58
 koko1269,Kokota,Austronesian,kkk,Papunesia,0,-8.16,159.19
 koko1272,Koko Dhawa,Pama-Nyungan,,Australia,0,-16.05,141.81
@@ -3623,7 +3623,7 @@ kota1275,Kota Bangun Kutai Malay,Austronesian,mqg,Papunesia,0,-0.27,116.30
 kota1279,Kota Marudu Talantang,Austronesian,grm,Papunesia,0,6.49,116.85
 kota1280,Kotava,Artificial Language,avk,North America,0,,
 koti1238,Koti,Atlantic-Congo,eko,Africa,2,-16.48,39.76
-kott1239,Kott-Assan,Yeniseian,zko,Eurasia,0,55.00,94.00
+kott1239,Kott-Assan,Yeniseian,zko,Eurasia,2,55.00,94.00
 kouy1238,Kouya,Kru,kyf,Africa,0,7.27,-6.57
 kova1243,Kovai,Nuclear Trans New Guinea,kqb,Papunesia,0,-5.62,147.86
 kove1237,Kove,Austronesian,kvc,Papunesia,0,-5.59,149.63
@@ -3660,7 +3660,7 @@ kuaa1238,Southern Tshwa,Khoe-Kwadi,tyu,Africa,3,-22.02,26.02
 kuam1234,Kuamasi,Sino-Tibetan,yku,Eurasia,0,26.35,103.33
 kuan1246,Kuan,Tai-Kadai,uan,Eurasia,0,18.08,105.31
 kuan1247,Kuanyama,Atlantic-Congo,kua,Africa,0,-17.72,16.58
-kuan1248,Kuanua,Austronesian,ksd,Papunesia,14,-4.31,152.11
+kuan1248,Kuanua,Austronesian,ksd,Papunesia,18,-4.31,152.11
 kuan1249,Kua-nsi,Sino-Tibetan,ykn,Eurasia,0,26.45,103.33
 kuan1250,Kuanhua,Bookkeeping,xnh,Eurasia,0,21.98,101.16
 kuba1248,Kubachi,Nakh-Daghestanian,ugh,Eurasia,0,42.09,47.60
@@ -3758,7 +3758,7 @@ kurt1248,Kurtokha,Sino-Tibetan,xkz,Eurasia,0,27.54,90.98
 kurt1250,Kurti,Austronesian,ktm,Papunesia,0,-2.01,147.04
 kuru1301,Kurukh,Dravidian,kru,Eurasia,7,24.46,86.47
 kuru1305,Kurudu,Austronesian,kjr,Papunesia,0,-1.84,137.02
-kuru1309,Kuruáya,Tupian,kyr,South America,0,-3.10,-52.23
+kuru1309,Kuruáya,Tupian,kyr,South America,0,-7.31,-55.17
 kusa1250,Kusaal,Atlantic-Congo,kus,Africa,2,10.97,-0.39
 kusa1251,Kusaghe-Njela,Austronesian,ksg,Papunesia,2,-8.04,157.46
 kush1236,Kushi,Afro-Asiatic,kuh,Africa,0,9.41,10.94
@@ -3846,7 +3846,7 @@ lach1248,Lachi,Tai-Kadai,lbt,Eurasia,2,22.85,104.78
 lach1249,Lachixío Zapotec,Otomanguean,zpl,North America,0,16.72,-96.93
 lach1250,Lachiguiri Zapotec,Otomanguean,zpa,North America,0,16.58,-95.54
 lach1251,Lachirioag Zapotec,Bookkeeping,ztc,,0,,
-lada1244,Leh Ladakhi,Sino-Tibetan,lbj,Eurasia,0,33.47,80.60
+lada1244,Leh Ladakhi,Sino-Tibetan,lbj,Eurasia,0,34.15,77.56
 lada1245,Ladakhi Sign,Artificial Language,,Eurasia,0,,
 ladi1250,Ladin,Indo-European,lld,Eurasia,9,46.61,11.89
 ladi1251,Ladino,Indo-European,lad,Eurasia,3,41.20,28.66
@@ -3984,6 +3984,7 @@ leha1244,Lehalurup,Austronesian,urr,Papunesia,0,-13.54,167.34
 lein1237,Lainong Naga,Sino-Tibetan,lzn,Eurasia,0,26.45,95.40
 leip1237,Leipon,Austronesian,lek,Papunesia,0,-1.97,147.23
 leit1234,Leitre,Sko,,Papunesia,0,-2.84,141.62
+leiz1236,Leizhou Chinese,Sino-Tibetan,luh,Eurasia,0,20.69,110.02
 lela1246,Lelak,Austronesian,llk,Papunesia,2,4.11,114.03
 lele1264,Lelemi,Atlantic-Congo,lef,Africa,0,7.35,0.51
 lele1265,Lele (Democratic Republic of Congo),Atlantic-Congo,lel,Africa,0,-4.95,20.57
@@ -4043,7 +4044,7 @@ liby1240,Libyan Arabic,Afro-Asiatic,ayl,Africa,4,22.00,15.00
 ligb1244,Ligbi,Mande,lig,Africa,6,7.94,-2.56
 lige1238,Ligenza,Atlantic-Congo,lgz,Africa,4,2.86,22.49
 ligh1234,Light Warlpiri,Mixed Language,,Australia,0,,
-ligu1248,Ligurian,Indo-European,lij,Eurasia,2,44.08,7.91
+ligu1248,Ligurian,Indo-European,lij,Eurasia,7,44.08,7.91
 lihi1237,Lihir,Austronesian,lih,Papunesia,0,-3.19,152.61
 liji1238,Lijili,Atlantic-Congo,mgi,Africa,0,8.52,8.36
 lika1243,Liko,Atlantic-Congo,lik,Africa,3,2.14,27.61
@@ -4073,7 +4074,7 @@ ling1271,Língua de sinais Fortalezinha,Sign Language,,South America,0,-0.63,-47
 ling1272,Língua de sinais de Caiçara,Sign Language,,South America,0,-6.77,-39.17
 ling1273,Língua de sinais do Uiramutã,Sign Language,,South America,0,4.60,-60.16
 lioo1240,Li'o,Austronesian,ljl,Papunesia,2,-8.69,121.83
-lipa1241,Lipan Apache,Athabaskan-Eyak-Tlingit,apl,North America,0,33.27,-105.82
+lipa1241,Lipan Apache,Athabaskan-Eyak-Tlingit,apl,North America,0,29.93,-98.94
 lipo1242,Lipo,Sino-Tibetan,lpo,Eurasia,0,25.23,101.30
 lisa1239,Lisabata-Nuniali,Austronesian,lcs,Papunesia,4,-2.87,128.26
 lise1239,Lisela,Austronesian,lcl,Papunesia,2,-3.27,126.98
@@ -4206,6 +4207,7 @@ lush1252,Northern Lushootseed,Salishan,lut,North America,2,48.42,-122.53
 lush1256,Dokshi,Afro-Asiatic,dsk,Africa,0,10.03,9.42
 lusi1235,Lusitanian,Indo-European,xls,Eurasia,0,39.94,-8.11
 lusi1240,Lusi,Austronesian,khl,Papunesia,1,-5.55,149.15
+lute1234,Lute,Heibanic,,Africa,0,11.43,30.10
 luto1241,Lutos,Central Sudanic,ndy,Africa,4,8.52,19.01
 luuu1242,Lü,Tai-Kadai,khb,Eurasia,3,21.03,101.28
 luva1239,Luvale,Atlantic-Congo,lue,Africa,0,-13.54,22.29
@@ -4489,7 +4491,7 @@ mara1266,Maratino,,,North America,0,24.34,-98.58
 mara1373,Maraghei,Indo-European,vmh,Eurasia,1,36.83,49.97
 mara1378,Marathi,Indo-European,mar,Eurasia,4,17.93,76.67
 mara1379,Maram Naga,Sino-Tibetan,nma,Eurasia,4,25.44,94.22
-mara1382,Mara Chin,Sino-Tibetan,mrh,Eurasia,2,22.11,93.04
+mara1382,Mara,Sino-Tibetan,mrh,Eurasia,2,22.11,93.04
 mara1385,Marra,Mangarrayi-Maran,mec,Australia,0,-14.79,134.87
 mara1386,Maranunggu,Western Daly,zmr,Australia,0,-13.68,130.12
 mara1392,Marama,Atlantic-Congo,lrm,Africa,0,0.19,34.49
@@ -4565,7 +4567,7 @@ masl1241,Maslam,Afro-Asiatic,msv,Africa,2,12.19,14.89
 masm1239,Masmaje,Afro-Asiatic,mes,Africa,0,13.08,19.28
 mass1262,Massalat,Maban,mdg,Africa,0,13.52,19.73
 mass1263,Massep,,mvs,Papunesia,0,-1.75,138.29
-mata1275,Matanawí,,,South America,0,-4.85,-58.99
+mata1275,Matanawí,,,South America,0,-8.84,-61.42
 mata1288,Matagalpa,Misumalpan,mtn,North America,0,13.03,-86.00
 mata1306,Matal,Afro-Asiatic,mfh,Africa,0,10.93,14.05
 matb1237,Matbat,Austronesian,xmt,Papunesia,0,-1.88,130.07
@@ -4619,7 +4621,7 @@ maza1296,Mazatlán Mazatec,Otomanguean,vmz,North America,2,18.08,-96.89
 maza1304,Mazagway,Afro-Asiatic,dkx,Africa,2,10.18,13.69
 maza1306,Maza,Sino-Tibetan,,Eurasia,0,23.55,105.52
 mbaa1245,Mba,Atlantic-Congo,mfc,Africa,0,1.07,25.14
-mbab1239,Mbabaram,Pama-Nyungan,vmb,Australia,0,-20.14,143.44
+mbab1239,Mbabaram,Pama-Nyungan,vmb,Australia,0,-17.42,145.38
 mbal1255,Central Wambo,Atlantic-Congo,lnb,Africa,3,-17.58,16.03
 mbal1257,Mbala,Atlantic-Congo,mdp,Africa,0,-5.12,18.04
 mban1262,Mbangi,Atlantic-Congo,mgn,Africa,0,4.70,22.06
@@ -4680,7 +4682,7 @@ meen1242,Me'en,Surmic,mym,Africa,2,6.63,35.63
 mefe1242,Mefele,Afro-Asiatic,mfj,Africa,4,10.68,13.82
 mega1243,Bangladesh Lyngam,Austroasiatic,mef,Eurasia,0,25.13,91.61
 megl1237,Megleno-Romanian,Indo-European,ruq,Eurasia,0,41.12,22.38
-mehe1242,Meherrin,Unclassifiable,,North America,0,,
+mehe1242,Meherrin,Unclassifiable,,North America,0,36.66,-77.58
 mehe1243,Mehek,Sepik,nux,Papunesia,0,-3.71,142.50
 mehe1245,Mehek Sign Language,Sign Language,,Papunesia,0,-3.73,142.51
 mehi1240,Mehináku,Arawakan,mmh,South America,0,-12.54,-53.52
@@ -4716,7 +4718,7 @@ mero1237,Meroitic,,xmr,Africa,0,16.93,33.73
 merr1239,Mer,Mairasic,mnu,Papunesia,0,-3.38,134.73
 meru1245,Meru,Atlantic-Congo,mer,Africa,6,0.26,37.74
 merw1238,Merwari,Indo-European,wry,Eurasia,0,26.77,74.09
-mesa1245,Mesaka,Atlantic-Congo,iyo,Africa,1,6.33,9.87
+mesa1245,Ugare,Atlantic-Congo,iyo,Africa,1,6.33,9.87
 mesc1238,Mescalero-Chiricahua Apache,Athabaskan-Eyak-Tlingit,apm,North America,0,33.13,-105.57
 mese1244,Mese,Nuclear Trans New Guinea,mci,Papunesia,3,-6.56,147.14
 mesk1242,Meskwaki,Algic,sac,North America,2,44.00,-89.00
@@ -4730,7 +4732,7 @@ metl1238,Metlatónoc Mixtec,Otomanguean,mxv,North America,0,17.19,-98.35
 mewa1249,Mewari,Indo-European,mtr,Eurasia,3,24.57,73.68
 mewa1250,Mewati,Indo-European,wtm,Eurasia,0,27.74,76.95
 mexi1237,Mexican Sign Language,Sign Language,mfs,North America,0,19.75,-98.50
-meya1236,Meyah,East Bird's Head,mej,Papunesia,0,-1.18,133.62
+meya1236,Meyah,East Bird's Head,mej,Papunesia,5,-1.18,133.62
 mezo1235,Mezontla Popoloca,Otomanguean,pbe,North America,0,18.14,-97.59
 mezq1235,Mezquital Otomi,Otomanguean,ote,North America,0,20.23,-99.56
 mfin1238,Mfinu,Atlantic-Congo,zmf,Africa,2,-4.27,16.26
@@ -4778,7 +4780,7 @@ mina1269,Minaveha,Austronesian,mvn,Papunesia,0,-9.60,150.50
 mina1274,Minanibai-Foia Foia,Anim,mcv,Papunesia,0,-7.62,144.01
 mina1276,Mina (Cameroon),Afro-Asiatic,hna,Africa,3,10.38,13.84
 mina1279,Minaean,Afro-Asiatic,inm,Eurasia,0,16.17,44.67
-minb1244,Min Bei Chinese,Sino-Tibetan,mnp,Eurasia,10,27.05,118.32
+minb1236,Min Bei Chinese,Sino-Tibetan,mnp,Eurasia,5,27.05,118.32
 mind1253,Min Dong Chinese,Sino-Tibetan,cdo,Eurasia,2,26.00,119.50
 mind1255,Mindiri,Austronesian,mpn,Papunesia,0,-5.50,146.15
 mind1263,Minderico,Indo-European,drc,Eurasia,0,39.51,-8.69
@@ -4789,7 +4791,7 @@ mini1251,Minigir,Austronesian,vmg,Papunesia,0,-4.32,152.00
 mini1253,Minidien,Nuclear Torricelli,wii,Papunesia,0,-3.59,142.33
 mini1256,Minica Huitoto,Huitotoan,hto,South America,0,-1.55,-73.11
 mink1237,Minkin,,xxm,Australia,0,-17.74,139.54
-minn1241,Min Nan Chinese,Sino-Tibetan,nan,Eurasia,23,24.50,118.17
+minn1241,Min Nan Chinese,Sino-Tibetan,nan,Eurasia,15,24.50,118.17
 mino1236,Minoan,Unclassifiable,omn,Eurasia,0,35.21,25.00
 mino1243,Minokok,Austronesian,mqq,Papunesia,0,5.43,116.76
 minr1238,Minriq,Austroasiatic,mnq,Eurasia,0,5.01,102.05
@@ -4931,7 +4933,7 @@ moru1253,Moru,Central Sudanic,mgd,Africa,7,5.12,30.33
 mose1249,Mosetén-Chimané,,cas,South America,3,-14.64,-67.84
 mosi1247,Akie,Nilotic,mwy,Africa,0,-5.43,37.19
 mosi1248,Mosimo,Nuclear Trans New Guinea,mqv,Papunesia,0,-4.95,145.60
-mosk1236,Moskona,East Bird's Head,mtj,Papunesia,0,-1.62,133.15
+mosk1236,Moskona,East Bird's Head,mtj,Papunesia,2,-1.62,133.15
 moss1236,Mossi,Atlantic-Congo,mos,Africa,7,11.95,-1.32
 mota1237,Mota,Austronesian,mtt,Papunesia,0,-13.84,167.69
 motl1237,Mwotlap,Austronesian,mlv,Papunesia,2,-13.66,167.71
@@ -4957,7 +4959,7 @@ mpot1240,Mpoto,Atlantic-Congo,mpa,Africa,0,-11.14,34.71
 mpot1241,Mpotovoro,Austronesian,mvt,Papunesia,0,-15.90,167.23
 mpra1235,Mpra,Atlantic-Congo,,Africa,0,8.87,-1.25
 mpuo1241,Mbuun,Atlantic-Congo,zmp,Africa,0,-5.21,19.43
-mpur1239,Mpur,,akc,Papunesia,2,-0.75,133.17
+mpur1239,Mpur,,akc,Papunesia,3,-0.75,133.17
 mroc1235,Mro Chin,Sino-Tibetan,cmr,Eurasia,0,19.71,94.00
 mruu1242,Mru,Sino-Tibetan,mro,Eurasia,0,21.47,92.32
 mser1242,Mser,Afro-Asiatic,kqx,Africa,5,11.98,15.04
@@ -5062,7 +5064,7 @@ nade1244,Nadëb,Naduhup,mbj,South America,3,-1.24,-66.31
 nafa1258,Nafanan,Atlantic-Congo,nfr,Africa,2,8.01,-2.51
 nafi1237,Nafi,Austronesian,srf,Papunesia,0,-6.43,146.81
 nafr1241,Nafri,Sentanic,nxx,Papunesia,0,-2.65,140.73
-nafu1238,Nafusi,Afro-Asiatic,jbn,Africa,0,33.44,9.83
+nafu1238,Nafusi,Afro-Asiatic,jbn,Africa,0,31.93,11.78
 naga1394,Naga Pidgin,Indo-European,nag,Eurasia,0,25.25,93.44
 naga1399,Nagarchal,Unattested,nbg,Eurasia,0,25.54,75.85
 nage1237,Nage,Austronesian,nxe,Papunesia,3,-8.71,121.31
@@ -5259,7 +5261,7 @@ ngan1291,Nganasan,Uralic,nio,Eurasia,4,73.14,86.21
 ngan1295,Ngandi,Gunwinyguan,nid,Australia,0,-12.84,134.65
 ngan1296,Nganyaywana,Pama-Nyungan,nyx,Australia,0,-29.58,151.31
 ngan1299,Ngangam,Atlantic-Congo,gng,Africa,2,10.25,0.71
-ngan1300,Ngandyera,Atlantic-Congo,nne,Africa,0,-16.64,21.19
+ngan1300,Ngandyera,Atlantic-Congo,nne,Africa,0,-17.92,15.09
 ngan1302,Ngando-Lalia,Atlantic-Congo,nxd,Africa,2,-0.14,22.62
 ngan1304,Ngando (Central African Republic),Atlantic-Congo,ngd,Africa,2,3.72,17.65
 ngar1235,Ngarinman,Pama-Nyungan,nbj,Australia,3,-15.47,130.65
@@ -5414,7 +5416,7 @@ nort1546,Northern Mashan Hmong,Hmong-Mien,hmp,Eurasia,0,25.77,106.53
 nort1550,Taos Northern Tiwa,Kiowa-Tanoan,twf,North America,1,36.43,-105.60
 nort1552,Northern East Cree,Algic,crl,North America,0,55.19,-77.75
 nort2626,Northern Frisian,Indo-European,frr,Eurasia,16,54.64,8.58
-nort2627,Eastern Low German,Indo-European,nds,Eurasia,10,53.12,12.39
+nort2627,Eastern Low German,Indo-European,nds,Eurasia,13,53.12,12.39
 nort2628,German Northern Low Saxon,Indo-European,frs,Eurasia,7,52.97,8.36
 nort2640,Northwestern Fars,Bookkeeping,faz,Eurasia,0,29.64,52.92
 nort2641,Northern Kurdish,Indo-European,kmr,Eurasia,28,37.00,43.00
@@ -5685,7 +5687,7 @@ odua1238,Odual,Atlantic-Congo,odu,Africa,2,4.83,6.41
 odut1238,Odut,Bookkeeping,oda,Africa,0,5.20,8.27
 oduu1239,O'du,Austroasiatic,tyh,Eurasia,0,19.35,104.11
 ofay1240,Ofayé,Nuclear-Macro-Je,opy,South America,0,-22.28,-53.72
-ofoo1242,Ofo,Siouan,ofo,North America,0,30.43,-91.75
+ofoo1242,Ofo,Siouan,ofo,North America,0,33.46,-90.77
 ogba1241,Ogbah,Atlantic-Congo,ogc,Africa,2,5.25,6.54
 ogbi1239,Ogbia,Atlantic-Congo,ogb,Africa,3,4.75,6.34
 ogbo1242,Ogbogolo,Atlantic-Congo,ogg,Africa,0,4.91,6.55
@@ -5715,7 +5717,8 @@ oldb1235,Old Burmese,Sino-Tibetan,obr,Eurasia,0,21.16,94.90
 oldb1247,Old Bangkok Sign Language,Sign Language,,Eurasia,0,13.75,100.49
 oldc1244,Old Chinese,Sino-Tibetan,och,Eurasia,2,36.12,114.32
 oldc1248,Old Cayman Sign Language,Sign Language,,North America,0,19.33,-81.22
-oldc1252,Old Cornish,Indo-European,oco,Eurasia,0,50.61,-4.34
+oldc1252,Old South-West British,Indo-European,oco,Eurasia,2,50.61,-4.34
+oldc1255,Old Cham,Austronesian,ocm,Eurasia,0,15.82,108.23
 oldd1237,Old Dutch-Old Frankish,Indo-European,odt,Eurasia,2,52.16,5.20
 olde1238,Old English (ca. 450-1100),Indo-European,ang,Eurasia,5,51.06,-1.31
 olde1239,Older Runic,Indo-European,,Eurasia,0,55.27,10.38
@@ -5793,7 +5796,7 @@ orao1237,Oraon Sadri,Indo-European,sdr,Eurasia,4,24.75,88.92
 orej1242,Maijiki,Tucanoan,ore,South America,3,-2.86,-72.49
 orig1234,Original Costa Rican Sign Language,Sign Language,,North America,0,9.94,-84.01
 orin1239,Oring,Atlantic-Congo,org,Africa,3,6.69,8.12
-oriy1255,Odia,Indo-European,ory,Eurasia,7,21.00,85.00
+oriy1255,Odia,Indo-European,ory,Eurasia,6,21.00,85.00
 oriz1235,Orizaba Nahuatl,Uto-Aztecan,nlv,North America,1,18.64,-96.98
 orko1234,Orkon-Fanbak,Austronesian,fnb,Papunesia,0,-16.21,168.21
 orma1241,Orma,Afro-Asiatic,orc,Africa,3,-1.79,39.61
@@ -5827,6 +5830,7 @@ otor1240,Otoro,Heibanic,otr,Africa,4,11.12,30.57
 otta1242,Ottawa,Algic,otw,North America,0,44.60,-83.23
 otuh1238,Otuho,Nilotic,lot,Africa,6,4.16,32.66
 otuk1240,Otuke,Bororoan,otu,South America,0,-15.27,-59.70
+ouji1238,Wenzhou,Sino-Tibetan,,Eurasia,0,27.94,120.63
 ouma1237,Ouma,Austronesian,oum,Papunesia,0,-10.23,149.10
 oung1238,!O!ung,Bookkeeping,oun,Africa,0,-15.30,14.35
 oung1239,Ounge,South Bougainville,oue,Papunesia,0,-6.36,155.71
@@ -5904,7 +5908,7 @@ pamp1243,Pampanga,Austronesian,pam,Papunesia,0,14.96,120.50
 pamp1244,Pamplona Atta,Austronesian,att,Papunesia,0,18.47,121.30
 pamu1240,Pamunkey,Unclassifiable,,North America,0,,
 pana1292,Panang,Bookkeeping,pcr,Eurasia,0,30.73,86.83
-pana1293,Pana (Central African Republic),Atlantic-Congo,pnz,Africa,4,8.72,13.60
+pana1293,Pana (Central African Republic),Atlantic-Congo,pnz,Africa,4,7.10,15.64
 pana1295,Pana (Burkina Faso),Atlantic-Congo,pnq,Africa,2,13.35,-3.37
 pana1298,Panawa,Atlantic-Congo,pwb,Africa,0,10.01,8.99
 pana1303,Panasuan,Austronesian,psn,Papunesia,0,-2.24,119.65
@@ -6058,7 +6062,7 @@ phry1239,Phrygian,Indo-European,xpg,Eurasia,1,39.61,31.28
 phua1239,Phuan,Tai-Kadai,phu,Eurasia,0,17.52,102.19
 phud1238,Phudagi,Indo-European,phd,Eurasia,0,18.72,73.37
 phui1238,Phuie,Atlantic-Congo,pug,Africa,0,11.02,-3.47
-phuk1235,Phukha,Sino-Tibetan,phh,Eurasia,0,25.53,106.15
+phuk1235,Phukha,Sino-Tibetan,phh,Eurasia,0,22.27,104.42
 phum1235,Phuma,Sino-Tibetan,ypm,Eurasia,0,23.10,104.05
 phun1245,Phunoi,Sino-Tibetan,pho,Eurasia,5,20.80,100.96
 phuo1238,Phuong,Austroasiatic,phg,Eurasia,0,16.21,107.47
@@ -6217,7 +6221,7 @@ puno1238,Puno Quechua,Quechuan,qxp,South America,1,-14.61,-70.21
 punu1239,Punu,Atlantic-Congo,puu,Africa,0,-2.67,11.67
 puoc1238,Ksingmul,Austroasiatic,puo,Eurasia,0,20.89,103.93
 puqu1242,Puquina,,puq,South America,0,-15.90,-69.96
-pura1253,Puragi,South Bird's Head Family,pru,Papunesia,0,-2.06,132.30
+pura1253,Puragi,South Bird's Head,pru,Papunesia,0,-2.06,132.30
 pura1257,Purari,,iar,Papunesia,1,-7.59,145.04
 pure1242,Purepecha,Tarascan,tsz,North America,7,19.25,-101.63
 puri1258,Purik-Sham-Nubra,Sino-Tibetan,prx,Eurasia,4,34.34,76.01
@@ -6289,7 +6293,7 @@ rakh1245,Rakhine,Sino-Tibetan,rki,Eurasia,0,20.53,93.15
 ralt1242,Ralte,Sino-Tibetan,ral,Eurasia,0,25.02,94.74
 rama1270,Rama,Chibchan,rma,North America,0,11.50,-83.86
 rama1271,Ramanos,,,South America,0,-14.30,-67.36
-ramo1244,Ramoaaina,Austronesian,rai,Papunesia,3,-4.17,152.45
+ramo1244,Ramoaaina,Austronesian,rai,Papunesia,2,-4.17,152.45
 ramo1245,Ramopa,North Bougainville,kjx,Papunesia,0,-5.97,154.90
 ramp1243,Rampi,Austronesian,lje,Papunesia,2,-2.14,120.36
 rana1246,Rana Tharu,Indo-European,thr,Eurasia,0,28.65,80.44
@@ -6409,7 +6413,7 @@ russ1255,Russian-Tajik Sign Language,Sign Language,rsl,Eurasia,3,56.00,44.00
 russ1263,Russian,Indo-European,rus,Eurasia,14,59.00,50.00
 russ1264,Russia Buriat,Mongolic-Khitan,bxr,Eurasia,9,50.85,105.56
 russ1267,Russenorsk,Pidgin,,Eurasia,0,70.66,23.68
-rusy1239,Rusyn,Indo-European,rue,Eurasia,5,48.72,22.96
+rusy1239,Rusyn,Indo-European,rue,Eurasia,6,48.72,22.96
 rutu1240,Rutul,Nakh-Daghestanian,rut,Eurasia,3,41.62,47.32
 ruul1235,Ruuli,Atlantic-Congo,ruc,Africa,2,1.42,32.42
 ruun1238,Ruund,Atlantic-Congo,rnd,Africa,4,-8.87,21.42
@@ -6486,7 +6490,7 @@ samb1311,Sama Mum,Atlantic-Congo,ccg,Africa,5,8.07,11.71
 samb1315,Samburu,Nilotic,saq,Africa,1,1.61,37.05
 samb1321,Samberigi,Nuclear Trans New Guinea,ssx,Papunesia,0,-6.70,143.95
 samb1325,Sambalpuri,Indo-European,spv,Eurasia,0,21.22,83.93
-same1240,Samei,Sino-Tibetan,smh,Eurasia,0,24.79,99.92
+same1240,Samei,Sino-Tibetan,smh,Eurasia,0,25.08,103.01
 samm1244,Sam,Nuclear Trans New Guinea,snx,Papunesia,0,-5.56,145.81
 samo1303,Samo,East Strickland,smq,Papunesia,0,-6.15,142.19
 samo1305,Samoan,Austronesian,smo,Papunesia,0,-13.92,-171.83
@@ -6542,7 +6546,7 @@ sanm1298,San Martín Itunyoso Triqui,Otomanguean,trq,North America,0,17.24,-97.9
 sanm1301,San Marcos Tlalcoyalco Popoloca,Otomanguean,pls,North America,0,18.74,-97.59
 sanp1260,San Pedro Amuzgos Amuzgo,Otomanguean,azg,North America,0,16.52,-98.05
 sanp1261,San Pedro Quiatoni Zapotec,Otomanguean,zpf,North America,0,16.76,-96.09
-sanq1234,Sanqiao,Hmong-Mien,,Eurasia,0,,
+sanq1234,Sanqiao,Hmong-Mien,,Eurasia,0,26.44,108.88
 sans1265,Sansimoniano,Unclassifiable,,South America,0,,
 sans1269,Sanskrit,Indo-European,san,Eurasia,2,20.00,77.00
 sans1271,Sansi,Indo-European,ssi,Eurasia,1,28.74,72.68
@@ -6724,6 +6728,7 @@ shan1278,Shang,Atlantic-Congo,,Africa,0,9.45,7.86
 shan1282,Shanga,Mande,sho,Africa,0,11.28,4.41
 shan1283,Shanenawa,Pano-Tacanan,swo,South America,0,-8.01,-73.33
 shan1291,Shanjo,Atlantic-Congo,,Africa,0,-17.31,25.81
+shao1234,Shaojiang Chinese,Sino-Tibetan,sjc,Eurasia,3,27.19,117.49
 shar1244,Ngen,Austronesian,ssv,Papunesia,0,-15.26,167.14
 shar1245,Sharanahua,Pano-Tacanan,mcd,South America,4,-9.86,-71.12
 shar1249,Sharwa,Afro-Asiatic,swq,Africa,0,10.14,13.57
@@ -6830,7 +6835,7 @@ sind1280,Sindang Kelingi,Bookkeeping,sdi,,0,,
 sind1281,Sindarin,Artificial Language,sjn,Eurasia,0,,
 sing1237,Singapore Sign Language,Bookkeeping,sls,Eurasia,0,1.33,103.86
 sing1264,Northern Jinghpaw,Sino-Tibetan,sgp,Eurasia,6,27.30,95.61
-sing1266,Singa,Atlantic-Congo,sgm,Africa,0,-0.25,33.90
+sing1266,Singa,Atlantic-Congo,sgm,Africa,0,-0.40,34.18
 sinh1246,Sinhala,Indo-European,sin,Eurasia,1,8.00,81.00
 sini1242,Sininkere,Mande,skq,Africa,0,13.72,-0.79
 sini1243,Sinicahua Mixtec,Otomanguean,xti,North America,0,17.22,-97.59
@@ -6904,7 +6909,7 @@ sons1242,Sonsorol,Austronesian,sov,Papunesia,2,5.33,132.22
 sooo1254,Sô,Austroasiatic,sss,Eurasia,4,16.91,105.00
 sooo1256,Soo,Kuliak,teu,Africa,0,2.58,34.76
 sopp1247,Sop,Nuclear Trans New Guinea,urw,Papunesia,0,-5.50,145.36
-soqo1240,Soqotri,Afro-Asiatic,sqt,Africa,7,12.49,53.92
+soqo1240,Soqotri,Afro-Asiatic,sqt,Eurasia,7,12.49,53.92
 sora1254,Sora,Austroasiatic,srb,Eurasia,0,19.12,84.19
 sorb1250,Sorbung,Sino-Tibetan,,Eurasia,0,24.75,94.32
 sori1242,Sori-Harengan,Austronesian,sbh,Papunesia,2,-1.98,146.64
@@ -6922,7 +6927,7 @@ sout1555,Southern Guiyang Hmong,Hmong-Mien,hmy,Eurasia,0,26.39,106.48
 sout1556,Southern Mashan Hmong,Hmong-Mien,hma,Eurasia,0,25.34,106.31
 sout2466,South-Arabian-Unknown-k,Unclassifiable,,Eurasia,0,,
 sout2640,Southern Kurdish,Indo-European,sdh,Eurasia,13,32.90,46.60
-sout2642,Southern Balochi,Indo-European,bcc,Eurasia,9,26.00,64.00
+sout2642,Southern Balochi,Indo-European,bcc,Eurasia,7,26.00,64.00
 sout2645,Fars Dialects,Indo-European,fay,Eurasia,10,29.75,52.27
 sout2647,Southern Luri,Indo-European,luz,Eurasia,5,30.47,50.84
 sout2649,Southern Pashto,Indo-European,pbt,Eurasia,4,31.50,65.70
@@ -7049,6 +7054,7 @@ sout3305,South Rupununi Sign,Sign Language,,South America,0,3.86,-59.05
 sout3319,Southern Akhvakh,Nakh-Daghestanian,,Eurasia,3,42.42,46.45
 sout3391,Southwestern Tasmanian,Western Tasmanian,xpx,Australia,0,-43.41,146.06
 sout3410,South Sudanese Sign Language,Sign Language,,Africa,0,4.86,31.57
+sout3425,South Kamrau,Nuclear Trans New Guinea,,Papunesia,0,-3.63,133.45
 souu1238,Sou,Austroasiatic,sqq,Eurasia,0,14.69,106.54
 sowa1244,Sowa,Austronesian,sww,Papunesia,0,-15.83,168.19
 sowa1245,Sowanda,Border,sow,Papunesia,0,-3.28,140.92
@@ -7071,7 +7077,7 @@ stan1318,Standard Arabic,Afro-Asiatic,arb,Eurasia,2,27.96,43.85
 stod1241,Stod Bhoti,Sino-Tibetan,sbu,Eurasia,3,32.50,77.12
 ston1242,Stoney,Siouan,sto,North America,2,51.19,-114.98
 stra1244,Northern Straits Salish,Salishan,str,North America,8,48.52,-123.76
-suab1238,Suabo,Inanwatan,szp,Papunesia,0,-2.08,132.16
+suab1238,Suabo,South Bird's Head,szp,Papunesia,0,-2.08,132.16
 suan1234,Suansu,Sino-Tibetan,,Eurasia,0,25.43,94.58
 suar1238,Asabano,,seo,Papunesia,0,-4.95,141.98
 suau1242,Suau,Austronesian,swp,Papunesia,7,-10.66,150.21
@@ -7297,7 +7303,7 @@ tarp1240,Tarpia,Austronesian,tpf,Papunesia,0,-2.32,140.12
 tarp1241,Sufrai,Bookkeeping,suf,,0,,
 tart1237,Tartessian,Unclassifiable,txr,Eurasia,0,37.24,-8.12
 taru1236,Taruma,,tdm,South America,0,1.67,-58.65
-tasa1240,Tasawaq,Songhay,twq,Africa,0,16.78,6.92
+tasa1240,Tasawaq,Songhay,twq,Africa,2,16.78,6.92
 tase1235,Pangwa Naga,Sino-Tibetan,nst,Eurasia,26,27.26,96.39
 tasm1246,Tasmate,Austronesian,tmt,Papunesia,0,-15.08,166.66
 tasm1247,Tasmanian,Bookkeeping,xtz,Australia,0,,
@@ -7391,7 +7397,7 @@ teoj1234,Teojomulco Chatino,Otomanguean,,North America,0,16.59,-97.22
 teop1238,Teop,Austronesian,tio,Papunesia,5,-5.67,154.97
 teor1240,Teor,Austronesian,tev,Papunesia,2,-4.74,131.74
 tepa1234,Te Parau Tinito,Pidgin,,Papunesia,0,-17.68,-149.41
-tepe1278,Tepecano,Uto-Aztecan,tep,North America,0,19.23,-101.73
+tepe1278,Tepecano,Uto-Aztecan,tep,North America,0,22.04,-103.74
 tepe1279,Tepetotutla Chinantec,Otomanguean,cnt,North America,0,17.71,-96.54
 tepe1280,Tepeuxila Cuicatec,Otomanguean,cux,North America,1,17.76,-96.79
 tepi1241,Tepinapa Chinantec,Otomanguean,cte,North America,0,17.67,-96.14
@@ -7658,7 +7664,7 @@ tswa1255,Tswa,Atlantic-Congo,tsc,Africa,5,-22.99,32.43
 tual1242,Tualatin-Yamhill,Kalapuyan,nrt,North America,0,45.33,-122.95
 tuam1242,Tuamotuan,Austronesian,pmt,Papunesia,7,-16.17,-146.32
 tuba1278,Tübatulabal,Uto-Aztecan,tub,North America,0,35.33,-117.16
-tuba1279,Tubar,Uto-Aztecan,tbu,North America,0,30.00,-111.00
+tuba1279,Tubar,Uto-Aztecan,tbu,North America,0,27.00,-107.99
 tuca1252,Tucano,Tucanoan,tuo,South America,2,0.58,-69.58
 tuge1241,Tugen,Nilotic,tuy,Africa,0,0.67,35.85
 tugu1245,Tugun,Austronesian,tzn,Papunesia,6,-7.73,126.70
@@ -7715,7 +7721,7 @@ turk1310,Turks And Caicos Creole English,Indo-European,tch,North America,0,21.81
 turo1239,Turoyo,Afro-Asiatic,tru,Eurasia,6,37.23,42.15
 turu1249,Turung,Tai-Kadai,try,Eurasia,0,26.34,92.27
 turu1250,Turumsa,Doso-Turumsa,tqm,Papunesia,0,-7.93,142.57
-tusc1257,Tuscarora,Iroquoian,tus,North America,0,43.13,-79.42
+tusc1257,Tuscarora,Iroquoian,tus,North America,0,35.75,-77.60
 tush1243,Tushan Names,Bookkeeping,,Eurasia,0,,
 tute1247,Tutelo,Siouan,tta,North America,0,37.67,-78.75
 tuto1241,Tutong,Austronesian,ttg,Papunesia,0,4.74,114.64
@@ -7903,6 +7909,7 @@ vama1243,Vamale,Austronesian,mkt,Papunesia,2,-20.77,165.04
 vame1236,Vame,Afro-Asiatic,mlr,Africa,5,10.95,14.21
 vang1243,Vangunu,Austronesian,mpr,Papunesia,2,-8.67,158.00
 vani1248,Vanimo,Sko,vam,Papunesia,2,-2.69,141.26
+vann1244,Vannetais,Indo-European,,Eurasia,0,47.77,-3.08
 vano1237,Lovono,Austronesian,vnk,Papunesia,0,-11.61,166.80
 vanu1242,Vanuma,Atlantic-Congo,vau,Africa,0,0.94,29.81
 vaoo1237,Vao-Vovo,Austronesian,vao,Papunesia,0,-15.90,167.31
@@ -7928,7 +7935,7 @@ vere1252,Vere Kaadam,Atlantic-Congo,,Africa,4,9.01,12.42
 vidu1238,Vidunda,Atlantic-Congo,vid,Africa,0,-7.53,36.93
 viem1243,Viemo,Atlantic-Congo,vig,Africa,0,10.84,-3.84
 viet1252,Vietnamese,Austroasiatic,vie,Eurasia,3,20.68,105.77
-vile1241,Vilela,,vil,South America,0,-27.41,-58.97
+vile1241,Vilela,,vil,South America,0,-24.92,-62.52
 vili1238,Vili,Atlantic-Congo,vif,Africa,2,-4.07,11.38
 vili1239,Vili of Ngounie,Atlantic-Congo,,Africa,0,-2.75,10.31
 vill1242,Villa Viciosa Agta,Unattested,dyg,Papunesia,0,17.47,120.64
@@ -7955,7 +7962,7 @@ vute1244,Vute,Atlantic-Congo,vut,Africa,8,6.14,11.88
 vwan1235,Vwanji,Atlantic-Congo,wbi,Africa,0,-9.01,34.08
 waam1236,Waamwang,Austronesian,wmn,Papunesia,0,-20.50,164.41
 waam1244,Waama,Atlantic-Congo,wwa,Africa,2,10.60,1.65
-waat1238,Waata,Afro-Asiatic,ssn,Africa,0,0.56,37.86
+waat1238,Waata,Afro-Asiatic,ssn,Africa,0,-3.25,40.04
 wabb1237,Wab,Austronesian,wab,Papunesia,0,-5.61,146.46
 wabo1240,Wabo,Austronesian,wbb,Papunesia,0,-1.77,136.76
 wabo1241,Waboda,Kiwaian,kmx,Papunesia,0,-8.42,143.50
@@ -7978,7 +7985,7 @@ wagu1234,Wagu,Sepik,,Papunesia,0,-4.38,142.73
 waha1238,Eastern Lowland Kenyah,Austronesian,whk,Papunesia,1,1.57,116.66
 waha1239,Wahau Kayan,Bookkeeping,whu,Papunesia,0,1.42,116.68
 waig1243,Nuristani Kalasha,Indo-European,wbk,Eurasia,3,35.19,70.99
-waig1244,Waigeo,Austronesian,wgo,Papunesia,2,-0.18,130.92
+waig1244,Ambel,Austronesian,wgo,Papunesia,2,-0.18,130.92
 wail1242,Ale,Austronesian,wlr,Papunesia,0,-15.57,166.90
 wail1244,Eel River Athabaskan,Athabaskan-Eyak-Tlingit,wlk,North America,4,39.15,-123.28
 waim1251,Waima,Austronesian,rro,Papunesia,3,-8.67,146.54
@@ -8126,7 +8133,7 @@ west1511,Ozumatlán Totonac,Totonacan,tqt,North America,0,20.46,-97.95
 west2354,Western Frisian,Indo-European,fry,Eurasia,3,53.14,5.86
 west2356,Westphalic,Indo-European,wep,Eurasia,15,51.46,7.50
 west2361,Western Yiddish,Indo-European,yih,Eurasia,3,51.69,12.26
-west2368,Western Balochi,Indo-European,bgn,Eurasia,9,37.83,62.17
+west2368,Western Balochi,Indo-European,bgn,Eurasia,11,29.50,66.03
 west2369,Western Farsi,Indo-European,pes,Eurasia,63,32.90,53.30
 west2386,Western Panjabi,Indo-European,pnb,Eurasia,3,30.09,75.35
 west2392,Western Mari,Uralic,mrj,Eurasia,2,56.22,46.57
@@ -8243,7 +8250,7 @@ worr1237,Worrorra,Worrorran,wro,Australia,2,-15.61,124.88
 wota1240,Wotapuri-Katarqalai,Indo-European,wsv,Eurasia,0,34.96,71.09
 wotu1240,Wotu,Austronesian,wtw,Papunesia,0,-2.60,120.90
 woun1238,Woun Meu,Chocoan,noa,South America,0,8.50,-78.00
-wuch1236,Wu Chinese,Sino-Tibetan,wuu,Eurasia,29,29.86,119.68
+wuch1236,Wu Chinese,Sino-Tibetan,wuu,Eurasia,28,29.86,119.68
 wudi1238,Wuding-Luquan Yi,Sino-Tibetan,ywq,Eurasia,3,25.48,102.48
 wudu1238,Wudu,Atlantic-Congo,wud,Africa,2,7.58,1.54
 wuii1234,Wui,Sino-Tibetan,,Eurasia,0,26.04,95.07
@@ -8294,7 +8301,7 @@ xing1248,Xingú Asuriní,Tupian,asn,South America,0,-4.13,-52.32
 xink1235,Xinka-Jumaytepeque,Xincan,,North America,0,14.34,-90.26
 xion1234,Xiong-Nu,Unclassifiable,,Eurasia,0,44.61,103.39
 xipa1240,Xipaya,Tupian,xiy,South America,0,-4.13,-49.95
-xipi1238,Xipináwa,Unattested,xip,South America,0,-8.75,-68.83
+xipi1238,Xipináwa,Unattested,xip,South America,0,-8.22,-72.39
 xiri1242,Xiri,Khoe-Kwadi,xii,Africa,0,-32.73,18.63
 xiri1243,Xiriâna,Arawakan,xir,South America,0,0.84,-63.45
 xish1235,Xishanba Lalo,Sino-Tibetan,ywt,Eurasia,0,24.87,100.71
@@ -8348,7 +8355,7 @@ yamb1251,Yamba,Atlantic-Congo,yam,Africa,5,6.54,11.08
 yamb1252,Yambeta,Atlantic-Congo,yat,Africa,2,4.84,10.94
 yamb1254,Yambes,Nuclear Torricelli,ymb,Papunesia,2,-3.51,142.76
 yamb1255,Yambe,Atlantic-Congo,,Africa,0,1.90,17.11
-yamb1257,Yamben,Nuclear Trans New Guinea,,Papunesia,0,-4.77,145.57
+yamb1257,Yamben,Nuclear Trans New Guinea,ynb,Papunesia,0,-4.77,145.57
 yamd1240,Yamdena,Austronesian,jmd,Papunesia,2,-7.74,131.44
 yame1242,Yameo,Peba-Yagua,yme,South America,0,-4.17,-73.67
 yami1254,Yami,Austronesian,tao,Papunesia,0,22.05,121.54
@@ -8516,7 +8523,7 @@ yucu1250,Yucuañe Mixtec,Otomanguean,mvg,North America,0,17.28,-97.43
 yucu1253,Yucuna,Arawakan,ycn,South America,2,-0.76,-71.00
 yucu1254,Yucunicoco Mixtec,Otomanguean,,North America,0,17.24,-97.92
 yuec1235,Yue Chinese,Sino-Tibetan,yue,Eurasia,22,23.00,113.00
-yuga1244,Yugambal,Pama-Nyungan,yub,Australia,0,-27.80,153.08
+yuga1244,Yugambal,Pama-Nyungan,yub,Australia,0,-29.55,151.08
 yugh1239,Yugh,Yeniseian,yug,Eurasia,0,60.88,89.75
 yugh1240,Yugh (Retired),Bookkeeping,yuu,Eurasia,0,60.88,89.75
 yugo1238,Yugoslavian Sign Language,Sign Language,ysl,Eurasia,0,45.39,17.52
@@ -8557,7 +8564,7 @@ zapa1253,Záparo,Zaparoan,zro,South America,0,-2.00,-76.36
 zara1247,Zaramo,Atlantic-Congo,zaj,Africa,0,-6.88,38.93
 zara1252,Bu (Zaranda),Afro-Asiatic,zbu,Africa,0,10.28,9.57
 zari1242,Zari,Afro-Asiatic,zaz,Africa,2,9.71,9.40
-zarm1239,Zarma,Songhay,dje,Africa,4,12.86,2.41
+zarm1239,Zarma-Kaado,Songhay,dje,Africa,7,12.86,2.41
 zarp1238,Zarphatic,Bookkeeping,zrp,Eurasia,0,45.56,4.39
 zauz1238,Zauzou,Sino-Tibetan,zal,Eurasia,2,26.46,98.86
 zaye1235,Lahta-Zayein Karen,Sino-Tibetan,kxk,Eurasia,0,20.16,96.91

@@ -66,3 +66,4 @@ for _ in range(87):
 # print(df_all)
 
 df_all.to_csv("./data/glottolog_languages.csv", index=False)
+print(f"Wrote {len(df_all)} languages to ./data/glottolog_languages.csv")
