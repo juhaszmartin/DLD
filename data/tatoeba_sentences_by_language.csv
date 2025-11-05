@@ -1,162 +1,162 @@
 ISO 639-3,Language,Sentences
-eng,English,"2,005,284"
-rus,Russian,"1,162,342"
-ita,Italian,"947,270"
-epo,Esperanto,"800,235"
-kab,Kabyle,"774,864"
-tur,Turkish,"742,079"
-deu,German,"738,888"
-fra,French,"699,245"
-ber,Berber,"695,106"
-por,Portuguese,"438,325"
-spa,Spanish,"426,188"
-hun,Hungarian,"424,884"
-jpn,Japanese,"247,745"
-heb,Hebrew,"210,166"
-nld,Dutch,"194,520"
-ukr,Ukrainian,"187,769"
-fin,Finnish,"152,634"
-lit,Lithuanian,"138,954"
-pol,Polish,"133,575"
-ces,Czech,"85,049"
-mar,Marathi,"80,205"
-cmn,Mandarin Chinese,"80,110"
-mkd,Macedonian,"78,256"
-tgl,Tagalog,"76,797"
-tok,Toki Pona,"69,428"
-ara,Arabic,"67,183"
-dan,Danish,"66,005"
-tat,Tatar,"59,281"
-swe,Swedish,"56,964"
-lat,Latin,"53,042"
-srp,Serbian,"50,826"
-tig,Tigre,"46,560"
-hye,Eastern Armenian,"43,597"
-ell,Greek,"40,894"
-ina,Interlingua,"39,953"
-ron,Romanian,"37,548"
-lfn,Lingua Franca Nova,"36,596"
-tlh,Klingon,"35,419"
-pes,Persian,"31,581"
-vie,Vietnamese,"28,537"
-slk,Slovak,"28,387"
-ind,Indonesian,"26,202"
-bul,Bulgarian,"25,437"
-yid,Yiddish,"25,225"
-swc,Congo Swahili,"23,824"
-oci,Occitan,"23,408"
-shi,Tashelhit,"22,512"
-hau,Hausa,"21,824"
-zgh,Standard Moroccan Tamazight,"20,647"
-yue,Cantonese,"20,112"
-nds,Low German (Low Saxon),"18,230"
-nob,Norwegian Bokmål,"18,043"
-jbo,Lojban,"17,164"
-ben,Bengali,"15,810"
-hin,Hindi,"15,673"
-asm,Assamese,"14,682"
-kor,Korean,"14,437"
-bel,Belarusian,"14,313"
-nnb,Nande,"14,226"
-ido,Ido,"13,801"
-lvs,Latvian,"13,434"
-isl,Icelandic,"13,392"
-ckb,Central Kurdish (Soranî),"12,600"
-nno,Norwegian Nynorsk,"12,412"
-ile,Interlingue,"12,333"
-aze,Azerbaijani,"11,859"
-gos,Gronings,"11,139"
-kmr,Northern Kurdish (Kurmancî),"10,286"
-cat,Catalan,"10,243"
-bre,Breton,"7,999"
-uig,Uyghur,"7,976"
-zsm,Malay,"7,563"
-oss,Ossetian,"7,382"
-glg,Galician,"7,347"
-kat,Georgian,"7,186"
-tuk,Turkmen,"7,122"
-tha,Thai,"6,831"
-vol,Volapük,"6,496"
-eus,Basque,"6,367"
-sat,Santali,"6,278"
-est,Estonian,"6,163"
-hrv,Croatian,"6,020"
-kzj,Coastal Kadazan,"5,576"
-run,Kirundi,"5,305"
-prg,Old Prussian,"5,303"
-udm,Udmurt,"4,902"
-lin,Lingala,"4,781"
-wuu,Shanghainese,"4,769"
-afr,Afrikaans,"4,654"
-swh,Swahili,"4,569"
-npi,Nepali,"4,502"
-kaz,Kazakh,"4,409"
-mhr,Meadow Mari,"4,363"
-avk,Kotava,"4,104"
-tir,Tigrinya,"4,007"
-cor,Cornish,"3,950"
-rhg,Rohingya,"3,856"
-knc,Central Kanuri,"3,800"
-slv,Slovenian,"3,523"
-grn,Guarani,"3,367"
-cbk,Chavacano,"3,116"
-frr,North Frisian,"3,083"
-dtp,Central Dusun,"3,057"
-gle,Irish,"3,034"
-mon,Mongolian,"2,791"
-urd,Urdu,"2,780"
-nus,Nuer,"2,702"
-sqi,Albanian,"2,609"
-ota,Ottoman Turkish,"2,543"
-ilo,Ilocano,"2,466"
-khm,Khmer,"2,463"
-hrx,Hunsrik,"2,444"
-arq,Algerian Arabic,"2,422"
-hoc,Ho,"2,410"
-war,Waray,"2,387"
-kha,Khasi,"2,374"
-zlm,Malay (Vernacular),"2,268"
-gcf,Guadeloupean Creole French,"2,123"
-lad,Ladino,"2,028"
-rif,Tarifit,"2,006"
-swg,Swabian,"1,990"
-lij,Ligurian,"1,960"
-lzh,Literary Chinese,"1,879"
-xmf,Mingrelian,"1,869"
-cym,Welsh,"1,784"
-zza,Zaza,"1,757"
-bos,Bosnian,"1,742"
-grc,Ancient Greek,"1,730"
-chv,Chuvash,"1,709"
-ceb,Cebuano,"1,706"
-dsb,Lower Sorbian,"1,573"
-alt,Southern Altai,"1,562"
-hsb,Upper Sorbian,"1,554"
-pam,Kapampangan,"1,482"
-arz,Egyptian Arabic,"1,451"
-jav,Javanese,"1,434"
-unknown,unknown,"1,403"
-pcd,Picard,"1,351"
-orv,Old East Slavic,"1,312"
-uzb,Uzbek,"1,192"
-gla,Scottish Gaelic,"1,097"
-bua,Buryat,"1,062"
-sdh,Southern Kurdish,"1,050"
-rom,Romani,"1,042"
-ltz,Luxembourgish,"1,036"
-sah,Yakut,"1,005"
+eng,English,2006384
+rus,Russian,1163926
+ita,Italian,947852
+epo,Esperanto,800924
+kab,Kabyle,775293
+tur,Turkish,742319
+deu,German,739795
+fra,French,700295
+ber,Berber,695111
+por,Portuguese,438359
+spa,Spanish,426868
+hun,Hungarian,425189
+jpn,Japanese,248204
+heb,Hebrew,210243
+nld,Dutch,194617
+ukr,Ukrainian,187781
+fin,Finnish,152636
+lit,Lithuanian,139773
+pol,Polish,133594
+ces,Czech,85093
+cmn,Mandarin Chinese,81182
+mar,Marathi,80207
+mkd,Macedonian,78256
+tgl,Tagalog,76797
+tok,Toki Pona,69627
+ara,Arabic,67184
+dan,Danish,66011
+tat,Tatar,61509
+swe,Swedish,56964
+lat,Latin,53093
+srp,Serbian,50826
+tig,Tigre,47586
+hye,Eastern Armenian,44091
+ell,Greek,40908
+ina,Interlingua,39960
+ron,Romanian,37584
+lfn,Lingua Franca Nova,36606
+tlh,Klingon,35650
+pes,Persian,31585
+vie,Vietnamese,28558
+slk,Slovak,28476
+ind,Indonesian,26204
+bul,Bulgarian,25437
+yid,Yiddish,25343
+swc,Congo Swahili,23824
+oci,Occitan,23456
+shi,Tashelhit,22649
+hau,Hausa,21824
+zgh,Standard Moroccan Tamazight,20653
+yue,Cantonese,20112
+nds,Low German (Low Saxon),18230
+nob,Norwegian Bokmål,18049
+jbo,Lojban,17164
+ben,Bengali,15810
+hin,Hindi,15673
+kor,Korean,14779
+asm,Assamese,14682
+bel,Belarusian,14313
+nnb,Nande,14226
+ido,Ido,13801
+lvs,Latvian,13443
+isl,Icelandic,13389
+ckb,Central Kurdish (Soranî),12600
+nno,Norwegian Nynorsk,12412
+ile,Interlingue,12333
+aze,Azerbaijani,11864
+gos,Gronings,11157
+kmr,Northern Kurdish (Kurmancî),10338
+cat,Catalan,10260
+bre,Breton,7999
+uig,Uyghur,7981
+zsm,Malay,7563
+oss,Ossetian,7382
+glg,Galician,7365
+kat,Georgian,7186
+tuk,Turkmen,7147
+tha,Thai,6831
+vol,Volapük,6496
+eus,Basque,6367
+sat,Santali,6278
+est,Estonian,6163
+hrv,Croatian,6020
+kzj,Coastal Kadazan,5576
+prg,Old Prussian,5443
+run,Kirundi,5305
+udm,Udmurt,4902
+lin,Lingala,4781
+wuu,Shanghainese,4769
+afr,Afrikaans,4654
+swh,Swahili,4569
+npi,Nepali,4502
+kaz,Kazakh,4436
+mhr,Meadow Mari,4363
+avk,Kotava,4104
+tir,Tigrinya,4007
+cor,Cornish,3950
+rhg,Rohingya,3856
+knc,Central Kanuri,3800
+slv,Slovenian,3533
+grn,Guarani,3367
+cbk,Chavacano,3116
+frr,North Frisian,3083
+dtp,Central Dusun,3057
+gle,Irish,3034
+urd,Urdu,2810
+mon,Mongolian,2791
+nus,Nuer,2702
+sqi,Albanian,2609
+ota,Ottoman Turkish,2543
+ilo,Ilocano,2466
+khm,Khmer,2463
+hrx,Hunsrik,2444
+arq,Algerian Arabic,2422
+hoc,Ho,2410
+war,Waray,2387
+kha,Khasi,2374
+zlm,Malay (Vernacular),2268
+rif,Tarifit,2167
+gcf,Guadeloupean Creole French,2123
+lad,Ladino,2028
+swg,Swabian,1990
+lij,Ligurian,1960
+lzh,Literary Chinese,1879
+xmf,Mingrelian,1869
+cym,Welsh,1784
+zza,Zaza,1757
+bos,Bosnian,1742
+chv,Chuvash,1733
+grc,Ancient Greek,1730
+ceb,Cebuano,1706
+dsb,Lower Sorbian,1573
+alt,Southern Altai,1563
+hsb,Upper Sorbian,1554
+pam,Kapampangan,1482
+arz,Egyptian Arabic,1451
+jav,Javanese,1434
+unknown,unknown,1403
+pcd,Picard,1351
+orv,Old East Slavic,1312
+uzb,Uzbek,1201
+gla,Scottish Gaelic,1097
+bua,Buryat,1062
+sdh,Southern Kurdish,1050
+rom,Romani,1042
+ltz,Luxembourgish,1036
+sah,Yakut,1006
 csb,Kashubian,988
 isv,Interslavic,980
 guc,Wayuu,913
+ava,Avar,907
 mal,Malayalam,884
-ava,Avar,873
 szl,Silesian,871
 xal,Kalmyk,870
 pms,Piedmontese,822
 ast,Asturian,814
 nov,Novial,796
 nst,Naga (Tangshang),793
-bzt,Brithenig,784
+bzt,Brithenig,785
 sun,Sundanese,726
 fry,Frisian,717
 shy,Tachawit,714
@@ -166,34 +166,35 @@ fkv,Kven Finnish,610
 thv,Tahaggart Tamahaq,592
 mya,Burmese,583
 izh,Ingrian,580
+kir,Kyrgyz,571
 arn,Mapuche,565
 tpn,Tupinambá,563
 tam,Tamil,561
-kir,Kyrgyz,559
-crh,Crimean Tatar,544
+crh,Crimean Tatar,545
 ckt,Chukchi,531
 gsw,Swiss German,493
 nan,Min Nan Chinese,487
-mri,Maori,470
+mri,Maori,471
 ain,Ainu,464
-fao,Faroese,435
 que,Quechua,435
+fao,Faroese,435
 max,North Moluccan Malay,427
 ang,Old English,405
 vep,Veps,404
 ori,Odia (Oriya),403
 lug,Luganda,380
-bak,Bashkir,362
+myv,Erzya,379
+bak,Bashkir,368
 cha,Chamorro,350
 tzl,Talossan,345
 ltg,Latgalian,339
 amh,Amharic,326
 kan,Kannada,325
+nog,Nogai,324
 mfa,Kelantan-Pattani Malay,319
 tel,Telugu,318
-krc,Karachay-Balkar,311
+krc,Karachay-Balkar,312
 tum,Tumbuka,307
-nog,Nogai,307
 vec,Venetian,298
 kas,Kashmiri,280
 lez,Lezgi,272
@@ -218,20 +219,19 @@ haw,Hawaiian,192
 sux,Sumerian,183
 kal,Greenlandic,178
 guj,Gujarati,169
-qya,Quenya,168
 stq,Saterland Frisian,168
+qya,Quenya,168
 san,Sanskrit,166
 liv,Livonian,162
 hbo,Ancient Hebrew,159
 bjn,Banjar,157
+kum,Kumyk,157
 enm,Middle English,155
-kum,Kumyk,155
 bal,Baluchi,146
 egl,Emilian,144
 skr,Saraiki,134
 kbd,Kabardian,131
 mik,Hitchiti,131
-myv,Erzya,130
 sjn,Sindarin,127
 afb,Gulf Arabic,125
 cho,Choctaw,124
@@ -241,26 +241,26 @@ rue,Rusyn,117
 yor,Yoruba,116
 evn,Evenki,116
 non,Old Norse,113
-oji,Ojibwe,111
 zul,Zulu,111
+oji,Ojibwe,111
 dws,Dutton World Speedwords,107
-wol,Wolof,107
 hat,Haitian Creole,107
+wol,Wolof,107
 tet,Tetun,104
 njo,Ao Naga,104
 arg,Aragonese,104
 tpi,Tok Pisin,103
 apc,North Levantine Arabic,102
-iba,Iban,99
 ary,Moroccan Arabic,99
+iba,Iban,99
 bvy,Baybayanon,97
 shs,Shuswap,95
 sco,Scots,92
 mww,Hmong Daw (White),91
-pap,Papiamento,89
+tyv,Tuvinian,90
+kjh,Khakas,89
 mrj,Hill Mari,89
-tyv,Tuvinian,89
-kjh,Khakas,88
+pap,Papiamento,89
 nav,Navajo,87
 hyw,Western Armenian,87
 lld,Ladin,86
@@ -271,19 +271,19 @@ ksh,Kölsch,82
 afh,Afrihili,79
 tgk,Tajik,79
 moh,Mohawk,76
-sin,Sinhala,75
 kpv,Komi-Zyrian,75
+sin,Sinhala,75
+pnb,Punjabi (Western),74
 mlg,Malagasy,73
-pnb,Punjabi (Western),73
-gag,Gagauz,69
+gag,Gagauz,70
 cycl,CycL,66
 crs,Seychellois Creole,66
 tly,Talysh,66
+kaa,Karakalpak,65
 hak,Hakka Chinese,64
 nap,Neapolitan,64
-bam,Bambara,63
-kaa,Karakalpak,63
 iii,Nuosu,63
+bam,Bambara,63
 pag,Pangasinan,62
 pus,Pashto,61
 mgm,Mambae,60
@@ -291,15 +291,15 @@ lut,Lushootseed,59
 ppl,Pipil,59
 sma,Southern Sami,59
 bod,Tibetan,58
-bfz,Mahasu Pahari,57
 pdc,Pennsylvania German,57
+bfz,Mahasu Pahari,57
 bho,Bhojpuri,55
 tts,Isan,55
 pal,Middle Persian (Pahlavi),53
-chn,Chinook Jargon,53
 wln,Walloon,53
-crk,Plains Cree,52
+chn,Chinook Jargon,53
 bom,Berom,52
+crk,Plains Cree,52
 ike,Inuktitut,51
 acm,Iraqi Arabic,48
 sna,Shona,48
@@ -307,125 +307,125 @@ sgs,Samogitian,47
 lim,Limburgish,47
 ibo,Igbo,46
 che,Chechen,46
+drt,Drents,44
 nya,Chinyanja,44
 koi,Komi-Permyak,44
 hil,Hiligaynon,44
-drt,Drents,44
 fij,Fijian,43
 ngu,Guerrero Nahuatl,43
 ryu,Okinawan,42
 tsn,Setswana,41
 div,Dhivehi,40
 dar,Dargwa,40
-nch,Central Huasteca Nahuatl,39
 glv,Manx,39
+nch,Central Huasteca Nahuatl,39
 abk,Abkhaz,37
 gbm,Garhwali,36
+scn,Sicilian,35
 niu,Niuean,35
 fuv,Nigerian Fulfulde,35
-scn,Sicilian,35
-igs,Interglossa,34
 fur,Friulian,34
-pau,Palauan,34
+igs,Interglossa,34
 hif,Fiji Hindi,34
 jam,Jamaican Patois,34
+pau,Palauan,34
 rap,Rapa Nui,33
-frm,Middle French,33
 osp,Old Spanish,33
+frm,Middle French,33
 yua,Yucatec Maya,33
 ady,Adyghe,32
 cay,Cayuga,32
 kin,Kinyarwanda,31
 dng,Dungan,31
 chr,Cherokee,30
+umb,Umbundu,30
 gaa,Ga,30
 tah,Tahitian,30
-umb,Umbundu,30
 lmo,Lombard,29
-ood,O'odham,28
-aln,Gheg Albanian,28
 bis,Bislama,28
-mvv,Tagal Murut,28
-cos,Corsican,28
 akl,Aklanon,28
+ood,O'odham,28
+cos,Corsican,28
+mvv,Tagal Murut,28
+aln,Gheg Albanian,28
 mah,Marshallese,27
 ewe,Ewe,26
 roh,Romansh,26
 lkt,Lakota,25
 kek,Kekchi (Q'eqchi'),24
+ton,Tongan,24
 aoz,Uab Meto,24
 qxq,Qashqai,24
-ton,Tongan,24
-klj,Khalaj,22
-oar,Old Aramaic,22
 lou,Louisiana Creole,22
+oar,Old Aramaic,22
+klj,Khalaj,22
 pli,Pali,21
 toi,Tonga (Zambezi),20
 inh,Ingush,20
 ngt,Ngeq,19
 cjy,Jin Chinese,18
 mic,Mi'kmaq,18
-jpa,Jewish Palestinian Aramaic,17
+sva,Svan,17
 new,Newari,17
-syl,Sylheti,16
+jpa,Jewish Palestinian Aramaic,17
 srd,Sardinian,16
-sva,Svan,16
-tvl,Tuvaluan,15
+syl,Sylheti,16
+phn,Phoenician,15
 mdr,Mandar,15
 bcl,Central Bikol,15
+tvl,Tuvaluan,15
 vro,Võro,15
-phn,Phoenician,15
-urh,Urhobo,14
-gil,Gilbertese,14
 nlv,Orizaba Nahuatl,14
+gil,Gilbertese,14
+urh,Urhobo,14
 lbe,Lak,13
-aym,Aymara,13
 ofs,Old Frisian,13
-zea,Zeelandic,12
-mnr,Mono (USA),12
-sag,Sango,12
+aym,Aymara,13
+fuc,Pulaar,12
 emx,Erromintxela,12
+mnr,Mono (USA),12
 tkl,Tokelauan,12
+zea,Zeelandic,12
+sag,Sango,12
 abq,Abaza,12
 xqa,Karakhanid,12
-fuc,Pulaar,12
+brx,Bodo,11
 nau,Nauruan,11
 mni,Meitei,11
-brx,Bodo,11
-gom,Konkani (Goan),10
 laa,Southern Subanen,10
+gom,Konkani (Goan),10
 gaz,West-Central Oromo,10
 kam,Kamba,10
-mnw,Mon,9
-jdt,Juhuri (Judeo-Tat),9
 mdf,Moksha,9
+jdt,Juhuri (Judeo-Tat),9
 chg,Chagatai,9
+mnw,Mon,9
+mad,Madurese,8
 mai,Maithili,8
 guw,Gun,8
-mad,Madurese,8
 quc,K'iche',8
-cpi,Chinese Pidgin English,7
-ban,Balinese,7
-ssw,Swazi,7
 diq,Southern Zaza (Dimli),7
-snd,Sindhi,6
+cpi,Chinese Pidgin English,7
+ssw,Swazi,7
+ban,Balinese,7
 aii,Assyrian Neo-Aramaic,6
-mfe,Morisyen,6
 kiu,Northern Zaza (Kirmanjki),6
+mfe,Morisyen,6
+snd,Sindhi,6
 tmw,Temuan,5
 kxi,Keningau Murut,4
-tso,Tsonga,4
 hnj,Hmong Njua (Green),4
+tso,Tsonga,4
 hsn,Xiang Chinese,4
-pfl,Palatine German,3
-hdn,Northern Haida,3
-osx,Old Saxon,3
-gan,Gan Chinese,3
 syc,Syriac,3
 ayl,Libyan Arabic,3
-sot,Southern Sotho,2
-mnc,Manchu,2
+pfl,Palatine German,3
+osx,Old Saxon,3
+gan,Gan Chinese,3
+hdn,Northern Haida,3
 rel,Rendille,2
+sot,Southern Sotho,2
 nys,Nyungar,2
+mnc,Manchu,2
 hax,Southern Haida,1
 cyo,Cuyonon,1
