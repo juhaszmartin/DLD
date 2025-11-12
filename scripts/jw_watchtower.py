@@ -128,7 +128,7 @@ def test_iso_codes_selenium(df):
 # df_cut = df.head(20)  # test first 20 rows
 results_df = test_iso_codes_selenium(df)
 
-results_df["Does_have_bible"] = results_df.apply(
+results_df["has_bible"] = results_df.apply(
     lambda row: 1 if ("Exists" in str(row["JW_for_iso1_status"]) or "Exists" in str(row["JW_for_iso2_status"])) else 0,
     axis=1
 )

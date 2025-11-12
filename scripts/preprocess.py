@@ -146,7 +146,7 @@ if JW_CSV.exists():
     with JW_CSV.open(encoding="utf-8", errors="replace") as fh:
         for r in csv.DictReader(fh):
             iso2 = (r.get("ISO 639-2 Code") or "").strip().lower()
-            val = (r.get("Does_have_bible") or "").strip()
+            val = (r.get("has_bible") or "").strip()
             iso3 = iso2map.get(iso2)
             if iso3:
                 jw_by_iso3[iso3] = val
@@ -222,7 +222,7 @@ header = [
     "code", "iso639_3", "glottocode",
     "AdjustedWPsize", "Articles", "WPincubatornew", "WPsizeinchars", "Realtotalratio", "Avggoodpagelength",
     "Population Size", "Institutional (%)", "Stable (%)", "Endangered (%)", "Extinct (%)",
-    "Digital Support", "has_glottolog", "Does_have_bible", "win11_os_supported",
+    "Digital Support", "has_glottolog", "has_bible", "win11_os_supported",
     "tatoeba_sentences", "has_wals", "is_macrolanguage",
 ]
 
@@ -263,7 +263,7 @@ for master_code, iso, glotto in entries:
             r[fld] = normalize_percent(val)
 
     r["has_glottolog"] = int(bool(iso_to_glotto.get(iso) or glotto_to_iso.get(glotto)))
-    r["Does_have_bible"] = jw_by_iso3.get(iso, "")
+    r["has_bible"] = jw_by_iso3.get(iso, "")
     r["win11_os_supported"] = 1 if (iso in os_rows or glotto in os_rows) else 0
 
     trow = tatoeba_rows.get(iso) or tatoeba_rows.get(glotto) or {}
@@ -290,6 +290,13 @@ rename_map = {
     "Extinct (%)": "Extinct",
 }
 df.rename(columns=rename_map, inplace=True)
+
+# Add helper binary column
+df["has_wiki"] = pd.to_numeric(df["Articles"], errors="coerce").notna().astype(int)
+
+# Since nans didn't carry extra info in this case, we remove them
+df["has_bible"] = pd.to_numeric(df["has_bible"], errors="coerce").fillna(0).astype(int)
+
 df.to_csv(OUT_CSV, index=False, encoding="utf-8")
 OUT_CODES.write_text(json.dumps(df["code"].tolist(), ensure_ascii=False, indent=2), encoding="utf-8")
 
