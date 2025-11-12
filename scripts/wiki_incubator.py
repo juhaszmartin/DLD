@@ -89,7 +89,7 @@ print(f"✅ Found {len(scraped_data)} Wikipedia test wikis.")
 
 # === Build dictionary ===
 language_dict = {code: 0 for code in language_codes}
-
+counter = 0
 for scraped_code, scraped_name in scraped_data:
     # Try to find ISO 639-3 code using pycountry
     language = pycountry.languages.get(name=scraped_name)
@@ -100,29 +100,29 @@ for scraped_code, scraped_name in scraped_data:
             print(f"Ignoring 2-letter code '{scraped_code}' for '{scraped_name}', using '{correct_code}'.")
         elif len(scraped_code) == 3 and scraped_code != correct_code:
             print(f"Warning: mismatch '{scraped_code}' ({scraped_name}) should be '{correct_code}'.")
-        if len(scraped_code) == 3 and scraped_code in language_codes:
-            ethno_match = ethno_df[ethno_df["ISO Code"] == scraped_code]
-            if not ethno_match.empty:
-                ethno_name = ethno_match.iloc[0]["Language Name"]
-                similarity = max_word_order_similarity(scraped_name, ethno_name)
-                if similarity >= 0.90:
-                    print(f"✅ {scraped_code} likely correct (name similarity {similarity:.2f}) — '{scraped_name}' ≈ '{ethno_name}'")
-                else:
-                    print(f"⚠️ {scraped_code} mismatch (name similarity {similarity:.2f}) — scraped '{scraped_name}' vs Ethnologue '{ethno_name}'")
-            else:
-                print(f"❌ {scraped_code} not found in Ethnologue dataset.")
-
-
-            language_dict[scraped_code] = 1
 
         if correct_code in language_codes:
             language_dict[correct_code] = 1
+            counter+=1
+            continue
+
+    ethno_match = ethno_df[ethno_df["ISO Code"] == scraped_code]
+    if not ethno_match.empty:
+        ethno_name = ethno_match.iloc[0]["Language Name"]
+        similarity = max_word_order_similarity(scraped_name, ethno_name)
+        if similarity >= 0.70:
+            print(f"✅ {scraped_code} likely correct (name similarity {similarity:.2f}) — '{scraped_name}' ≈ '{ethno_name}'")
+            language_dict[scraped_code] = 1
+            counter+=1
+        else:
+            print(f"⚠️ {scraped_code} mismatch (name similarity {similarity:.2f}) — scraped '{scraped_name}' vs Ethnologue '{ethno_name}'")
     else:
-        print(f"Warning: No ISO 639-3 code found for '{scraped_name}'.")
+        print(f"❌ {scraped_code} not found in Ethnologue dataset.")
+
 
 # === Save JSON ===
 output_file = os.path.join(output_folder, "WPincubatornew.json")
 with open(output_file, "w", encoding="utf-8") as f:
     json.dump(language_dict, f, ensure_ascii=False, indent=4)
 
-print(f"✅ Dictionary saved to {output_file}")
+print(f"✅ Dictionary saved to {output_file} with {counter} ones")

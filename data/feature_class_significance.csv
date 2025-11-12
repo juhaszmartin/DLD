@@ -1,0 +1,19 @@
+                  , g, h, s, t, v
+AdjustedWPsize    , 1, 1, 0, 1, 1
+Articles          , 1, 1, 0, 1, 1
+WPincubatornew    , 0, 0, 0, 0, 0
+WPsizeinchars     , 1, 1, 0, 1, 1
+Realtotalratio    , 0, 0, 0, 0, 0
+Avggoodpagelength , 0, 1, 0, 1, 0
+Population Size   , 1, 1, 1, 1, 1
+Institutional     , 1, 1, 1, 1, 1
+Stable            , 1, 1, 1, 1, 1
+Endangered        , 1, 0, 1, 1, 1
+Extinct           , 1, 1, 0, 1, 1
+Digital Support   , 0, 0, 1, 1, 1
+has_glottolog     , 0, 1, 1, 1, 1
+Does_have_bible   , 0, 1, 0, 1, 1
+win11_os_supported, 1, 1, 1, 1, 1
+tatoeba_sentences , 1, 1, 0, 1, 1
+has_wals          , 0, 1, 1, 1, 1
+is_macrolanguage  , 0, 1, 1, 1, 1

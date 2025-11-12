@@ -15,7 +15,7 @@ ETHNO_CODE_LIST = DATA_DIR / "ethnologue_code_list.txt"
 MACROLANG_CSV = DATA_DIR / "ethnologue_macrolanguages.csv"
 
 JSON_FEATURES = {
-    "AdjustedWPsize": DATA_DIR / "iso_adjusted_wikipedia_sizes.json",
+    "AdjustedWPsize": DATA_DIR / "AdjustedWPsize.json",
     "Articles": DATA_DIR / "Articles.json",
     "WPincubatornew": DATA_DIR / "WPincubatornew.json",
     "WPsizeinchars": DATA_DIR / "WPsizeinchars.json",
@@ -267,11 +267,13 @@ for master_code, iso, glotto in entries:
     r["win11_os_supported"] = 1 if (iso in os_rows or glotto in os_rows) else 0
 
     trow = tatoeba_rows.get(iso) or tatoeba_rows.get(glotto) or {}
-    sentences = ""
     if isinstance(trow, dict):
-        sentences = trow.get("Sentences") or trow.get(" Sentences") or ""
+        sentences = trow.get("Sentences") or ""
         sentences = safe_int(sentences)
-    r["tatoeba_sentences"] = sentences
+        if isinstance(sentences, int) and sentences > 0:
+            r["tatoeba_sentences"] = math.log10(sentences)
+        else:
+            r["tatoeba_sentences"] = sentences
 
     r["has_wals"] = int(iso in wals_keys or glotto in wals_keys)
     r["is_macrolanguage"] = 1 if (iso in macrolanguage_codes or glotto in macrolanguage_codes) else 0
