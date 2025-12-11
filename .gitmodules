@@ -1,0 +1,4 @@
+[submodule "langdeath"]
+	path = langdeath
+	url = https://github.com/juhaszmartin/langdeath.git
+	branch = dld-custom
