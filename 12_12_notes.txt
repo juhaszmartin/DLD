@@ -1,0 +1,6 @@
+ETH 4 binary helyett 1db 4 értékű  KÉSZ
+nem változott régi adatokat be az új csv-be
+langdeath fork be DLD repoba a változásokkal KÉSZ
+macrolang kivétele (KÉSZ) -> új seed fileok nélkülük KÉSZ
+
+majd ezek után ETH vitality adat nélkül (esetleg digital support se)
