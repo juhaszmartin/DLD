@@ -223,7 +223,7 @@ header = [
     "AdjustedWPsize", "Articles", "WPincubatornew", "WPsizeinchars", "Realtotalratio", "Avggoodpagelength",
     "Population Size", "Institutional (%)", "Stable (%)", "Endangered (%)", "Extinct (%)",
     "Digital Support", "has_glottolog", "has_bible", "win11_os_supported",
-    "tatoeba_sentences", "has_wals", "is_macrolanguage",
+    "tatoeba_sentences", "has_wals", # "is_macrolanguage",
 ]
 
 rows = []
@@ -276,7 +276,7 @@ for master_code, iso, glotto in entries:
             r["tatoeba_sentences"] = sentences
 
     r["has_wals"] = int(iso in wals_keys or glotto in wals_keys)
-    r["is_macrolanguage"] = 1 if (iso in macrolanguage_codes or glotto in macrolanguage_codes) else 0
+    # r["is_macrolanguage"] = 1 if (iso in macrolanguage_codes or glotto in macrolanguage_codes) else 0
 
     rows.append(r)
 
@@ -290,6 +290,17 @@ rename_map = {
     "Extinct (%)": "Extinct",
 }
 df.rename(columns=rename_map, inplace=True)
+
+vitality_cols = ["Institutional", "Stable", "Endangered", "Extinct"]
+
+# Scale: None = Unknown, 0 = Extinct, 1 = Endangered, 2 = Stable, 3 = Institutional
+df["Ethnologue_Status"] = None
+df.loc[df["Extinct"] == 1, "Ethnologue_Status"] = 0
+df.loc[df["Endangered"] == 1, "Ethnologue_Status"] = 1
+df.loc[df["Stable"] == 1, "Ethnologue_Status"] = 2
+df.loc[df["Institutional"] == 1, "Ethnologue_Status"] = 3
+# Drop the original 4 columns
+df.drop(columns=vitality_cols, inplace=True)
 
 # Add helper binary column
 df["has_wiki"] = pd.to_numeric(df["Articles"], errors="coerce").notna().astype(int)

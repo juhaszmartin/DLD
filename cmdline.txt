@@ -1,0 +1,4 @@
+C:\Users\martin\anaconda3\envs\langdeath\python.exe classification\classifier.py doc/data/langdata.tsv classification/results/langdata -e 20 -c 2 -t 0.9 -s -r 1.0
+
+
+python langdeath/classification/classifier.py scripts/tmp_master_for_classification.tsv scripts/replicated_results/eth_4_valued -e 20 -c 2 -r 1.0 -l classifier.log

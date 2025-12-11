@@ -1,0 +1,4585 @@
+2025-12-11 02:00:38,256 : classifier (30) - INFO - Dropping status features
+2025-12-11 02:00:38,264 : classifier (99) - DEBUG - training data:                 seed_label
+integrated_code           
+eng                    vtg
+blx                     sh
+kor                    vtg
+nsf                     sh
+kat                    vtg
+zul                    vtg
+loo                     sh
+ind                    vtg
+got                     sh
+mct                     sh
+cor                     sh
+mal                    vtg
+lzh                     sh
+kun                     sh
+hye                    vtg
+non                     sh
+arb                    vtg
+cat                    vtg
+glv                     sh
+lat                     sh
+yue                    vtg
+heb                    vtg
+gnz                     sh
+dum                     sh
+osx                     sh
+aze                    vtg
+mlt                    vtg
+dov                     sh
+hau                    vtg
+ita                    vtg
+oge                     sh
+fra                    vtg
+chu                     sh
+tur                    vtg
+bel                    vtg
+kou                     sh
+zmy                     sh
+ibo                    vtg
+val                     sh
+hun                    vtg
+2025-12-11 02:00:38,314 : classifier (110) - DEBUG - crossval score - average:0.975
+2025-12-11 02:00:38,317 : classifier (113) - DEBUG - errors in classification:
+  gold predicted
+0   sh       vtg
+2025-12-11 02:00:38,327 : classifier (137) - DEBUG - selected features:6 Index(['Population Size', 'Stable', 'Digital Support', 'has_glottolog',
+       'has_bible', 'tatoeba_sentences'],
+      dtype='object')
+2025-12-11 02:00:38,339 : classifier (148) - DEBUG - labelings:
+exp_with_feature_sel_1
+sh     8508
+vtg     388
+Name: count, dtype: int64
+2025-12-11 02:00:38,345 : classifier (99) - DEBUG - training data:                 seed_label
+integrated_code           
+hun                    vtg
+yue                    vtg
+ldq                     sh
+mmu                     sh
+slk                    vtg
+pea                     sh
+bqy                     sh
+ell                    vtg
+grc                     sh
+spa                    vtg
+ibo                    vtg
+por                    vtg
+oso                     sh
+hau                    vtg
+jpn                    vtg
+pli                     sh
+ybn                     sh
+sun                    vtg
+uzb                    vtg
+zul                    vtg
+arb                    vtg
+zho                    vtg
+bmm                     sh
+fin                    vtg
+cor                     sh
+enm                     sh
+pwr                     sh
+non                     sh
+oge                     sh
+ind                    vtg
+urd                    vtg
+wuu                    vtg
+zhn                     sh
+got                     sh
+lzh                     sh
+idd                     sh
+kan                    vtg
+tam                    vtg
+goh                     sh
+hbo                     sh
+2025-12-11 02:00:38,387 : classifier (110) - DEBUG - crossval score - average:0.95
+2025-12-11 02:00:38,390 : classifier (113) - DEBUG - errors in classification:
+  gold predicted
+0  vtg        sh
+1   sh       vtg
+2025-12-11 02:00:38,394 : classifier (137) - DEBUG - selected features:6 Index(['AdjustedWPsize', 'Population Size', 'Stable', 'Digital Support',
+       'has_glottolog', 'tatoeba_sentences'],
+      dtype='object')
+2025-12-11 02:00:38,402 : classifier (148) - DEBUG - labelings:
+exp_with_feature_sel_2
+sh     8437
+vtg     459
+Name: count, dtype: int64
+2025-12-11 02:00:38,410 : classifier (99) - DEBUG - training data:                 seed_label
+integrated_code           
+nya                    vtg
+zlm                    vtg
+orv                     sh
+tam                    vtg
+mub                     sh
+lug                    vtg
+nld                    vtg
+kjk                     sh
+zho                    vtg
+hbo                     sh
+ang                     sh
+non                     sh
+ell                    vtg
+srx                     sh
+slk                    vtg
+smx                     sh
+cop                     sh
+oge                     sh
+kku                     sh
+por                    vtg
+tir                    vtg
+swe                    vtg
+grc                     sh
+kbj                     sh
+arb                    vtg
+osx                     sh
+cat                    vtg
+mlt                    vtg
+spa                    vtg
+guj                    vtg
+kdc                     sh
+bes                     sh
+jat                     sh
+syc                     sh
+aze                    vtg
+goh                     sh
+isl                    vtg
+vie                    vtg
+tra                     sh
+orm                    vtg
+2025-12-11 02:00:38,455 : classifier (110) - DEBUG - crossval score - average:0.95
+2025-12-11 02:00:38,457 : classifier (113) - DEBUG - errors in classification:
+  gold predicted
+0  vtg        sh
+1   sh       vtg
+2025-12-11 02:00:38,460 : classifier (137) - DEBUG - selected features:3 Index(['Population Size', 'Digital Support', 'is_macrolanguage'], dtype='object')
+2025-12-11 02:00:38,466 : classifier (148) - DEBUG - labelings:
+exp_with_feature_sel_3
+sh     8381
+vtg     515
+Name: count, dtype: int64
+2025-12-11 02:00:38,471 : classifier (99) - DEBUG - training data:                 seed_label
+integrated_code           
+ell                    vtg
+orm                    vtg
+eng                    vtg
+glv                     sh
+cat                    vtg
+goh                     sh
+lzh                     sh
+swe                    vtg
+afr                    vtg
+hbs                    vtg
+cop                     sh
+tep                     sh
+ind                    vtg
+osx                     sh
+tyl                     sh
+luk                     sh
+nld                    vtg
+ula                     sh
+llm                     sh
+bam                    vtg
+mub                     sh
+lao                    vtg
+ibo                    vtg
+got                     sh
+spa                    vtg
+grc                     sh
+jpn                    vtg
+nya                    vtg
+ces                    vtg
+mar                    vtg
+avd                     sh
+chu                     sh
+tsn                    vtg
+eus                    vtg
+hbo                     sh
+bsh                     sh
+msr                     sh
+xsn                     sh
+oge                     sh
+tur                    vtg
+2025-12-11 02:00:38,512 : classifier (110) - DEBUG - crossval score - average:0.9
+2025-12-11 02:00:38,514 : classifier (113) - DEBUG - errors in classification:
+  gold predicted
+0  vtg        sh
+1   sh       vtg
+2  vtg        sh
+3   sh       vtg
+2025-12-11 02:00:38,519 : classifier (137) - DEBUG - selected features:6 Index(['AdjustedWPsize', 'Population Size', 'Digital Support', 'has_glottolog',
+       'tatoeba_sentences', 'is_macrolanguage'],
+      dtype='object')
+2025-12-11 02:00:38,525 : classifier (148) - DEBUG - labelings:
+exp_with_feature_sel_4
+sh     8635
+vtg     261
+Name: count, dtype: int64
+2025-12-11 02:00:38,534 : classifier (99) - DEBUG - training data:                 seed_label
+integrated_code           
+isl                    vtg
+ita                    vtg
+chu                     sh
+bam                    vtg
+rus                    vtg
+pli                     sh
+shv                     sh
+oge                     sh
+kir                    vtg
+fra                    vtg
+rmd                     sh
+orv                     sh
+kor                    vtg
+eng                    vtg
+two                     sh
+grc                     sh
+tat                    vtg
+dan                    vtg
+tra                     sh
+guj                    vtg
+glv                     sh
+plk                     sh
+akg                     sh
+ukr                    vtg
+swe                    vtg
+lao                    vtg
+non                     sh
+cdo                    vtg
+lzh                     sh
+kzb                     sh
+afr                    vtg
+byb                     sh
+uig                    vtg
+ckb                    vtg
+fpe                     sh
+xcl                     sh
+ind                    vtg
+lat                     sh
+jpn                    vtg
+emy                     sh
+2025-12-11 02:00:38,569 : classifier (110) - DEBUG - crossval score - average:0.95
+2025-12-11 02:00:38,571 : classifier (113) - DEBUG - errors in classification:
+  gold predicted
+0   sh       vtg
+1  vtg        sh
+2025-12-11 02:00:38,573 : classifier (137) - DEBUG - selected features:5 Index(['Population Size', 'has_glottolog', 'has_bible', 'tatoeba_sentences',
+       'is_macrolanguage'],
+      dtype='object')
+2025-12-11 02:00:38,578 : classifier (148) - DEBUG - labelings:
+exp_with_feature_sel_5
+sh     8518
+vtg     378
+Name: count, dtype: int64
+2025-12-11 02:00:38,582 : classifier (99) - DEBUG - training data:                 seed_label
+integrated_code           
+mya                    vtg
+slk                    vtg
+arb                    vtg
+pli                     sh
+ysn                     sh
+goh                     sh
+glv                     sh
+bqx                     sh
+xcl                     sh
+mar                    vtg
+isg                     sh
+tuk                    vtg
+rrt                     sh
+uig                    vtg
+ukr                    vtg
+nuo                     sh
+wlk                     sh
+eng                    vtg
+sin                    vtg
+pnb                    vtg
+dum                     sh
+por                    vtg
+ell                    vtg
+kab                    vtg
+phg                     sh
+heb                    vtg
+jad                     sh
+kor                    vtg
+hbs                    vtg
+jpn                    vtg
+nyv                     sh
+yue                    vtg
+zho                    vtg
+osx                     sh
+got                     sh
+huj                     sh
+grc                     sh
+chu                     sh
+syc                     sh
+mdf                    vtg
+2025-12-11 02:00:38,620 : classifier (110) - DEBUG - crossval score - average:0.875
+2025-12-11 02:00:38,623 : classifier (113) - DEBUG - errors in classification:
+  gold predicted
+0   sh       vtg
+1  vtg        sh
+2  vtg        sh
+3  vtg        sh
+4  vtg        sh
+2025-12-11 02:00:38,628 : classifier (137) - DEBUG - selected features:6 Index(['seed_label', 'WPincubatornew', 'Population Size', 'Endangered',
+       'Digital Support', 'tatoeba_sentences'],
+      dtype='object')
+2025-12-11 02:00:38,634 : classifier (148) - DEBUG - labelings:
+exp_with_feature_sel_6
+sh     8442
+vtg     454
+Name: count, dtype: int64
+2025-12-11 02:00:38,639 : classifier (99) - DEBUG - training data:                 seed_label
+integrated_code           
+uzb                    vtg
+dza                     sh
+grc                     sh
+bam                    vtg
+zho                    vtg
+aze                    vtg
+spa                    vtg
+heb                    vtg
+hye                    vtg
+swe                    vtg
+afn                     sh
+oge                     sh
+rus                    vtg
+tur                    vtg
+guj                    vtg
+cor                     sh
+osx                     sh
+ato                     sh
+eus                    vtg
+ckb                    vtg
+kab                    vtg
+ang                     sh
+got                     sh
+nld                    vtg
+nep                    vtg
+ful                    vtg
+krw                     sh
+blq                     sh
+orv                     sh
+kzn                     sh
+dum                     sh
+mef                     sh
+prh                     sh
+lat                     sh
+dan                    vtg
+dtb                     sh
+vie                    vtg
+hbo                     sh
+tjs                     sh
+ukr                    vtg
+2025-12-11 02:00:38,676 : classifier (110) - DEBUG - crossval score - average:1.0
+2025-12-11 02:00:38,679 : classifier (137) - DEBUG - selected features:4 Index(['Population Size', 'Digital Support', 'has_bible', 'is_macrolanguage'], dtype='object')
+2025-12-11 02:00:38,683 : classifier (148) - DEBUG - labelings:
+exp_with_feature_sel_7
+sh     8693
+vtg     203
+Name: count, dtype: int64
+2025-12-11 02:00:38,688 : classifier (99) - DEBUG - training data:                 seed_label
+integrated_code           
+tur                    vtg
+hbo                     sh
+ind                    vtg
+akd                     sh
+kor                    vtg
+syc                     sh
+bod                    vtg
+yue                    vtg
+arb                    vtg
+orm                    vtg
+grc                     sh
+gwj                     sh
+xly                     sh
+tam                    vtg
+ang                     sh
+spa                    vtg
+ukr                    vtg
+tsn                    vtg
+lug                    vtg
+got                     sh
+enm                     sh
+mjs                     sh
+chu                     sh
+nhf                     sh
+kat                    vtg
+pnb                    vtg
+lzh                     sh
+zak                     sh
+ell                    vtg
+por                    vtg
+yko                     sh
+msc                     sh
+cor                     sh
+pal                     sh
+fra                    vtg
+hun                    vtg
+sin                    vtg
+guj                    vtg
+nci                     sh
+xsq                     sh
+2025-12-11 02:00:38,725 : classifier (110) - DEBUG - crossval score - average:0.925
+2025-12-11 02:00:38,728 : classifier (113) - DEBUG - errors in classification:
+  gold predicted
+0  vtg        sh
+1  vtg        sh
+2   sh       vtg
+2025-12-11 02:00:38,733 : classifier (137) - DEBUG - selected features:4 Index(['Realtotalratio', 'Avggoodpagelength', 'Population Size',
+       'Digital Support'],
+      dtype='object')
+2025-12-11 02:00:38,740 : classifier (148) - DEBUG - labelings:
+exp_with_feature_sel_8
+sh     8371
+vtg     525
+Name: count, dtype: int64
+2025-12-11 02:00:38,747 : classifier (99) - DEBUG - training data:                 seed_label
+integrated_code           
+heb                    vtg
+ley                     sh
+jpn                    vtg
+yot                     sh
+guj                    vtg
+sww                     sh
+isl                    vtg
+xkk                     sh
+swe                    vtg
+goh                     sh
+bos                    vtg
+grc                     sh
+kes                     sh
+kan                    vtg
+arb                    vtg
+ukr                    vtg
+dum                     sh
+mjm                     sh
+nci                     sh
+eng                    vtg
+cop                     sh
+glv                     sh
+tka                     sh
+bpb                     sh
+zho                    vtg
+ita                    vtg
+yue                    vtg
+chu                     sh
+got                     sh
+bgk                     sh
+ful                    vtg
+ell                    vtg
+eus                    vtg
+hbo                     sh
+aed                     sh
+mon                    vtg
+fin                    vtg
+asm                    vtg
+sin                    vtg
+osx                     sh
+2025-12-11 02:00:38,788 : classifier (110) - DEBUG - crossval score - average:0.95
+2025-12-11 02:00:38,790 : classifier (113) - DEBUG - errors in classification:
+  gold predicted
+0   sh       vtg
+1  vtg        sh
+2025-12-11 02:00:38,795 : classifier (137) - DEBUG - selected features:3 Index(['Population Size', 'Digital Support', 'is_macrolanguage'], dtype='object')
+2025-12-11 02:00:38,802 : classifier (148) - DEBUG - labelings:
+exp_with_feature_sel_9
+sh     8381
+vtg     515
+Name: count, dtype: int64
+2025-12-11 02:00:38,808 : classifier (99) - DEBUG - training data:                 seed_label
+integrated_code           
+pli                     sh
+lie                     sh
+nld                    vtg
+ibo                    vtg
+orv                     sh
+got                     sh
+som                    vtg
+bwh                     sh
+cat                    vtg
+bhd                     sh
+akt                     sh
+sin                    vtg
+urm                     sh
+bjn                    vtg
+swe                    vtg
+mar                    vtg
+nmd                     sh
+lzh                     sh
+glg                    vtg
+muc                     sh
+chu                     sh
+eng                    vtg
+spa                    vtg
+hbo                     sh
+syc                     sh
+arb                    vtg
+fin                    vtg
+nci                     sh
+xet                     sh
+lha                     sh
+hun                    vtg
+dui                     sh
+uig                    vtg
+rus                    vtg
+kab                    vtg
+kat                    vtg
+jpn                    vtg
+grc                     sh
+non                     sh
+mon                    vtg
+2025-12-11 02:00:38,848 : classifier (110) - DEBUG - crossval score - average:0.95
+2025-12-11 02:00:38,850 : classifier (113) - DEBUG - errors in classification:
+  gold predicted
+0  vtg        sh
+1  vtg        sh
+2025-12-11 02:00:38,854 : classifier (137) - DEBUG - selected features:3 Index(['Population Size', 'Digital Support', 'has_glottolog'], dtype='object')
+2025-12-11 02:00:38,859 : classifier (148) - DEBUG - labelings:
+exp_with_feature_sel_10
+sh     8393
+vtg     503
+Name: count, dtype: int64
+2025-12-11 02:00:38,868 : classifier (99) - DEBUG - training data:                 seed_label
+integrated_code           
+ima                     sh
+nya                    vtg
+orv                     sh
+lat                     sh
+ukr                    vtg
+dan                    vtg
+ful                    vtg
+wol                    vtg
+syc                     sh
+ita                    vtg
+hol                     sh
+orm                    vtg
+reg                     sh
+bpz                     sh
+spu                     sh
+ibo                    vtg
+slk                    vtg
+gqn                     sh
+ind                    vtg
+khm                    vtg
+nep                    vtg
+ibn                     sh
+dum                     sh
+ckb                    vtg
+cor                     sh
+chu                     sh
+fra                    vtg
+tur                    vtg
+eng                    vtg
+cat                    vtg
+abo                     sh
+ibm                     sh
+nci                     sh
+glv                     sh
+oge                     sh
+grc                     sh
+vie                    vtg
+tam                    vtg
+xip                     sh
+zul                    vtg
+2025-12-11 02:00:38,912 : classifier (110) - DEBUG - crossval score - average:0.975
+2025-12-11 02:00:38,913 : classifier (113) - DEBUG - errors in classification:
+  gold predicted
+0  vtg        sh
+2025-12-11 02:00:38,916 : classifier (137) - DEBUG - selected features:5 Index(['Population Size', 'Stable', 'Digital Support', 'has_glottolog',
+       'is_macrolanguage'],
+      dtype='object')
+2025-12-11 02:00:38,921 : classifier (148) - DEBUG - labelings:
+exp_with_feature_sel_11
+sh     8633
+vtg     263
+Name: count, dtype: int64
+2025-12-11 02:00:38,926 : classifier (99) - DEBUG - training data:                 seed_label
+integrated_code           
+mal                    vtg
+kor                    vtg
+spa                    vtg
+jnd                     sh
+glv                     sh
+ljl                     sh
+wol                    vtg
+xki                     sh
+heb                    vtg
+ity                     sh
+ita                    vtg
+hbo                     sh
+puw                     sh
+yue                    vtg
+kan                    vtg
+oge                     sh
+arb                    vtg
+orv                     sh
+pop                     sh
+lzh                     sh
+ukl                     sh
+fra                    vtg
+goh                     sh
+kty                     sh
+urd                    vtg
+got                     sh
+ukr                    vtg
+tur                    vtg
+bos                    vtg
+zha                    vtg
+chu                     sh
+mon                    vtg
+ang                     sh
+ind                    vtg
+som                    vtg
+kjt                     sh
+syc                     sh
+kir                    vtg
+cde                     sh
+rus                    vtg
+2025-12-11 02:00:38,968 : classifier (110) - DEBUG - crossval score - average:0.9
+2025-12-11 02:00:38,970 : classifier (113) - DEBUG - errors in classification:
+  gold predicted
+0  vtg        sh
+1  vtg        sh
+2  vtg        sh
+3  vtg        sh
+2025-12-11 02:00:38,976 : classifier (137) - DEBUG - selected features:4 Index(['Population Size', 'Digital Support', 'has_glottolog',
+       'is_macrolanguage'],
+      dtype='object')
+2025-12-11 02:00:38,981 : classifier (148) - DEBUG - labelings:
+exp_with_feature_sel_12
+sh     8367
+vtg     529
+Name: count, dtype: int64
+2025-12-11 02:00:38,985 : classifier (99) - DEBUG - training data:                 seed_label
+integrated_code           
+mon                    vtg
+trw                     sh
+bod                    vtg
+piw                     sh
+bty                     sh
+lat                     sh
+tur                    vtg
+asm                    vtg
+chu                     sh
+spa                    vtg
+got                     sh
+osx                     sh
+pnq                     sh
+fra                    vtg
+enm                     sh
+hbo                     sh
+afr                    vtg
+oge                     sh
+swe                    vtg
+ziw                     sh
+slk                    vtg
+qxt                     sh
+ces                    vtg
+csr                     sh
+ind                    vtg
+pol                    vtg
+sin                    vtg
+vie                    vtg
+ukr                    vtg
+xcl                     sh
+wol                    vtg
+grd                     sh
+syc                     sh
+grc                     sh
+xao                     sh
+tam                    vtg
+tuk                    vtg
+psl                     sh
+lao                    vtg
+urd                    vtg
+2025-12-11 02:00:39,022 : classifier (110) - DEBUG - crossval score - average:0.95
+2025-12-11 02:00:39,024 : classifier (113) - DEBUG - errors in classification:
+  gold predicted
+0  vtg        sh
+1   sh       vtg
+2025-12-11 02:00:39,027 : classifier (137) - DEBUG - selected features:5 Index(['Realtotalratio', 'Population Size', 'Digital Support', 'has_glottolog',
+       'is_macrolanguage'],
+      dtype='object')
+2025-12-11 02:00:39,033 : classifier (148) - DEBUG - labelings:
+exp_with_feature_sel_13
+sh     8650
+vtg     246
+Name: count, dtype: int64
+2025-12-11 02:00:39,041 : classifier (99) - DEBUG - training data:                 seed_label
+integrated_code           
+nci                     sh
+vie                    vtg
+cor                     sh
+aze                    vtg
+goh                     sh
+mal                    vtg
+yha                     sh
+spa                    vtg
+got                     sh
+enm                     sh
+cdo                    vtg
+xhv                     sh
+heb                    vtg
+pnb                    vtg
+bos                    vtg
+tel                    vtg
+cat                    vtg
+fin                    vtg
+bjn                    vtg
+hbo                     sh
+pol                    vtg
+vah                     sh
+chu                     sh
+swe                    vtg
+hun                    vtg
+apx                     sh
+por                    vtg
+mmv                     sh
+llh                     sh
+hmm                     sh
+dum                     sh
+urd                    vtg
+sun                    vtg
+zho                    vtg
+xcl                     sh
+bod                    vtg
+gig                     sh
+kqy                     sh
+jor                     sh
+lzh                     sh
+2025-12-11 02:00:39,082 : classifier (110) - DEBUG - crossval score - average:0.925
+2025-12-11 02:00:39,084 : classifier (113) - DEBUG - errors in classification:
+  gold predicted
+0   sh       vtg
+1  vtg        sh
+2  vtg        sh
+2025-12-11 02:00:39,086 : classifier (137) - DEBUG - selected features:6 Index(['seed_label', 'WPincubatornew', 'Avggoodpagelength', 'Population Size',
+       'Digital Support', 'has_glottolog'],
+      dtype='object')
+2025-12-11 02:00:39,093 : classifier (148) - DEBUG - labelings:
+exp_with_feature_sel_14
+sh     8589
+vtg     307
+Name: count, dtype: int64
+2025-12-11 02:00:39,101 : classifier (99) - DEBUG - training data:                 seed_label
+integrated_code           
+vie                    vtg
+ces                    vtg
+eng                    vtg
+mdf                    vtg
+ibo                    vtg
+fin                    vtg
+cop                     sh
+tuk                    vtg
+wol                    vtg
+por                    vtg
+syc                     sh
+tsn                    vtg
+wan                     sh
+bwy                     sh
+slk                    vtg
+lob                     sh
+lat                     sh
+yue                    vtg
+urd                    vtg
+fra                    vtg
+got                     sh
+hun                    vtg
+frd                     sh
+sdj                     sh
+lzh                     sh
+hav                     sh
+mcs                     sh
+non                     sh
+aze                    vtg
+bam                    vtg
+umu                     sh
+glv                     sh
+dum                     sh
+goh                     sh
+ang                     sh
+heb                    vtg
+omk                     sh
+sia                     sh
+pol                    vtg
+tel                    vtg
+2025-12-11 02:00:39,140 : classifier (110) - DEBUG - crossval score - average:0.975
+2025-12-11 02:00:39,142 : classifier (113) - DEBUG - errors in classification:
+  gold predicted
+0  vtg        sh
+2025-12-11 02:00:39,144 : classifier (137) - DEBUG - selected features:3 Index(['Population Size', 'Digital Support', 'has_glottolog'], dtype='object')
+2025-12-11 02:00:39,148 : classifier (148) - DEBUG - labelings:
+exp_with_feature_sel_15
+sh     8345
+vtg     551
+Name: count, dtype: int64
+2025-12-11 02:00:39,153 : classifier (99) - DEBUG - training data:                 seed_label
+integrated_code           
+osx                     sh
+anr                     sh
+ang                     sh
+ful                    vtg
+orm                    vtg
+got                     sh
+nep                    vtg
+hun                    vtg
+qvl                     sh
+hin                    vtg
+ces                    vtg
+enm                     sh
+mpn                     sh
+hmz                     sh
+tny                     sh
+bos                    vtg
+siy                     sh
+arb                    vtg
+zul                    vtg
+nci                     sh
+pea                     sh
+nvo                     sh
+fin                    vtg
+lao                    vtg
+ssr                     sh
+cop                     sh
+ita                    vtg
+ell                    vtg
+rus                    vtg
+hbs                    vtg
+non                     sh
+lat                     sh
+pli                     sh
+kor                    vtg
+tui                     sh
+afr                    vtg
+eng                    vtg
+hbo                     sh
+fra                    vtg
+uig                    vtg
+2025-12-11 02:00:39,189 : classifier (110) - DEBUG - crossval score - average:0.9
+2025-12-11 02:00:39,191 : classifier (113) - DEBUG - errors in classification:
+  gold predicted
+0  vtg        sh
+1  vtg        sh
+2  vtg        sh
+3  vtg        sh
+2025-12-11 02:00:39,196 : classifier (137) - DEBUG - selected features:6 Index(['Population Size', 'Stable', 'Digital Support', 'tatoeba_sentences',
+       'has_wals', 'is_macrolanguage'],
+      dtype='object')
+2025-12-11 02:00:39,204 : classifier (148) - DEBUG - labelings:
+exp_with_feature_sel_16
+sh     8464
+vtg     432
+Name: count, dtype: int64
+2025-12-11 02:00:39,213 : classifier (99) - DEBUG - training data:                 seed_label
+integrated_code           
+nci                     sh
+tgd                     sh
+ttl                     sh
+fln                     sh
+lao                    vtg
+bos                    vtg
+orv                     sh
+lat                     sh
+kan                    vtg
+cnb                     sh
+kor                    vtg
+bbt                     sh
+tmw                     sh
+slk                    vtg
+urd                    vtg
+eng                    vtg
+osx                     sh
+psm                     sh
+heb                    vtg
+bod                    vtg
+oge                     sh
+ckb                    vtg
+glv                     sh
+pli                     sh
+got                     sh
+hbo                     sh
+dan                    vtg
+fin                    vtg
+hin                    vtg
+glg                    vtg
+grc                     sh
+ell                    vtg
+hye                    vtg
+vie                    vtg
+ind                    vtg
+zho                    vtg
+mrd                     sh
+aze                    vtg
+ues                     sh
+kwm                     sh
+2025-12-11 02:00:39,255 : classifier (110) - DEBUG - crossval score - average:0.95
+2025-12-11 02:00:39,257 : classifier (113) - DEBUG - errors in classification:
+  gold predicted
+0  vtg        sh
+1  vtg        sh
+2025-12-11 02:00:39,259 : classifier (137) - DEBUG - selected features:4 Index(['Population Size', 'Digital Support', 'has_bible', 'is_macrolanguage'], dtype='object')
+2025-12-11 02:00:39,264 : classifier (148) - DEBUG - labelings:
+exp_with_feature_sel_17
+sh     8714
+vtg     182
+Name: count, dtype: int64
+2025-12-11 02:00:39,269 : classifier (99) - DEBUG - training data:                 seed_label
+integrated_code           
+dum                     sh
+zlm                    vtg
+bjn                    vtg
+spa                    vtg
+wbf                     sh
+nci                     sh
+bde                     sh
+mlt                    vtg
+zha                    vtg
+wuu                    vtg
+zho                    vtg
+got                     sh
+vie                    vtg
+mvw                     sh
+jmd                     sh
+syc                     sh
+tmk                     sh
+pli                     sh
+bos                    vtg
+mjl                     sh
+jpn                    vtg
+enm                     sh
+cat                    vtg
+lat                     sh
+bam                    vtg
+hau                    vtg
+kym                     sh
+xcl                     sh
+cor                     sh
+ces                    vtg
+grc                     sh
+ngd                     sh
+swe                    vtg
+ita                    vtg
+tur                    vtg
+sar                     sh
+lgm                     sh
+kor                    vtg
+guj                    vtg
+bel                    vtg
+2025-12-11 02:00:39,314 : classifier (110) - DEBUG - crossval score - average:0.85
+2025-12-11 02:00:39,317 : classifier (113) - DEBUG - errors in classification:
+  gold predicted
+0  vtg        sh
+1  vtg        sh
+2  vtg        sh
+3  vtg        sh
+4  vtg        sh
+5   sh       vtg
+2025-12-11 02:00:39,320 : classifier (137) - DEBUG - selected features:6 Index(['Avggoodpagelength', 'Population Size', 'Digital Support', 'has_bible',
+       'tatoeba_sentences', 'is_macrolanguage'],
+      dtype='object')
+2025-12-11 02:00:39,325 : classifier (148) - DEBUG - labelings:
+exp_with_feature_sel_18
+sh     8476
+vtg     420
+Name: count, dtype: int64
+2025-12-11 02:00:39,331 : classifier (99) - DEBUG - training data:                 seed_label
+integrated_code           
+oge                     sh
+enm                     sh
+aze                    vtg
+bdb                     sh
+tme                     sh
+ckb                    vtg
+spu                     sh
+tur                    vtg
+eng                    vtg
+eus                    vtg
+sin                    vtg
+orv                     sh
+dan                    vtg
+jah                     sh
+kor                    vtg
+zul                    vtg
+wol                    vtg
+inn                     sh
+hbo                     sh
+glv                     sh
+mlt                    vtg
+ita                    vtg
+ind                    vtg
+ukr                    vtg
+yue                    vtg
+fra                    vtg
+cor                     sh
+eno                     sh
+ted                     sh
+got                     sh
+ell                    vtg
+koy                     sh
+zqe                     sh
+kat                    vtg
+cop                     sh
+pud                     sh
+pli                     sh
+ces                    vtg
+non                     sh
+tsn                    vtg
+2025-12-11 02:00:39,368 : classifier (110) - DEBUG - crossval score - average:0.95
+2025-12-11 02:00:39,370 : classifier (113) - DEBUG - errors in classification:
+  gold predicted
+0  vtg        sh
+1  vtg        sh
+2025-12-11 02:00:39,375 : classifier (137) - DEBUG - selected features:4 Index(['Population Size', 'Digital Support', 'has_glottolog', 'has_bible'], dtype='object')
+2025-12-11 02:00:39,382 : classifier (148) - DEBUG - labelings:
+exp_with_feature_sel_19
+sh     8402
+vtg     494
+Name: count, dtype: int64
+2025-12-11 02:00:39,388 : classifier (99) - DEBUG - training data:                 seed_label
+integrated_code           
+osx                     sh
+kor                    vtg
+bgg                     sh
+tam                    vtg
+trd                     sh
+kab                    vtg
+pli                     sh
+tld                     sh
+cor                     sh
+nya                    vtg
+dum                     sh
+zho                    vtg
+sun                    vtg
+got                     sh
+mar                    vtg
+hbs                    vtg
+rus                    vtg
+tmk                     sh
+chu                     sh
+bme                     sh
+lzh                     sh
+tur                    vtg
+aga                     sh
+eng                    vtg
+asm                    vtg
+cat                    vtg
+swe                    vtg
+orm                    vtg
+nep                    vtg
+enm                     sh
+gzi                     sh
+grc                     sh
+slk                    vtg
+dan                    vtg
+gwf                     sh
+arb                    vtg
+vmz                     sh
+bam                    vtg
+rmx                     sh
+nci                     sh
+2025-12-11 02:00:39,431 : classifier (110) - DEBUG - crossval score - average:0.925
+2025-12-11 02:00:39,433 : classifier (113) - DEBUG - errors in classification:
+  gold predicted
+0  vtg        sh
+1  vtg        sh
+2  vtg        sh
+2025-12-11 02:00:39,436 : classifier (137) - DEBUG - selected features:7 Index(['AdjustedWPsize', 'WPincubatornew', 'Population Size', 'Stable',
+       'Digital Support', 'has_glottolog', 'tatoeba_sentences'],
+      dtype='object')
+2025-12-11 02:00:39,441 : classifier (148) - DEBUG - labelings:
+exp_with_feature_sel_20
+sh     8451
+vtg     445
+Name: count, dtype: int64
+2025-12-11 02:00:39,568 : classifier (235) - DEBUG - Crossvalidation results (all):
+count    20.000000
+mean      0.936250
+std       0.036702
+min       0.850000
+25%       0.918750
+50%       0.950000
+75%       0.950000
+max       1.000000
+dtype: float64
+2025-12-11 02:00:39,570 : classifier (237) - DEBUG - Statuses based on all labelings:
+status
+dead          8234
+borderline     509
+living         152
+Name: count, dtype: int64
+2025-12-11 02:00:39,574 : classifier (239) - DEBUG - Stable languages based on all labelings:
+stable
+sh     8234
+-       509
+vtg     152
+Name: count, dtype: int64
+2025-12-11 02:00:39,575 : classifier (245) - INFO - Crossvalidation results (filtered by limit 0.9):
+count    15.000000
+mean      0.953333
+std       0.020845
+min       0.925000
+25%       0.950000
+50%       0.950000
+75%       0.962500
+max       1.000000
+dtype: float64
+2025-12-11 02:00:39,576 : classifier (248) - INFO - Statuses based on labelings (where crossvalidation exceeds limit):
+status_best
+dead          8249
+borderline     494
+living         152
+Name: count, dtype: int64
+2025-12-11 02:00:39,582 : classifier (251) - INFO - Stable languages based on labelings (where crossvalidation exceeds limit):
+stable_best
+sh     8249
+-       494
+vtg     152
+Name: count, dtype: int64
+2025-12-11 02:00:39,583 : classifier (258) - INFO - exporting dataframe to results/my_experiment.tsv
+2025-12-11 02:01:35,348 : classifier (30) - INFO - Dropping status features
+2025-12-11 02:01:35,355 : classifier (99) - DEBUG - training data:                 seed_label
+integrated_code           
+bjn                    vtg
+chu                     sh
+ncz                     sh
+tam                    vtg
+ibo                    vtg
+nci                     sh
+pay                     sh
+uig                    vtg
+kir                    vtg
+pli                     sh
+syc                     sh
+osx                     sh
+kab                    vtg
+slk                    vtg
+pol                    vtg
+heb                    vtg
+glv                     sh
+lug                    vtg
+aqd                     sh
+eus                    vtg
+diz                     sh
+axk                     sh
+ell                    vtg
+ces                    vtg
+rsl                     sh
+ori                    vtg
+swe                    vtg
+spa                    vtg
+rmq                     sh
+xcl                     sh
+asa                     sh
+cor                     sh
+eng                    vtg
+nld                    vtg
+sun                    vtg
+tur                    vtg
+enm                     sh
+afs                     sh
+ang                     sh
+ktz                     sh
+2025-12-11 02:01:35,400 : classifier (110) - DEBUG - crossval score - average:0.95
+2025-12-11 02:01:35,402 : classifier (113) - DEBUG - errors in classification:
+  gold predicted
+0  vtg        sh
+1   sh       vtg
+2025-12-11 02:01:35,405 : classifier (137) - DEBUG - selected features:5 Index(['WPsizeinchars', 'Realtotalratio', 'Population Size', 'Digital Support',
+       'has_glottolog'],
+      dtype='object')
+2025-12-11 02:01:35,411 : classifier (148) - DEBUG - labelings:
+exp_with_feature_sel_1
+sh     8647
+vtg     249
+Name: count, dtype: int64
+2025-12-11 02:01:35,417 : classifier (99) - DEBUG - training data:                 seed_label
+integrated_code           
+ind                    vtg
+dse                     sh
+enm                     sh
+fra                    vtg
+oge                     sh
+guj                    vtg
+isl                    vtg
+arb                    vtg
+syc                     sh
+mya                    vtg
+nie                     sh
+gdu                     sh
+hun                    vtg
+yde                     sh
+bod                    vtg
+eng                    vtg
+ksv                     sh
+chu                     sh
+jpn                    vtg
+por                    vtg
+mal                    vtg
+uig                    vtg
+geg                     sh
+cat                    vtg
+lat                     sh
+nci                     sh
+cda                     sh
+cop                     sh
+glv                     sh
+eus                    vtg
+kso                     sh
+hvc                     sh
+ita                    vtg
+zul                    vtg
+wol                    vtg
+lao                    vtg
+tur                    vtg
+dyb                     sh
+non                     sh
+got                     sh
+2025-12-11 02:01:35,450 : classifier (110) - DEBUG - crossval score - average:1.0
+2025-12-11 02:01:35,452 : classifier (137) - DEBUG - selected features:1 Index(['Population Size'], dtype='object')
+2025-12-11 02:01:35,459 : classifier (148) - DEBUG - labelings:
+exp_with_feature_sel_2
+sh     8411
+vtg     485
+Name: count, dtype: int64
+2025-12-11 02:01:35,467 : classifier (99) - DEBUG - training data:                 seed_label
+integrated_code           
+orv                     sh
+cop                     sh
+hye                    vtg
+uig                    vtg
+ang                     sh
+tuk                    vtg
+pol                    vtg
+swe                    vtg
+arb                    vtg
+hbs                    vtg
+lzh                     sh
+ltn                     sh
+xcl                     sh
+kat                    vtg
+ell                    vtg
+ori                    vtg
+kab                    vtg
+xko                     sh
+pli                     sh
+osx                     sh
+nci                     sh
+rus                    vtg
+hau                    vtg
+ces                    vtg
+xso                     sh
+elo                     sh
+got                     sh
+mrk                     sh
+bod                    vtg
+klx                     sh
+fra                    vtg
+enm                     sh
+jab                     sh
+eng                    vtg
+sjl                     sh
+vie                    vtg
+tur                    vtg
+lli                     sh
+vaf                     sh
+mya                    vtg
+2025-12-11 02:01:35,513 : classifier (110) - DEBUG - crossval score - average:0.95
+2025-12-11 02:01:35,515 : classifier (113) - DEBUG - errors in classification:
+  gold predicted
+0  vtg        sh
+1  vtg        sh
+2025-12-11 02:01:35,520 : classifier (137) - DEBUG - selected features:4 Index(['Population Size', 'Digital Support', 'tatoeba_sentences',
+       'is_macrolanguage'],
+      dtype='object')
+2025-12-11 02:01:35,527 : classifier (148) - DEBUG - labelings:
+exp_with_feature_sel_3
+sh     8458
+vtg     438
+Name: count, dtype: int64
+2025-12-11 02:01:35,536 : classifier (99) - DEBUG - training data:                 seed_label
+integrated_code           
+xcl                     sh
+ind                    vtg
+tir                    vtg
+grc                     sh
+yue                    vtg
+sun                    vtg
+cat                    vtg
+kuj                     sh
+dan                    vtg
+zha                    vtg
+heb                    vtg
+spa                    vtg
+kby                     sh
+dum                     sh
+pln                     sh
+lat                     sh
+oge                     sh
+cor                     sh
+nld                    vtg
+ita                    vtg
+vie                    vtg
+guj                    vtg
+tuk                    vtg
+cpi                     sh
+hbo                     sh
+enm                     sh
+okd                     sh
+tat                    vtg
+zho                    vtg
+igb                     sh
+hun                    vtg
+dmg                     sh
+nep                    vtg
+ful                    vtg
+tam                    vtg
+got                     sh
+wav                     sh
+cop                     sh
+kxj                     sh
+xxm                     sh
+2025-12-11 02:01:35,583 : classifier (110) - DEBUG - crossval score - average:0.95
+2025-12-11 02:01:35,586 : classifier (113) - DEBUG - errors in classification:
+  gold predicted
+0  vtg        sh
+1   sh       vtg
+2025-12-11 02:01:35,590 : classifier (137) - DEBUG - selected features:4 Index(['Population Size', 'Digital Support', 'has_glottolog',
+       'is_macrolanguage'],
+      dtype='object')
+2025-12-11 02:01:35,596 : classifier (148) - DEBUG - labelings:
+exp_with_feature_sel_4
+sh     8630
+vtg     266
+Name: count, dtype: int64
+2025-12-11 02:01:35,601 : classifier (99) - DEBUG - training data:                 seed_label
+integrated_code           
+som                    vtg
+lzh                     sh
+gmy                     sh
+kuj                     sh
+syc                     sh
+nld                    vtg
+hbo                     sh
+kaz                    vtg
+arb                    vtg
+oge                     sh
+afr                    vtg
+sun                    vtg
+mxl                     sh
+cop                     sh
+bjn                    vtg
+lug                    vtg
+heb                    vtg
+hun                    vtg
+ttp                     sh
+lmf                     sh
+leo                     sh
+slk                    vtg
+kor                    vtg
+kat                    vtg
+ces                    vtg
+enm                     sh
+glv                     sh
+bod                    vtg
+chu                     sh
+hin                    vtg
+eng                    vtg
+por                    vtg
+zho                    vtg
+nci                     sh
+grx                     sh
+pkr                     sh
+gmb                     sh
+cor                     sh
+srg                     sh
+kab                    vtg
+2025-12-11 02:01:35,638 : classifier (110) - DEBUG - crossval score - average:0.925
+2025-12-11 02:01:35,639 : classifier (113) - DEBUG - errors in classification:
+  gold predicted
+0  vtg        sh
+1  vtg        sh
+2  vtg        sh
+2025-12-11 02:01:35,642 : classifier (137) - DEBUG - selected features:5 Index(['Population Size', 'Stable', 'Digital Support', 'has_glottolog',
+       'is_macrolanguage'],
+      dtype='object')
+2025-12-11 02:01:35,648 : classifier (148) - DEBUG - labelings:
+exp_with_feature_sel_5
+sh     8365
+vtg     531
+Name: count, dtype: int64
+2025-12-11 02:01:35,653 : classifier (99) - DEBUG - training data:                 seed_label
+integrated_code           
+bam                    vtg
+bhd                     sh
+bli                     sh
+fin                    vtg
+aze                    vtg
+syc                     sh
+aob                     sh
+osx                     sh
+eng                    vtg
+ibo                    vtg
+bos                    vtg
+mal                    vtg
+ang                     sh
+bjn                    vtg
+ful                    vtg
+hbs                    vtg
+igg                     sh
+swe                    vtg
+heb                    vtg
+goh                     sh
+nld                    vtg
+kor                    vtg
+oge                     sh
+rus                    vtg
+kan                    vtg
+grc                     sh
+bvf                     sh
+hrz                     sh
+rui                     sh
+gne                     sh
+nci                     sh
+snm                     sh
+hbo                     sh
+unz                     sh
+spa                    vtg
+ita                    vtg
+lat                     sh
+ind                    vtg
+lzh                     sh
+tir                    vtg
+2025-12-11 02:01:35,692 : classifier (110) - DEBUG - crossval score - average:0.925
+2025-12-11 02:01:35,694 : classifier (113) - DEBUG - errors in classification:
+  gold predicted
+0  vtg        sh
+1  vtg        sh
+2  vtg        sh
+2025-12-11 02:01:35,697 : classifier (137) - DEBUG - selected features:4 Index(['Population Size', 'Digital Support', 'tatoeba_sentences',
+       'is_macrolanguage'],
+      dtype='object')
+2025-12-11 02:01:35,702 : classifier (148) - DEBUG - labelings:
+exp_with_feature_sel_6
+sh     8427
+vtg     469
+Name: count, dtype: int64
+2025-12-11 02:01:35,708 : classifier (99) - DEBUG - training data:                 seed_label
+integrated_code           
+mql                     sh
+cat                    vtg
+kee                     sh
+cor                     sh
+ibo                    vtg
+zko                     sh
+fin                    vtg
+ang                     sh
+kaz                    vtg
+dao                     sh
+lay                     sh
+syc                     sh
+hbo                     sh
+mvv                     sh
+bos                    vtg
+zlm                    vtg
+pol                    vtg
+slk                    vtg
+ell                    vtg
+dum                     sh
+hye                    vtg
+yik                     sh
+eng                    vtg
+arb                    vtg
+mdf                    vtg
+pli                     sh
+nld                    vtg
+ces                    vtg
+nep                    vtg
+glv                     sh
+afr                    vtg
+lat                     sh
+bbm                     sh
+hmh                     sh
+enm                     sh
+zul                    vtg
+spa                    vtg
+orv                     sh
+kdf                     sh
+bod                    vtg
+2025-12-11 02:01:35,743 : classifier (110) - DEBUG - crossval score - average:0.95
+2025-12-11 02:01:35,745 : classifier (113) - DEBUG - errors in classification:
+  gold predicted
+0  vtg        sh
+1  vtg        sh
+2025-12-11 02:01:35,750 : classifier (137) - DEBUG - selected features:4 Index(['Population Size', 'Digital Support', 'has_glottolog',
+       'tatoeba_sentences'],
+      dtype='object')
+2025-12-11 02:01:35,755 : classifier (148) - DEBUG - labelings:
+exp_with_feature_sel_7
+sh     8367
+vtg     529
+Name: count, dtype: int64
+2025-12-11 02:01:35,760 : classifier (99) - DEBUG - training data:                 seed_label
+integrated_code           
+pol                    vtg
+ruk                     sh
+goh                     sh
+hbo                     sh
+zho                    vtg
+ckb                    vtg
+nci                     sh
+cat                    vtg
+tur                    vtg
+uig                    vtg
+syc                     sh
+dan                    vtg
+pmc                     sh
+nep                    vtg
+lzh                     sh
+gab                     sh
+yue                    vtg
+lat                     sh
+ukr                    vtg
+cjy                     sh
+jab                     sh
+kan                    vtg
+cop                     sh
+rus                    vtg
+pli                     sh
+arb                    vtg
+ynd                     sh
+mya                    vtg
+das                     sh
+eng                    vtg
+kab                    vtg
+llf                     sh
+jub                     sh
+lhp                     sh
+osx                     sh
+urd                    vtg
+asm                    vtg
+sun                    vtg
+hun                    vtg
+got                     sh
+2025-12-11 02:01:35,800 : classifier (110) - DEBUG - crossval score - average:0.95
+2025-12-11 02:01:35,803 : classifier (113) - DEBUG - errors in classification:
+  gold predicted
+0  vtg        sh
+1  vtg        sh
+2025-12-11 02:01:35,806 : classifier (137) - DEBUG - selected features:5 Index(['Population Size', 'Digital Support', 'has_glottolog',
+       'tatoeba_sentences', 'is_macrolanguage'],
+      dtype='object')
+2025-12-11 02:01:35,813 : classifier (148) - DEBUG - labelings:
+exp_with_feature_sel_8
+sh     8414
+vtg     482
+Name: count, dtype: int64
+2025-12-11 02:01:35,822 : classifier (99) - DEBUG - training data:                 seed_label
+integrated_code           
+slk                    vtg
+tur                    vtg
+oty                     sh
+dan                    vtg
+bam                    vtg
+pha                     sh
+mar                    vtg
+wol                    vtg
+avn                     sh
+chu                     sh
+got                     sh
+lat                     sh
+bdb                     sh
+syc                     sh
+lao                    vtg
+swe                    vtg
+arb                    vtg
+ful                    vtg
+bkj                     sh
+glv                     sh
+spa                    vtg
+hbo                     sh
+ang                     sh
+spg                     sh
+fin                    vtg
+uzb                    vtg
+nep                    vtg
+pli                     sh
+fra                    vtg
+orv                     sh
+cbn                     sh
+nya                    vtg
+uig                    vtg
+rus                    vtg
+bvo                     sh
+rax                     sh
+ita                    vtg
+brl                     sh
+oge                     sh
+zlm                    vtg
+2025-12-11 02:01:35,862 : classifier (110) - DEBUG - crossval score - average:0.875
+2025-12-11 02:01:35,864 : classifier (113) - DEBUG - errors in classification:
+  gold predicted
+0  vtg        sh
+1  vtg        sh
+2  vtg        sh
+3  vtg        sh
+4  vtg        sh
+2025-12-11 02:01:35,869 : classifier (137) - DEBUG - selected features:4 Index(['Population Size', 'Digital Support', 'has_bible', 'is_macrolanguage'], dtype='object')
+2025-12-11 02:01:35,876 : classifier (148) - DEBUG - labelings:
+exp_with_feature_sel_9
+sh     8376
+vtg     520
+Name: count, dtype: int64
+2025-12-11 02:01:35,885 : classifier (99) - DEBUG - training data:                 seed_label
+integrated_code           
+clh                     sh
+pnb                    vtg
+bhm                     sh
+kat                    vtg
+kor                    vtg
+lat                     sh
+lug                    vtg
+rus                    vtg
+mya                    vtg
+glv                     sh
+fra                    vtg
+got                     sh
+xcl                     sh
+nld                    vtg
+ktl                     sh
+por                    vtg
+orm                    vtg
+ful                    vtg
+bjn                    vtg
+chu                     sh
+lur                     sh
+eng                    vtg
+bet                     sh
+pod                     sh
+vie                    vtg
+lzh                     sh
+ffm                     sh
+osx                     sh
+ita                    vtg
+orv                     sh
+gdm                     sh
+tsn                    vtg
+ces                    vtg
+ukr                    vtg
+enm                     sh
+zha                    vtg
+gse                     sh
+pli                     sh
+mko                     sh
+bam                    vtg
+2025-12-11 02:01:35,930 : classifier (110) - DEBUG - crossval score - average:0.9
+2025-12-11 02:01:35,933 : classifier (113) - DEBUG - errors in classification:
+  gold predicted
+0   sh       vtg
+1   sh       vtg
+2  vtg        sh
+3  vtg        sh
+2025-12-11 02:01:35,938 : classifier (137) - DEBUG - selected features:6 Index(['WPsizeinchars', 'Realtotalratio', 'Population Size', 'Digital Support',
+       'has_glottolog', 'has_bible'],
+      dtype='object')
+2025-12-11 02:01:35,945 : classifier (148) - DEBUG - labelings:
+exp_with_feature_sel_10
+sh     8655
+vtg     241
+Name: count, dtype: int64
+2025-12-11 02:01:35,954 : classifier (99) - DEBUG - training data:                 seed_label
+integrated_code           
+jos                     sh
+kir                    vtg
+ang                     sh
+enm                     sh
+ato                     sh
+kor                    vtg
+nep                    vtg
+vie                    vtg
+vmu                     sh
+ztx                     sh
+eng                    vtg
+hau                    vtg
+syc                     sh
+isl                    vtg
+bjn                    vtg
+ogu                     sh
+tur                    vtg
+pli                     sh
+dum                     sh
+cor                     sh
+ksz                     sh
+fin                    vtg
+sub                     sh
+swe                    vtg
+adr                     sh
+cop                     sh
+xcl                     sh
+zul                    vtg
+kab                    vtg
+jpn                    vtg
+zho                    vtg
+mal                    vtg
+ymk                     sh
+ful                    vtg
+ruz                     sh
+por                    vtg
+wol                    vtg
+chu                     sh
+nld                    vtg
+nci                     sh
+2025-12-11 02:01:35,997 : classifier (110) - DEBUG - crossval score - average:0.95
+2025-12-11 02:01:35,998 : classifier (113) - DEBUG - errors in classification:
+  gold predicted
+0  vtg        sh
+1  vtg        sh
+2025-12-11 02:01:36,001 : classifier (137) - DEBUG - selected features:6 Index(['Realtotalratio', 'Population Size', 'Digital Support', 'has_glottolog',
+       'has_bible', 'is_macrolanguage'],
+      dtype='object')
+2025-12-11 02:01:36,006 : classifier (148) - DEBUG - labelings:
+exp_with_feature_sel_11
+sh     8678
+vtg     218
+Name: count, dtype: int64
+2025-12-11 02:01:36,011 : classifier (99) - DEBUG - training data:                 seed_label
+integrated_code           
+mdf                    vtg
+tel                    vtg
+mal                    vtg
+ell                    vtg
+dan                    vtg
+lzh                     sh
+hau                    vtg
+wuu                    vtg
+lat                     sh
+ffm                     sh
+vie                    vtg
+zho                    vtg
+tng                     sh
+uzb                    vtg
+dnk                     sh
+bjn                    vtg
+osx                     sh
+lug                    vtg
+goh                     sh
+ind                    vtg
+hun                    vtg
+cor                     sh
+nik                     sh
+dum                     sh
+kre                     sh
+dii                     sh
+hid                     sh
+tam                    vtg
+ita                    vtg
+cop                     sh
+orv                     sh
+nci                     sh
+lls                     sh
+cat                    vtg
+pol                    vtg
+fra                    vtg
+pij                     sh
+ang                     sh
+wol                    vtg
+nbo                     sh
+2025-12-11 02:01:36,049 : classifier (110) - DEBUG - crossval score - average:0.9
+2025-12-11 02:01:36,052 : classifier (113) - DEBUG - errors in classification:
+  gold predicted
+0  vtg        sh
+1  vtg        sh
+2  vtg        sh
+3  vtg        sh
+2025-12-11 02:01:36,056 : classifier (137) - DEBUG - selected features:6 Index(['Avggoodpagelength', 'Population Size', 'Digital Support',
+       'has_glottolog', 'has_bible', 'is_macrolanguage'],
+      dtype='object')
+2025-12-11 02:01:36,067 : classifier (148) - DEBUG - labelings:
+exp_with_feature_sel_12
+sh     8616
+vtg     280
+Name: count, dtype: int64
+2025-12-11 02:01:36,072 : classifier (99) - DEBUG - training data:                 seed_label
+integrated_code           
+jpn                    vtg
+aze                    vtg
+cor                     sh
+goh                     sh
+zha                    vtg
+abc                     sh
+uzb                    vtg
+nmg                     sh
+swe                    vtg
+xlo                     sh
+ang                     sh
+kab                    vtg
+ita                    vtg
+kuc                     sh
+lug                    vtg
+got                     sh
+guq                     sh
+cat                    vtg
+pli                     sh
+ukr                    vtg
+uig                    vtg
+wol                    vtg
+fra                    vtg
+tel                    vtg
+hun                    vtg
+ghr                     sh
+vum                     sh
+xcl                     sh
+lzh                     sh
+hau                    vtg
+spa                    vtg
+afr                    vtg
+arb                    vtg
+nts                     sh
+oge                     sh
+por                    vtg
+orv                     sh
+nci                     sh
+inl                     sh
+dez                     sh
+2025-12-11 02:01:36,112 : classifier (110) - DEBUG - crossval score - average:0.9
+2025-12-11 02:01:36,115 : classifier (113) - DEBUG - errors in classification:
+  gold predicted
+0  vtg        sh
+1  vtg        sh
+2  vtg        sh
+3  vtg        sh
+2025-12-11 02:01:36,119 : classifier (137) - DEBUG - selected features:4 Index(['Population Size', 'Digital Support', 'has_bible', 'is_macrolanguage'], dtype='object')
+2025-12-11 02:01:36,126 : classifier (148) - DEBUG - labelings:
+exp_with_feature_sel_13
+sh     8376
+vtg     520
+Name: count, dtype: int64
+2025-12-11 02:01:36,134 : classifier (99) - DEBUG - training data:                 seed_label
+integrated_code           
+wwb                     sh
+zho                    vtg
+nfd                     sh
+ang                     sh
+kan                    vtg
+aze                    vtg
+tuk                    vtg
+eng                    vtg
+wsi                     sh
+ise                     sh
+tiy                     sh
+mkx                     sh
+hbo                     sh
+pli                     sh
+enm                     sh
+khm                    vtg
+nld                    vtg
+tis                     sh
+ckb                    vtg
+lzh                     sh
+tir                    vtg
+ori                    vtg
+tam                    vtg
+goh                     sh
+bod                    vtg
+rus                    vtg
+lat                     sh
+por                    vtg
+arb                    vtg
+bjb                     sh
+ggg                     sh
+cse                     sh
+slk                    vtg
+jpn                    vtg
+cat                    vtg
+oge                     sh
+non                     sh
+ind                    vtg
+cor                     sh
+kaz                    vtg
+2025-12-11 02:01:36,169 : classifier (110) - DEBUG - crossval score - average:0.925
+2025-12-11 02:01:36,171 : classifier (113) - DEBUG - errors in classification:
+  gold predicted
+0  vtg        sh
+1  vtg        sh
+2  vtg        sh
+2025-12-11 02:01:36,174 : classifier (137) - DEBUG - selected features:5 Index(['Population Size', 'Digital Support', 'has_glottolog', 'has_bible',
+       'is_macrolanguage'],
+      dtype='object')
+2025-12-11 02:01:36,178 : classifier (148) - DEBUG - labelings:
+exp_with_feature_sel_14
+sh     8641
+vtg     255
+Name: count, dtype: int64
+2025-12-11 02:01:36,183 : classifier (99) - DEBUG - training data:                 seed_label
+integrated_code           
+smx                     sh
+cop                     sh
+mjm                     sh
+afr                    vtg
+lat                     sh
+bos                    vtg
+pli                     sh
+gve                     sh
+dan                    vtg
+cbb                     sh
+ibo                    vtg
+ind                    vtg
+arb                    vtg
+ces                    vtg
+ukr                    vtg
+syc                     sh
+ckb                    vtg
+enm                     sh
+goh                     sh
+bjn                    vtg
+got                     sh
+nya                    vtg
+zlm                    vtg
+xaa                     sh
+fin                    vtg
+lok                     sh
+pol                    vtg
+tur                    vtg
+uig                    vtg
+fra                    vtg
+nci                     sh
+yzg                     sh
+zho                    vtg
+hca                     sh
+glv                     sh
+grc                     sh
+kci                     sh
+bod                    vtg
+gvy                     sh
+mar                    vtg
+2025-12-11 02:01:36,228 : classifier (110) - DEBUG - crossval score - average:0.975
+2025-12-11 02:01:36,231 : classifier (113) - DEBUG - errors in classification:
+  gold predicted
+0  vtg        sh
+2025-12-11 02:01:36,235 : classifier (137) - DEBUG - selected features:3 Index(['Population Size', 'Digital Support', 'has_bible'], dtype='object')
+2025-12-11 02:01:36,243 : classifier (148) - DEBUG - labelings:
+exp_with_feature_sel_15
+sh     8402
+vtg     494
+Name: count, dtype: int64
+2025-12-11 02:01:36,251 : classifier (99) - DEBUG - training data:                 seed_label
+integrated_code           
+pli                     sh
+sin                    vtg
+grc                     sh
+zho                    vtg
+njt                     sh
+cor                     sh
+ckb                    vtg
+goh                     sh
+spa                    vtg
+ell                    vtg
+cop                     sh
+kan                    vtg
+isl                    vtg
+cdo                    vtg
+aze                    vtg
+syc                     sh
+heb                    vtg
+sen                     sh
+dan                    vtg
+kxd                     sh
+tur                    vtg
+lat                     sh
+por                    vtg
+nci                     sh
+jpn                    vtg
+tat                    vtg
+kat                    vtg
+tdi                     sh
+cdn                     sh
+lgb                     sh
+tsn                    vtg
+fin                    vtg
+zln                     sh
+ind                    vtg
+got                     sh
+sia                     sh
+ang                     sh
+sun                    vtg
+jiy                     sh
+bcn                     sh
+2025-12-11 02:01:36,294 : classifier (110) - DEBUG - crossval score - average:0.95
+2025-12-11 02:01:36,297 : classifier (113) - DEBUG - errors in classification:
+  gold predicted
+0  vtg        sh
+1  vtg        sh
+2025-12-11 02:01:36,303 : classifier (137) - DEBUG - selected features:10 Index(['seed_label', 'WPincubatornew', 'Avggoodpagelength', 'Population Size',
+       'Stable', 'Digital Support', 'has_glottolog', 'has_bible',
+       'tatoeba_sentences', 'is_macrolanguage'],
+      dtype='object')
+2025-12-11 02:01:36,313 : classifier (148) - DEBUG - labelings:
+exp_with_feature_sel_16
+sh     8644
+vtg     252
+Name: count, dtype: int64
+2025-12-11 02:01:36,319 : classifier (99) - DEBUG - training data:                 seed_label
+integrated_code           
+cor                     sh
+dum                     sh
+ibo                    vtg
+syc                     sh
+kaz                    vtg
+lao                    vtg
+gds                     sh
+pli                     sh
+baw                     sh
+asm                    vtg
+ind                    vtg
+lat                     sh
+sga                     sh
+por                    vtg
+yir                     sh
+igw                     sh
+tsn                    vtg
+orv                     sh
+ddd                     sh
+tur                    vtg
+fra                    vtg
+osx                     sh
+mnl                     sh
+spa                    vtg
+abu                     sh
+ces                    vtg
+swe                    vtg
+hke                     sh
+khm                    vtg
+afr                    vtg
+awt                     sh
+jpn                    vtg
+ckb                    vtg
+bod                    vtg
+ita                    vtg
+glv                     sh
+hbo                     sh
+nya                    vtg
+cat                    vtg
+cop                     sh
+2025-12-11 02:01:36,359 : classifier (110) - DEBUG - crossval score - average:1.0
+2025-12-11 02:01:36,364 : classifier (137) - DEBUG - selected features:1 Index(['Population Size'], dtype='object')
+2025-12-11 02:01:36,372 : classifier (148) - DEBUG - labelings:
+exp_with_feature_sel_17
+sh     8411
+vtg     485
+Name: count, dtype: int64
+2025-12-11 02:01:36,379 : classifier (99) - DEBUG - training data:                 seed_label
+integrated_code           
+swe                    vtg
+rus                    vtg
+zho                    vtg
+mqq                     sh
+lzh                     sh
+oge                     sh
+uky                     sh
+ind                    vtg
+vie                    vtg
+yoy                     sh
+orv                     sh
+smx                     sh
+lug                    vtg
+glv                     sh
+orm                    vtg
+kyd                     sh
+nci                     sh
+nld                    vtg
+pol                    vtg
+uru                     sh
+kfv                     sh
+osx                     sh
+ang                     sh
+asm                    vtg
+chu                     sh
+abs                     sh
+ukr                    vtg
+khm                    vtg
+kor                    vtg
+lat                     sh
+gdx                     sh
+mar                    vtg
+uzb                    vtg
+mdf                    vtg
+tam                    vtg
+goh                     sh
+wuu                    vtg
+fra                    vtg
+bel                    vtg
+bns                     sh
+2025-12-11 02:01:36,421 : classifier (110) - DEBUG - crossval score - average:0.925
+2025-12-11 02:01:36,423 : classifier (113) - DEBUG - errors in classification:
+  gold predicted
+0   sh       vtg
+1  vtg        sh
+2  vtg        sh
+2025-12-11 02:01:36,426 : classifier (137) - DEBUG - selected features:5 Index(['Digital Support', 'has_glottolog', 'has_bible', 'tatoeba_sentences',
+       'is_macrolanguage'],
+      dtype='object')
+2025-12-11 02:01:36,430 : classifier (148) - DEBUG - labelings:
+exp_with_feature_sel_18
+sh     8588
+vtg     308
+Name: count, dtype: int64
+2025-12-11 02:01:36,436 : classifier (99) - DEBUG - training data:                 seed_label
+integrated_code           
+uig                    vtg
+ind                    vtg
+mdu                     sh
+bbw                     sh
+mon                    vtg
+kab                    vtg
+nxm                     sh
+rus                    vtg
+lzh                     sh
+goh                     sh
+got                     sh
+glv                     sh
+tow                     sh
+dne                     sh
+lat                     sh
+hau                    vtg
+nld                    vtg
+zho                    vtg
+lao                    vtg
+ang                     sh
+ukr                    vtg
+por                    vtg
+afr                    vtg
+oge                     sh
+hbo                     sh
+syc                     sh
+tqr                     sh
+xoo                     sh
+eng                    vtg
+rth                     sh
+orm                    vtg
+mal                    vtg
+tat                    vtg
+ita                    vtg
+kor                    vtg
+bos                    vtg
+qvj                     sh
+dan                    vtg
+bml                     sh
+grc                     sh
+2025-12-11 02:01:36,476 : classifier (110) - DEBUG - crossval score - average:0.95
+2025-12-11 02:01:36,478 : classifier (113) - DEBUG - errors in classification:
+  gold predicted
+0  vtg        sh
+1  vtg        sh
+2025-12-11 02:01:36,480 : classifier (137) - DEBUG - selected features:5 Index(['Population Size', 'Digital Support', 'has_glottolog', 'has_bible',
+       'is_macrolanguage'],
+      dtype='object')
+2025-12-11 02:01:36,484 : classifier (148) - DEBUG - labelings:
+exp_with_feature_sel_19
+sh     8644
+vtg     252
+Name: count, dtype: int64
+2025-12-11 02:01:36,489 : classifier (99) - DEBUG - training data:                 seed_label
+integrated_code           
+tir                    vtg
+uig                    vtg
+okl                     sh
+pnb                    vtg
+dum                     sh
+sha                     sh
+nlu                     sh
+spa                    vtg
+enm                     sh
+osx                     sh
+cat                    vtg
+zlm                    vtg
+pol                    vtg
+bjn                    vtg
+tks                     sh
+hbo                     sh
+orm                    vtg
+oge                     sh
+pli                     sh
+wuu                    vtg
+urd                    vtg
+ell                    vtg
+yaw                     sh
+vie                    vtg
+jpn                    vtg
+tel                    vtg
+xcl                     sh
+mea                     sh
+non                     sh
+por                    vtg
+ymz                     sh
+brb                     sh
+glv                     sh
+usi                     sh
+rus                    vtg
+aze                    vtg
+cop                     sh
+hun                    vtg
+eng                    vtg
+bpd                     sh
+2025-12-11 02:01:36,535 : classifier (110) - DEBUG - crossval score - average:0.9
+2025-12-11 02:01:36,537 : classifier (113) - DEBUG - errors in classification:
+  gold predicted
+0  vtg        sh
+1  vtg        sh
+2   sh       vtg
+3   sh       vtg
+2025-12-11 02:01:36,542 : classifier (137) - DEBUG - selected features:4 Index(['Population Size', 'Stable', 'Digital Support', 'is_macrolanguage'], dtype='object')
+2025-12-11 02:01:36,549 : classifier (148) - DEBUG - labelings:
+exp_with_feature_sel_20
+sh     8303
+vtg     593
+Name: count, dtype: int64
+2025-12-11 02:01:36,689 : classifier (235) - DEBUG - Crossvalidation results (all):
+count    20.000000
+mean      0.937500
+std       0.032947
+min       0.875000
+25%       0.918750
+50%       0.950000
+75%       0.950000
+max       1.000000
+dtype: float64
+2025-12-11 02:01:36,690 : classifier (237) - DEBUG - Statuses based on all labelings:
+status
+dead          8237
+borderline     506
+living         152
+Name: count, dtype: int64
+2025-12-11 02:01:36,691 : classifier (239) - DEBUG - Stable languages based on all labelings:
+stable
+sh     8237
+-       506
+vtg     152
+Name: count, dtype: int64
+2025-12-11 02:01:36,693 : classifier (245) - INFO - Crossvalidation results (filtered by limit 0.9):
+count    15.000000
+mean      0.951667
+std       0.024029
+min       0.925000
+25%       0.937500
+50%       0.950000
+75%       0.950000
+max       1.000000
+dtype: float64
+2025-12-11 02:01:36,694 : classifier (248) - INFO - Statuses based on labelings (where crossvalidation exceeds limit):
+status_best
+dead          8274
+borderline     469
+living         152
+Name: count, dtype: int64
+2025-12-11 02:01:36,695 : classifier (251) - INFO - Stable languages based on labelings (where crossvalidation exceeds limit):
+stable_best
+sh     8274
+-       469
+vtg     152
+Name: count, dtype: int64
+2025-12-11 02:01:36,697 : classifier (258) - INFO - exporting dataframe to replicated_results/my_experiment.tsv
+2025-12-11 02:01:54,526 : classifier (30) - INFO - Dropping status features
+2025-12-11 02:01:54,532 : classifier (99) - DEBUG - training data:                 seed_label
+integrated_code           
+cno                     sh
+sor                     sh
+arb                    vtg
+zho                    vtg
+khm                    vtg
+asw                     sh
+slk                    vtg
+enm                     sh
+orr                     sh
+isl                    vtg
+ang                     sh
+spa                    vtg
+nld                    vtg
+sin                    vtg
+hun                    vtg
+asm                    vtg
+goh                     sh
+osx                     sh
+mpl                     sh
+tur                    vtg
+xnb                     sh
+zha                    vtg
+kor                    vtg
+pol                    vtg
+hbs                    vtg
+nya                    vtg
+cdo                    vtg
+cor                     sh
+mar                    vtg
+por                    vtg
+lzh                     sh
+wbf                     sh
+myl                     sh
+oge                     sh
+lat                     sh
+got                     sh
+izz                     sh
+orm                    vtg
+dee                     sh
+xcl                     sh
+2025-12-11 02:01:54,573 : classifier (110) - DEBUG - crossval score - average:0.925
+2025-12-11 02:01:54,575 : classifier (113) - DEBUG - errors in classification:
+  gold predicted
+0  vtg        sh
+1  vtg        sh
+2   sh       vtg
+2025-12-11 02:01:54,581 : classifier (137) - DEBUG - selected features:6 Index(['AdjustedWPsize', 'Population Size', 'Digital Support',
+       'tatoeba_sentences', 'has_wals', 'is_macrolanguage'],
+      dtype='object')
+2025-12-11 02:01:54,590 : classifier (148) - DEBUG - labelings:
+exp_with_feature_sel_1
+sh     8428
+vtg     468
+Name: count, dtype: int64
+2025-12-11 02:01:54,597 : classifier (99) - DEBUG - training data:                 seed_label
+integrated_code           
+pux                     sh
+spa                    vtg
+uzb                    vtg
+bjn                    vtg
+wsu                     sh
+ita                    vtg
+hye                    vtg
+hin                    vtg
+chu                     sh
+hbo                     sh
+ces                    vtg
+syc                     sh
+som                    vtg
+afr                    vtg
+uig                    vtg
+avk                     sh
+cat                    vtg
+eng                    vtg
+pie                     sh
+dum                     sh
+aes                     sh
+dan                    vtg
+dhr                     sh
+hau                    vtg
+ell                    vtg
+zul                    vtg
+cop                     sh
+hun                    vtg
+lmb                     sh
+wuu                    vtg
+nci                     sh
+ktc                     sh
+wac                     sh
+glv                     sh
+slk                    vtg
+enm                     sh
+ukr                    vtg
+orv                     sh
+apt                     sh
+pli                     sh
+2025-12-11 02:01:54,640 : classifier (110) - DEBUG - crossval score - average:0.95
+2025-12-11 02:01:54,642 : classifier (113) - DEBUG - errors in classification:
+  gold predicted
+0  vtg        sh
+1  vtg        sh
+2025-12-11 02:01:54,645 : classifier (137) - DEBUG - selected features:5 Index(['Avggoodpagelength', 'Population Size', 'Stable', 'Digital Support',
+       'is_macrolanguage'],
+      dtype='object')
+2025-12-11 02:01:54,649 : classifier (148) - DEBUG - labelings:
+exp_with_feature_sel_2
+sh     8351
+vtg     545
+Name: count, dtype: int64
+2025-12-11 02:01:54,655 : classifier (99) - DEBUG - training data:                 seed_label
+integrated_code           
+kab                    vtg
+umu                     sh
+por                    vtg
+oge                     sh
+glv                     sh
+kaz                    vtg
+syc                     sh
+sfw                     sh
+cat                    vtg
+bpt                     sh
+jpn                    vtg
+rus                    vtg
+goh                     sh
+tur                    vtg
+lat                     sh
+lug                    vtg
+isl                    vtg
+bnx                     sh
+qun                     sh
+hun                    vtg
+dum                     sh
+ang                     sh
+law                     sh
+cpn                     sh
+yue                    vtg
+fin                    vtg
+zzj                     sh
+llo                     sh
+spa                    vtg
+bam                    vtg
+gso                     sh
+nep                    vtg
+enm                     sh
+uzb                    vtg
+fra                    vtg
+sin                    vtg
+osx                     sh
+arb                    vtg
+got                     sh
+kir                    vtg
+2025-12-11 02:01:54,701 : classifier (110) - DEBUG - crossval score - average:0.925
+2025-12-11 02:01:54,703 : classifier (113) - DEBUG - errors in classification:
+  gold predicted
+0  vtg        sh
+1  vtg        sh
+2  vtg        sh
+2025-12-11 02:01:54,706 : classifier (137) - DEBUG - selected features:4 Index(['Population Size', 'Digital Support', 'has_glottolog', 'has_bible'], dtype='object')
+2025-12-11 02:01:54,711 : classifier (148) - DEBUG - labelings:
+exp_with_feature_sel_3
+sh     8385
+vtg     511
+Name: count, dtype: int64
+2025-12-11 02:01:54,718 : classifier (99) - DEBUG - training data:                 seed_label
+integrated_code           
+swe                    vtg
+glg                    vtg
+wci                     sh
+lzh                     sh
+asm                    vtg
+sun                    vtg
+dse                     sh
+urd                    vtg
+nya                    vtg
+ind                    vtg
+ckb                    vtg
+pli                     sh
+ces                    vtg
+zho                    vtg
+glv                     sh
+sgi                     sh
+mfk                     sh
+kor                    vtg
+cor                     sh
+kym                     sh
+ang                     sh
+fin                    vtg
+aze                    vtg
+heb                    vtg
+goh                     sh
+kwm                     sh
+spa                    vtg
+nci                     sh
+knl                     sh
+doq                     sh
+ell                    vtg
+enm                     sh
+lap                     sh
+xcl                     sh
+osx                     sh
+tel                    vtg
+kqv                     sh
+hau                    vtg
+por                    vtg
+kab                    vtg
+2025-12-11 02:01:54,763 : classifier (110) - DEBUG - crossval score - average:0.9
+2025-12-11 02:01:54,766 : classifier (113) - DEBUG - errors in classification:
+  gold predicted
+0  vtg        sh
+1  vtg        sh
+2   sh       vtg
+3   sh       vtg
+2025-12-11 02:01:54,771 : classifier (137) - DEBUG - selected features:5 Index(['seed_label', 'WPincubatornew', 'Population Size', 'Digital Support',
+       'has_glottolog'],
+      dtype='object')
+2025-12-11 02:01:54,777 : classifier (148) - DEBUG - labelings:
+exp_with_feature_sel_4
+sh     8644
+vtg     252
+Name: count, dtype: int64
+2025-12-11 02:01:54,786 : classifier (99) - DEBUG - training data:                 seed_label
+integrated_code           
+syc                     sh
+dbm                     sh
+lzh                     sh
+nci                     sh
+ktd                     sh
+mcj                     sh
+kor                    vtg
+bod                    vtg
+non                     sh
+bju                     sh
+wbh                     sh
+zho                    vtg
+arb                    vtg
+rus                    vtg
+kan                    vtg
+sin                    vtg
+ukr                    vtg
+pyu                     sh
+heb                    vtg
+swe                    vtg
+mml                     sh
+uzb                    vtg
+plr                     sh
+trx                     sh
+ang                     sh
+isl                    vtg
+hbs                    vtg
+slq                     sh
+sun                    vtg
+grc                     sh
+osx                     sh
+pli                     sh
+enm                     sh
+spa                    vtg
+pnb                    vtg
+got                     sh
+ita                    vtg
+hun                    vtg
+yue                    vtg
+urd                    vtg
+2025-12-11 02:01:54,837 : classifier (110) - DEBUG - crossval score - average:0.925
+2025-12-11 02:01:54,839 : classifier (113) - DEBUG - errors in classification:
+  gold predicted
+0  vtg        sh
+1  vtg        sh
+2  vtg        sh
+2025-12-11 02:01:54,844 : classifier (137) - DEBUG - selected features:6 Index(['seed_label', 'WPincubatornew', 'Avggoodpagelength', 'Population Size',
+       'Digital Support', 'tatoeba_sentences'],
+      dtype='object')
+2025-12-11 02:01:54,849 : classifier (148) - DEBUG - labelings:
+exp_with_feature_sel_5
+sh     8408
+vtg     488
+Name: count, dtype: int64
+2025-12-11 02:01:54,853 : classifier (99) - DEBUG - training data:                 seed_label
+integrated_code           
+new                    vtg
+grc                     sh
+oge                     sh
+bos                    vtg
+tam                    vtg
+pol                    vtg
+ayi                     sh
+ces                    vtg
+osx                     sh
+zho                    vtg
+hbo                     sh
+ukr                    vtg
+bnb                     sh
+chu                     sh
+asa                     sh
+syc                     sh
+hun                    vtg
+dan                    vtg
+spa                    vtg
+pnv                     sh
+hau                    vtg
+isl                    vtg
+lka                     sh
+hin                    vtg
+glv                     sh
+sun                    vtg
+udg                     sh
+cat                    vtg
+ita                    vtg
+vit                     sh
+dhn                     sh
+nqo                     sh
+lao                    vtg
+goh                     sh
+tat                    vtg
+cdz                     sh
+non                     sh
+lzh                     sh
+heb                    vtg
+hye                    vtg
+2025-12-11 02:01:54,894 : classifier (110) - DEBUG - crossval score - average:0.95
+2025-12-11 02:01:54,896 : classifier (113) - DEBUG - errors in classification:
+  gold predicted
+0  vtg        sh
+1  vtg        sh
+2025-12-11 02:01:54,901 : classifier (137) - DEBUG - selected features:7 Index(['AdjustedWPsize', 'Population Size', 'Digital Support', 'has_glottolog',
+       'has_bible', 'tatoeba_sentences', 'is_macrolanguage'],
+      dtype='object')
+2025-12-11 02:01:54,908 : classifier (148) - DEBUG - labelings:
+exp_with_feature_sel_6
+sh     8660
+vtg     236
+Name: count, dtype: int64
+2025-12-11 02:01:54,917 : classifier (99) - DEBUG - training data:                 seed_label
+integrated_code           
+oge                     sh
+yot                     sh
+twl                     sh
+nkd                     sh
+got                     sh
+eng                    vtg
+nep                    vtg
+kor                    vtg
+ukr                    vtg
+ita                    vtg
+heb                    vtg
+lug                    vtg
+lzh                     sh
+cuq                     sh
+zho                    vtg
+jpn                    vtg
+grc                     sh
+pli                     sh
+hbo                     sh
+dan                    vtg
+slk                    vtg
+kir                    vtg
+mal                    vtg
+cna                     sh
+sxr                     sh
+xcl                     sh
+syc                     sh
+awy                     sh
+fin                    vtg
+afr                    vtg
+hbs                    vtg
+gus                     sh
+som                    vtg
+akw                     sh
+orm                    vtg
+xai                     sh
+osx                     sh
+nci                     sh
+mdf                    vtg
+mar                    vtg
+2025-12-11 02:01:54,963 : classifier (110) - DEBUG - crossval score - average:0.95
+2025-12-11 02:01:54,966 : classifier (113) - DEBUG - errors in classification:
+  gold predicted
+0  vtg        sh
+1  vtg        sh
+2025-12-11 02:01:54,971 : classifier (137) - DEBUG - selected features:7 Index(['seed_label', 'Realtotalratio', 'Population Size', 'Digital Support',
+       'has_glottolog', 'tatoeba_sentences', 'is_macrolanguage'],
+      dtype='object')
+2025-12-11 02:01:54,975 : classifier (148) - DEBUG - labelings:
+exp_with_feature_sel_7
+sh     8584
+vtg     312
+Name: count, dtype: int64
+2025-12-11 02:01:54,980 : classifier (99) - DEBUG - training data:                 seed_label
+integrated_code           
+tsn                    vtg
+kor                    vtg
+cor                     sh
+spa                    vtg
+hbo                     sh
+lmh                     sh
+kir                    vtg
+osx                     sh
+syc                     sh
+lug                    vtg
+ymd                     sh
+swe                    vtg
+slq                     sh
+pli                     sh
+zul                    vtg
+tss                     sh
+ita                    vtg
+urd                    vtg
+zga                     sh
+ckb                    vtg
+goh                     sh
+ruk                     sh
+ksy                     sh
+zho                    vtg
+rus                    vtg
+cop                     sh
+kab                    vtg
+por                    vtg
+ncc                     sh
+hun                    vtg
+glv                     sh
+asm                    vtg
+tat                    vtg
+nci                     sh
+jda                     sh
+tur                    vtg
+ell                    vtg
+oge                     sh
+mhm                     sh
+bel                    vtg
+2025-12-11 02:01:55,022 : classifier (110) - DEBUG - crossval score - average:0.975
+2025-12-11 02:01:55,024 : classifier (113) - DEBUG - errors in classification:
+  gold predicted
+0  vtg        sh
+2025-12-11 02:01:55,028 : classifier (137) - DEBUG - selected features:6 Index(['seed_label', 'WPincubatornew', 'Population Size', 'Digital Support',
+       'has_glottolog', 'has_bible'],
+      dtype='object')
+2025-12-11 02:01:55,036 : classifier (148) - DEBUG - labelings:
+exp_with_feature_sel_8
+sh     8646
+vtg     250
+Name: count, dtype: int64
+2025-12-11 02:01:55,044 : classifier (99) - DEBUG - training data:                 seed_label
+integrated_code           
+pud                     sh
+arb                    vtg
+vie                    vtg
+nci                     sh
+bel                    vtg
+eng                    vtg
+pli                     sh
+mon                    vtg
+ces                    vtg
+afr                    vtg
+osx                     sh
+guj                    vtg
+cop                     sh
+kor                    vtg
+ihw                     sh
+syc                     sh
+hbo                     sh
+kab                    vtg
+orv                     sh
+tat                    vtg
+rus                    vtg
+hmc                     sh
+spa                    vtg
+glv                     sh
+nya                    vtg
+tur                    vtg
+aes                     sh
+bge                     sh
+tyz                     sh
+wuu                    vtg
+suv                     sh
+por                    vtg
+klk                     sh
+ang                     sh
+cat                    vtg
+qwm                     sh
+zul                    vtg
+enm                     sh
+kdh                     sh
+khm                    vtg
+2025-12-11 02:01:55,090 : classifier (110) - DEBUG - crossval score - average:0.875
+2025-12-11 02:01:55,092 : classifier (113) - DEBUG - errors in classification:
+  gold predicted
+0  vtg        sh
+1  vtg        sh
+2   sh       vtg
+3  vtg        sh
+4   sh       vtg
+2025-12-11 02:01:55,097 : classifier (137) - DEBUG - selected features:6 Index(['Avggoodpagelength', 'Population Size', 'Digital Support',
+       'has_glottolog', 'tatoeba_sentences', 'is_macrolanguage'],
+      dtype='object')
+2025-12-11 02:01:55,104 : classifier (148) - DEBUG - labelings:
+exp_with_feature_sel_9
+sh     8617
+vtg     279
+Name: count, dtype: int64
+2025-12-11 02:01:55,113 : classifier (99) - DEBUG - training data:                 seed_label
+integrated_code           
+hbo                     sh
+lat                     sh
+xcv                     sh
+nya                    vtg
+krt                     sh
+zul                    vtg
+orv                     sh
+osx                     sh
+ril                     sh
+ffm                     sh
+asm                    vtg
+tuk                    vtg
+pol                    vtg
+tmn                     sh
+bel                    vtg
+dan                    vtg
+ind                    vtg
+bjn                    vtg
+fra                    vtg
+dum                     sh
+enm                     sh
+goh                     sh
+kqm                     sh
+cat                    vtg
+byk                     sh
+nwo                     sh
+non                     sh
+fin                    vtg
+cdo                    vtg
+ces                    vtg
+pli                     sh
+heb                    vtg
+zho                    vtg
+grc                     sh
+nep                    vtg
+bam                    vtg
+wuu                    vtg
+jpn                    vtg
+lzn                     sh
+vme                     sh
+2025-12-11 02:01:55,166 : classifier (110) - DEBUG - crossval score - average:0.9
+2025-12-11 02:01:55,167 : classifier (113) - DEBUG - errors in classification:
+  gold predicted
+0   sh       vtg
+1   sh       vtg
+2  vtg        sh
+3  vtg        sh
+2025-12-11 02:01:55,170 : classifier (137) - DEBUG - selected features:6 Index(['Population Size', 'Endangered', 'Digital Support', 'has_glottolog',
+       'tatoeba_sentences', 'is_macrolanguage'],
+      dtype='object')
+2025-12-11 02:01:55,175 : classifier (148) - DEBUG - labelings:
+exp_with_feature_sel_10
+sh     8586
+vtg     310
+Name: count, dtype: int64
+2025-12-11 02:01:55,180 : classifier (99) - DEBUG - training data:                 seed_label
+integrated_code           
+mar                    vtg
+spa                    vtg
+emy                     sh
+bos                    vtg
+heb                    vtg
+mpl                     sh
+pld                     sh
+ita                    vtg
+vie                    vtg
+lat                     sh
+pns                     sh
+tsn                    vtg
+igw                     sh
+chu                     sh
+tuk                    vtg
+afr                    vtg
+ang                     sh
+fra                    vtg
+hbo                     sh
+xcl                     sh
+yue                    vtg
+tvm                     sh
+syc                     sh
+enm                     sh
+som                    vtg
+lnz                     sh
+glv                     sh
+nld                    vtg
+ukr                    vtg
+nya                    vtg
+non                     sh
+pol                    vtg
+hye                    vtg
+zsu                     sh
+ces                    vtg
+por                    vtg
+dum                     sh
+kah                     sh
+tsa                     sh
+kaz                    vtg
+2025-12-11 02:01:55,225 : classifier (110) - DEBUG - crossval score - average:1.0
+2025-12-11 02:01:55,230 : classifier (137) - DEBUG - selected features:1 Index(['Population Size'], dtype='object')
+2025-12-11 02:01:55,239 : classifier (148) - DEBUG - labelings:
+exp_with_feature_sel_11
+sh     8411
+vtg     485
+Name: count, dtype: int64
+2025-12-11 02:01:55,245 : classifier (99) - DEBUG - training data:                 seed_label
+integrated_code           
+vie                    vtg
+ide                     sh
+cat                    vtg
+mar                    vtg
+arb                    vtg
+slk                    vtg
+ita                    vtg
+prb                     sh
+bel                    vtg
+kaz                    vtg
+fra                    vtg
+orv                     sh
+lzh                     sh
+hau                    vtg
+noi                     sh
+yue                    vtg
+zho                    vtg
+pli                     sh
+ckl                     sh
+ang                     sh
+glg                    vtg
+chu                     sh
+xcl                     sh
+hin                    vtg
+fin                    vtg
+got                     sh
+vig                     sh
+kir                    vtg
+lcd                     sh
+yoy                     sh
+kmy                     sh
+por                    vtg
+glv                     sh
+swe                    vtg
+mys                     sh
+sun                    vtg
+hks                     sh
+tir                    vtg
+cop                     sh
+lat                     sh
+2025-12-11 02:01:55,286 : classifier (110) - DEBUG - crossval score - average:0.95
+2025-12-11 02:01:55,287 : classifier (113) - DEBUG - errors in classification:
+  gold predicted
+0  vtg        sh
+1  vtg        sh
+2025-12-11 02:01:55,293 : classifier (137) - DEBUG - selected features:6 Index(['Avggoodpagelength', 'Population Size', 'Digital Support',
+       'has_glottolog', 'has_bible', 'tatoeba_sentences'],
+      dtype='object')
+2025-12-11 02:01:55,300 : classifier (148) - DEBUG - labelings:
+exp_with_feature_sel_12
+sh     8488
+vtg     408
+Name: count, dtype: int64
+2025-12-11 02:01:55,305 : classifier (99) - DEBUG - training data:                 seed_label
+integrated_code           
+mpd                     sh
+jiq                     sh
+ell                    vtg
+nya                    vtg
+mar                    vtg
+rus                    vtg
+ang                     sh
+syc                     sh
+kor                    vtg
+lat                     sh
+orm                    vtg
+lug                    vtg
+ind                    vtg
+hbo                     sh
+mod                     sh
+agi                     sh
+oge                     sh
+tir                    vtg
+afr                    vtg
+enm                     sh
+orv                     sh
+non                     sh
+fra                    vtg
+grc                     sh
+sih                     sh
+spa                    vtg
+mon                    vtg
+eus                    vtg
+ita                    vtg
+ari                     sh
+dum                     sh
+yab                     sh
+vie                    vtg
+glg                    vtg
+kmd                     sh
+eyo                     sh
+sun                    vtg
+swe                    vtg
+txy                     sh
+tur                    vtg
+2025-12-11 02:01:55,340 : classifier (110) - DEBUG - crossval score - average:1.0
+2025-12-11 02:01:55,342 : classifier (137) - DEBUG - selected features:5 Index(['Population Size', 'Digital Support', 'has_glottolog',
+       'tatoeba_sentences', 'is_macrolanguage'],
+      dtype='object')
+2025-12-11 02:01:55,347 : classifier (148) - DEBUG - labelings:
+exp_with_feature_sel_13
+sh     8575
+vtg     321
+Name: count, dtype: int64
+2025-12-11 02:01:55,352 : classifier (99) - DEBUG - training data:                 seed_label
+integrated_code           
+kor                    vtg
+syc                     sh
+som                    vtg
+wuu                    vtg
+enm                     sh
+ang                     sh
+sun                    vtg
+kab                    vtg
+zho                    vtg
+ces                    vtg
+ega                     sh
+mya                    vtg
+lat                     sh
+ell                    vtg
+hbs                    vtg
+hun                    vtg
+kss                     sh
+yzg                     sh
+gmd                     sh
+kqh                     sh
+heb                    vtg
+nya                    vtg
+tur                    vtg
+rus                    vtg
+mcw                     sh
+yae                     sh
+lzh                     sh
+kaz                    vtg
+got                     sh
+osx                     sh
+spa                    vtg
+nci                     sh
+chu                     sh
+uzb                    vtg
+ste                     sh
+sbo                     sh
+goh                     sh
+soz                     sh
+ckb                    vtg
+arb                    vtg
+2025-12-11 02:01:55,400 : classifier (110) - DEBUG - crossval score - average:0.95
+2025-12-11 02:01:55,402 : classifier (113) - DEBUG - errors in classification:
+  gold predicted
+0  vtg        sh
+1  vtg        sh
+2025-12-11 02:01:55,407 : classifier (137) - DEBUG - selected features:5 Index(['AdjustedWPsize', 'Population Size', 'Digital Support',
+       'tatoeba_sentences', 'is_macrolanguage'],
+      dtype='object')
+2025-12-11 02:01:55,414 : classifier (148) - DEBUG - labelings:
+exp_with_feature_sel_14
+sh     8436
+vtg     460
+Name: count, dtype: int64
+2025-12-11 02:01:55,423 : classifier (99) - DEBUG - training data:                 seed_label
+integrated_code           
+tuj                     sh
+bam                    vtg
+oge                     sh
+glv                     sh
+ell                    vtg
+zho                    vtg
+ang                     sh
+slk                    vtg
+fin                    vtg
+tur                    vtg
+dum                     sh
+sun                    vtg
+lzh                     sh
+dan                    vtg
+ukr                    vtg
+nci                     sh
+jwi                     sh
+gqi                     sh
+chu                     sh
+mlt                    vtg
+pol                    vtg
+heb                    vtg
+tyi                     sh
+orm                    vtg
+bod                    vtg
+fra                    vtg
+grc                     sh
+osx                     sh
+bme                     sh
+syc                     sh
+tuk                    vtg
+ckb                    vtg
+guj                    vtg
+tnw                     sh
+toy                     sh
+taf                     sh
+dae                     sh
+nep                    vtg
+kat                    vtg
+bgn                     sh
+2025-12-11 02:01:55,473 : classifier (110) - DEBUG - crossval score - average:0.95
+2025-12-11 02:01:55,474 : classifier (113) - DEBUG - errors in classification:
+  gold predicted
+0   sh       vtg
+1  vtg        sh
+2025-12-11 02:01:55,477 : classifier (137) - DEBUG - selected features:6 Index(['Population Size', 'Digital Support', 'has_glottolog', 'has_bible',
+       'tatoeba_sentences', 'is_macrolanguage'],
+      dtype='object')
+2025-12-11 02:01:55,482 : classifier (148) - DEBUG - labelings:
+exp_with_feature_sel_15
+sh     8650
+vtg     246
+Name: count, dtype: int64
+2025-12-11 02:01:55,487 : classifier (99) - DEBUG - training data:                 seed_label
+integrated_code           
+dum                     sh
+pol                    vtg
+lbg                     sh
+pli                     sh
+glv                     sh
+vie                    vtg
+wuu                    vtg
+cat                    vtg
+hye                    vtg
+lzh                     sh
+spa                    vtg
+slk                    vtg
+tsb                     sh
+cno                     sh
+mji                     sh
+eng                    vtg
+tsn                    vtg
+por                    vtg
+lna                     sh
+ckb                    vtg
+kab                    vtg
+ita                    vtg
+jub                     sh
+nxl                     sh
+tuk                    vtg
+non                     sh
+swe                    vtg
+ibo                    vtg
+khm                    vtg
+jak                     sh
+osx                     sh
+ces                    vtg
+cor                     sh
+orv                     sh
+hbo                     sh
+syc                     sh
+cfg                     sh
+mlt                    vtg
+urd                    vtg
+loy                     sh
+2025-12-11 02:01:55,528 : classifier (110) - DEBUG - crossval score - average:0.975
+2025-12-11 02:01:55,529 : classifier (113) - DEBUG - errors in classification:
+  gold predicted
+0  vtg        sh
+2025-12-11 02:01:55,532 : classifier (137) - DEBUG - selected features:2 Index(['Population Size', 'is_macrolanguage'], dtype='object')
+2025-12-11 02:01:55,537 : classifier (148) - DEBUG - labelings:
+exp_with_feature_sel_16
+sh     8411
+vtg     485
+Name: count, dtype: int64
+2025-12-11 02:01:55,542 : classifier (99) - DEBUG - training data:                 seed_label
+integrated_code           
+hnh                     sh
+lat                     sh
+ind                    vtg
+pol                    vtg
+sef                     sh
+orv                     sh
+swe                    vtg
+bam                    vtg
+bjn                    vtg
+zho                    vtg
+tur                    vtg
+mya                    vtg
+lzh                     sh
+oge                     sh
+kab                    vtg
+nzb                     sh
+zul                    vtg
+osx                     sh
+tel                    vtg
+nld                    vtg
+grc                     sh
+apg                     sh
+asm                    vtg
+puf                     sh
+nps                     sh
+vie                    vtg
+tir                    vtg
+syc                     sh
+swy                     sh
+got                     sh
+hbo                     sh
+eng                    vtg
+arb                    vtg
+bel                    vtg
+tnw                     sh
+ces                    vtg
+vae                     sh
+jmd                     sh
+dum                     sh
+kir                    vtg
+2025-12-11 02:01:55,593 : classifier (110) - DEBUG - crossval score - average:0.925
+2025-12-11 02:01:55,595 : classifier (113) - DEBUG - errors in classification:
+  gold predicted
+0  vtg        sh
+1  vtg        sh
+2  vtg        sh
+2025-12-11 02:01:55,600 : classifier (137) - DEBUG - selected features:6 Index(['Population Size', 'Digital Support', 'has_glottolog', 'has_bible',
+       'tatoeba_sentences', 'is_macrolanguage'],
+      dtype='object')
+2025-12-11 02:01:55,607 : classifier (148) - DEBUG - labelings:
+exp_with_feature_sel_17
+sh     8487
+vtg     409
+Name: count, dtype: int64
+2025-12-11 02:01:55,615 : classifier (99) - DEBUG - training data:                 seed_label
+integrated_code           
+vie                    vtg
+fra                    vtg
+ori                    vtg
+ukr                    vtg
+sun                    vtg
+glv                     sh
+fui                     sh
+bel                    vtg
+ass                     sh
+aoh                     sh
+tur                    vtg
+orv                     sh
+lzh                     sh
+bgd                     sh
+wuu                    vtg
+cor                     sh
+swe                    vtg
+eng                    vtg
+zkr                     sh
+hbs                    vtg
+teg                     sh
+oge                     sh
+pli                     sh
+urz                     sh
+dum                     sh
+hun                    vtg
+pol                    vtg
+kor                    vtg
+aee                     sh
+glg                    vtg
+arb                    vtg
+goh                     sh
+znk                     sh
+nci                     sh
+ful                    vtg
+jsl                     sh
+kan                    vtg
+lug                    vtg
+lao                    vtg
+xcl                     sh
+2025-12-11 02:01:55,664 : classifier (110) - DEBUG - crossval score - average:0.875
+2025-12-11 02:01:55,667 : classifier (113) - DEBUG - errors in classification:
+  gold predicted
+0   sh       vtg
+1   sh       vtg
+2  vtg        sh
+3  vtg        sh
+4   sh       vtg
+2025-12-11 02:01:55,671 : classifier (137) - DEBUG - selected features:7 Index(['AdjustedWPsize', 'Population Size', 'Stable', 'Digital Support',
+       'has_glottolog', 'tatoeba_sentences', 'is_macrolanguage'],
+      dtype='object')
+2025-12-11 02:01:55,675 : classifier (148) - DEBUG - labelings:
+exp_with_feature_sel_18
+sh     8620
+vtg     276
+Name: count, dtype: int64
+2025-12-11 02:01:55,680 : classifier (99) - DEBUG - training data:                 seed_label
+integrated_code           
+eki                     sh
+jpn                    vtg
+pnb                    vtg
+mon                    vtg
+urd                    vtg
+chu                     sh
+msd                     sh
+tat                    vtg
+nwe                     sh
+oge                     sh
+zlm                    vtg
+ces                    vtg
+enm                     sh
+tur                    vtg
+som                    vtg
+mnl                     sh
+bfi                     sh
+tam                    vtg
+nci                     sh
+guj                    vtg
+cur                     sh
+cop                     sh
+xtq                     sh
+srf                     sh
+khm                    vtg
+slk                    vtg
+fra                    vtg
+ita                    vtg
+grc                     sh
+got                     sh
+ang                     sh
+ijs                     sh
+dum                     sh
+tuk                    vtg
+ukr                    vtg
+rus                    vtg
+xoc                     sh
+glv                     sh
+por                    vtg
+zho                    vtg
+2025-12-11 02:01:55,720 : classifier (110) - DEBUG - crossval score - average:0.875
+2025-12-11 02:01:55,722 : classifier (113) - DEBUG - errors in classification:
+  gold predicted
+0  vtg        sh
+1  vtg        sh
+2  vtg        sh
+3   sh       vtg
+4  vtg        sh
+2025-12-11 02:01:55,727 : classifier (137) - DEBUG - selected features:6 Index(['seed_label', 'WPincubatornew', 'Realtotalratio', 'Avggoodpagelength',
+       'Population Size', 'Digital Support'],
+      dtype='object')
+2025-12-11 02:01:55,734 : classifier (148) - DEBUG - labelings:
+exp_with_feature_sel_19
+sh     8482
+vtg     414
+Name: count, dtype: int64
+2025-12-11 02:01:55,743 : classifier (99) - DEBUG - training data:                 seed_label
+integrated_code           
+orv                     sh
+eng                    vtg
+ori                    vtg
+osx                     sh
+tow                     sh
+lzh                     sh
+nld                    vtg
+khm                    vtg
+arb                    vtg
+tat                    vtg
+cop                     sh
+oui                     sh
+fra                    vtg
+ckb                    vtg
+tsn                    vtg
+zul                    vtg
+grc                     sh
+xfa                     sh
+atz                     sh
+ell                    vtg
+kab                    vtg
+phr                     sh
+pol                    vtg
+cat                    vtg
+klc                     sh
+goh                     sh
+por                    vtg
+nya                    vtg
+hbo                     sh
+lat                     sh
+rus                    vtg
+dum                     sh
+mar                    vtg
+krt                     sh
+pgs                     sh
+vie                    vtg
+sin                    vtg
+pli                     sh
+scx                     sh
+mmz                     sh
+2025-12-11 02:01:55,798 : classifier (110) - DEBUG - crossval score - average:0.95
+2025-12-11 02:01:55,799 : classifier (113) - DEBUG - errors in classification:
+  gold predicted
+0  vtg        sh
+1  vtg        sh
+2025-12-11 02:01:55,801 : classifier (137) - DEBUG - selected features:4 Index(['Population Size', 'Digital Support', 'has_glottolog',
+       'is_macrolanguage'],
+      dtype='object')
+2025-12-11 02:01:55,806 : classifier (148) - DEBUG - labelings:
+exp_with_feature_sel_20
+sh     8370
+vtg     526
+Name: count, dtype: int64
+2025-12-11 02:01:55,933 : classifier (235) - DEBUG - Crossvalidation results (all):
+count    20.000000
+mean      0.936250
+std       0.037588
+min       0.875000
+25%       0.918750
+50%       0.950000
+75%       0.950000
+max       1.000000
+dtype: float64
+2025-12-11 02:01:55,934 : classifier (237) - DEBUG - Statuses based on all labelings:
+status
+dead          8233
+borderline     491
+living         171
+Name: count, dtype: int64
+2025-12-11 02:01:55,934 : classifier (239) - DEBUG - Stable languages based on all labelings:
+stable
+sh     8233
+-       491
+vtg     171
+Name: count, dtype: int64
+2025-12-11 02:01:55,935 : classifier (245) - INFO - Crossvalidation results (filtered by limit 0.9):
+count    15.000000
+mean      0.953333
+std       0.024761
+min       0.925000
+25%       0.937500
+50%       0.950000
+75%       0.962500
+max       1.000000
+dtype: float64
+2025-12-11 02:01:55,936 : classifier (248) - INFO - Statuses based on labelings (where crossvalidation exceeds limit):
+status_best
+dead          8239
+borderline     468
+living         188
+Name: count, dtype: int64
+2025-12-11 02:01:55,936 : classifier (251) - INFO - Stable languages based on labelings (where crossvalidation exceeds limit):
+stable_best
+sh     8239
+-       468
+vtg     188
+Name: count, dtype: int64
+2025-12-11 02:01:55,937 : classifier (258) - INFO - exporting dataframe to scripts/replicated_results/my_experiment.tsv
+2025-12-11 02:01:55,997 : classifier (261) - INFO - exporting crossvalidations to scripts/replicated_results/my_experiment-crossval.tsv
+2025-12-11 02:01:56,000 : classifier (271) - INFO - exporting probabilities to scripts/replicated_results/my_experiment-prob-sh.tsv
+2025-12-11 02:01:56,189 : classifier (271) - INFO - exporting probabilities to scripts/replicated_results/my_experiment-prob-vtg.tsv
+2025-12-11 02:01:56,395 : classifier (278) - INFO - exporting weights of first model to scripts/replicated_results/my_experiment-weight-vtg.tsv
+2025-12-11 02:02:43,714 : classifier (30) - INFO - Dropping status features
+2025-12-11 02:02:43,720 : classifier (99) - DEBUG - training data:                 seed_label
+integrated_code           
+hbs                    vtg
+cdo                    vtg
+ell                    vtg
+zho                    vtg
+tur                    vtg
+dan                    vtg
+chu                     sh
+biw                     sh
+nmj                     sh
+gbx                     sh
+ita                    vtg
+hye                    vtg
+xcl                     sh
+ylo                     sh
+fmp                     sh
+slk                    vtg
+azn                     sh
+nci                     sh
+orv                     sh
+non                     sh
+iml                     sh
+soo                     sh
+fra                    vtg
+arb                    vtg
+grc                     sh
+bel                    vtg
+urd                    vtg
+nya                    vtg
+goh                     sh
+grq                     sh
+lzh                     sh
+krk                     sh
+enm                     sh
+mya                    vtg
+bos                    vtg
+cat                    vtg
+guj                    vtg
+bjn                    vtg
+dum                     sh
+por                    vtg
+2025-12-11 02:02:43,783 : classifier (110) - DEBUG - crossval score - average:0.95
+2025-12-11 02:02:43,785 : classifier (113) - DEBUG - errors in classification:
+  gold predicted
+0  vtg        sh
+1  vtg        sh
+2025-12-11 02:02:43,790 : classifier (137) - DEBUG - selected features:4 Index(['Population Size', 'Digital Support', 'tatoeba_sentences',
+       'is_macrolanguage'],
+      dtype='object')
+2025-12-11 02:02:43,799 : classifier (148) - DEBUG - labelings:
+exp_with_feature_sel_1
+sh     8430
+vtg     466
+Name: count, dtype: int64
+2025-12-11 02:02:43,809 : classifier (99) - DEBUG - training data:                 seed_label
+integrated_code           
+oge                     sh
+vit                     sh
+uzb                    vtg
+tzl                     sh
+nld                    vtg
+got                     sh
+bjb                     sh
+ces                    vtg
+grc                     sh
+rus                    vtg
+hye                    vtg
+urd                    vtg
+mhk                     sh
+hau                    vtg
+glv                     sh
+ind                    vtg
+kkg                     sh
+lug                    vtg
+ell                    vtg
+mya                    vtg
+kir                    vtg
+dum                     sh
+gyl                     sh
+goh                     sh
+swe                    vtg
+heb                    vtg
+rog                     sh
+cor                     sh
+uig                    vtg
+lat                     sh
+xgu                     sh
+fra                    vtg
+pol                    vtg
+tam                    vtg
+lao                    vtg
+lzh                     sh
+zho                    vtg
+dok                     sh
+ays                     sh
+xcl                     sh
+2025-12-11 02:02:43,848 : classifier (110) - DEBUG - crossval score - average:1.0
+2025-12-11 02:02:43,850 : classifier (113) - DEBUG - errors in classification:
+  gold predicted
+0   sh       vtg
+2025-12-11 02:02:43,855 : classifier (137) - DEBUG - selected features:4 Index(['Population Size', 'Digital Support', 'has_bible', 'is_macrolanguage'], dtype='object')
+2025-12-11 02:02:43,861 : classifier (148) - DEBUG - labelings:
+exp_with_feature_sel_2
+sh     8714
+vtg     182
+Name: count, dtype: int64
+2025-12-11 02:02:43,866 : classifier (99) - DEBUG - training data:                 seed_label
+integrated_code           
+glv                     sh
+ukr                    vtg
+wle                     sh
+fra                    vtg
+rus                    vtg
+khm                    vtg
+bwf                     sh
+goh                     sh
+pli                     sh
+por                    vtg
+enm                     sh
+spa                    vtg
+anb                     sh
+nep                    vtg
+vor                     sh
+got                     sh
+qvp                     sh
+nya                    vtg
+tir                    vtg
+gid                     sh
+mdf                    vtg
+heb                    vtg
+wua                     sh
+non                     sh
+jpn                    vtg
+bam                    vtg
+mon                    vtg
+orv                     sh
+tyz                     sh
+tel                    vtg
+ces                    vtg
+lug                    vtg
+cat                    vtg
+udg                     sh
+swe                    vtg
+hbo                     sh
+eus                    vtg
+lzh                     sh
+oge                     sh
+sci                     sh
+2025-12-11 02:02:43,903 : classifier (110) - DEBUG - crossval score - average:0.975
+2025-12-11 02:02:43,905 : classifier (113) - DEBUG - errors in classification:
+  gold predicted
+0   sh       vtg
+2025-12-11 02:02:43,908 : classifier (137) - DEBUG - selected features:5 Index(['Realtotalratio', 'Population Size', 'Digital Support', 'has_glottolog',
+       'tatoeba_sentences'],
+      dtype='object')
+2025-12-11 02:02:43,912 : classifier (148) - DEBUG - labelings:
+exp_with_feature_sel_3
+sh     8630
+vtg     266
+Name: count, dtype: int64
+2025-12-11 02:02:43,921 : classifier (99) - DEBUG - training data:                 seed_label
+integrated_code           
+wol                    vtg
+rna                     sh
+enm                     sh
+nld                    vtg
+byl                     sh
+xcl                     sh
+zha                    vtg
+hun                    vtg
+zho                    vtg
+syc                     sh
+mmh                     sh
+rsb                     sh
+aqd                     sh
+zhd                     sh
+eng                    vtg
+ita                    vtg
+mdf                    vtg
+tvw                     sh
+cor                     sh
+pol                    vtg
+got                     sh
+cop                     sh
+pnb                    vtg
+uig                    vtg
+por                    vtg
+brd                     sh
+kab                    vtg
+hca                     sh
+hye                    vtg
+grc                     sh
+jpn                    vtg
+lat                     sh
+slk                    vtg
+lma                     sh
+dum                     sh
+ang                     sh
+ind                    vtg
+tat                    vtg
+tuk                    vtg
+guj                    vtg
+2025-12-11 02:02:43,975 : classifier (110) - DEBUG - crossval score - average:0.875
+2025-12-11 02:02:43,977 : classifier (113) - DEBUG - errors in classification:
+  gold predicted
+0  vtg        sh
+1  vtg        sh
+2  vtg        sh
+3   sh       vtg
+4  vtg        sh
+2025-12-11 02:02:43,982 : classifier (137) - DEBUG - selected features:4 Index(['Realtotalratio', 'Population Size', 'Digital Support',
+       'has_glottolog'],
+      dtype='object')
+2025-12-11 02:02:43,987 : classifier (148) - DEBUG - labelings:
+exp_with_feature_sel_4
+sh     8635
+vtg     261
+Name: count, dtype: int64
+2025-12-11 02:02:43,992 : classifier (99) - DEBUG - training data:                 seed_label
+integrated_code           
+mon                    vtg
+grc                     sh
+hbs                    vtg
+pli                     sh
+arb                    vtg
+ces                    vtg
+nwm                     sh
+enm                     sh
+oge                     sh
+mar                    vtg
+emg                     sh
+eus                    vtg
+dan                    vtg
+por                    vtg
+dum                     sh
+orm                    vtg
+ajz                     sh
+eng                    vtg
+aor                     sh
+kuf                     sh
+orv                     sh
+non                     sh
+ind                    vtg
+xkb                     sh
+hbo                     sh
+khm                    vtg
+zau                     sh
+ukr                    vtg
+bvd                     sh
+rus                    vtg
+goh                     sh
+xcl                     sh
+zul                    vtg
+xac                     sh
+hin                    vtg
+spa                    vtg
+fin                    vtg
+aik                     sh
+bod                    vtg
+ckb                    vtg
+2025-12-11 02:02:44,033 : classifier (110) - DEBUG - crossval score - average:0.925
+2025-12-11 02:02:44,035 : classifier (113) - DEBUG - errors in classification:
+  gold predicted
+0   sh       vtg
+1  vtg        sh
+2  vtg        sh
+2025-12-11 02:02:44,040 : classifier (137) - DEBUG - selected features:4 Index(['Population Size', 'Digital Support', 'tatoeba_sentences',
+       'is_macrolanguage'],
+      dtype='object')
+2025-12-11 02:02:44,046 : classifier (148) - DEBUG - labelings:
+exp_with_feature_sel_5
+sh     8406
+vtg     490
+Name: count, dtype: int64
+2025-12-11 02:02:44,051 : classifier (99) - DEBUG - training data:                 seed_label
+integrated_code           
+syc                     sh
+mlt                    vtg
+ckb                    vtg
+itm                     sh
+bsg                     sh
+chu                     sh
+lzh                     sh
+ind                    vtg
+nci                     sh
+fra                    vtg
+isl                    vtg
+tur                    vtg
+urd                    vtg
+pli                     sh
+jni                     sh
+khc                     sh
+nqn                     sh
+slk                    vtg
+kab                    vtg
+cor                     sh
+rus                    vtg
+tuk                    vtg
+sxu                     sh
+tam                    vtg
+mon                    vtg
+dum                     sh
+eus                    vtg
+sun                    vtg
+cop                     sh
+non                     sh
+ukr                    vtg
+mtd                     sh
+fin                    vtg
+xcl                     sh
+jpn                    vtg
+heb                    vtg
+zpy                     sh
+aqp                     sh
+eng                    vtg
+kme                     sh
+2025-12-11 02:02:44,085 : classifier (110) - DEBUG - crossval score - average:0.925
+2025-12-11 02:02:44,087 : classifier (113) - DEBUG - errors in classification:
+  gold predicted
+0   sh       vtg
+1  vtg        sh
+2  vtg        sh
+2025-12-11 02:02:44,089 : classifier (137) - DEBUG - selected features:6 Index(['WPsizeinchars', 'Population Size', 'Digital Support', 'has_glottolog',
+       'tatoeba_sentences', 'is_macrolanguage'],
+      dtype='object')
+2025-12-11 02:02:44,094 : classifier (148) - DEBUG - labelings:
+exp_with_feature_sel_6
+sh     8611
+vtg     285
+Name: count, dtype: int64
+2025-12-11 02:02:44,099 : classifier (99) - DEBUG - training data:                 seed_label
+integrated_code           
+wol                    vtg
+got                     sh
+eng                    vtg
+lat                     sh
+ogg                     sh
+goh                     sh
+syc                     sh
+tir                    vtg
+rus                    vtg
+glv                     sh
+swe                    vtg
+cat                    vtg
+orm                    vtg
+osx                     sh
+afr                    vtg
+fra                    vtg
+fin                    vtg
+ori                    vtg
+slk                    vtg
+onw                     sh
+kun                     sh
+uam                     sh
+bel                    vtg
+ell                    vtg
+pnc                     sh
+por                    vtg
+spn                     sh
+kir                    vtg
+bos                    vtg
+orv                     sh
+tam                    vtg
+pli                     sh
+lzh                     sh
+cop                     sh
+uig                    vtg
+kuv                     sh
+kgy                     sh
+tva                     sh
+jgk                     sh
+nld                    vtg
+2025-12-11 02:02:44,134 : classifier (110) - DEBUG - crossval score - average:1.0
+2025-12-11 02:02:44,137 : classifier (137) - DEBUG - selected features:5 Index(['Realtotalratio', 'Population Size', 'Digital Support', 'has_glottolog',
+       'has_bible'],
+      dtype='object')
+2025-12-11 02:02:44,142 : classifier (148) - DEBUG - labelings:
+exp_with_feature_sel_7
+sh     8644
+vtg     252
+Name: count, dtype: int64
+2025-12-11 02:02:44,150 : classifier (99) - DEBUG - training data:                 seed_label
+integrated_code           
+cdo                    vtg
+zkr                     sh
+pli                     sh
+tur                    vtg
+krk                     sh
+ang                     sh
+kan                    vtg
+hin                    vtg
+hbo                     sh
+ces                    vtg
+glg                    vtg
+bam                    vtg
+grc                     sh
+qxt                     sh
+got                     sh
+spa                    vtg
+eng                    vtg
+lat                     sh
+pmc                     sh
+non                     sh
+tuy                     sh
+kir                    vtg
+arb                    vtg
+new                    vtg
+osx                     sh
+por                    vtg
+slk                    vtg
+lug                    vtg
+cor                     sh
+pnb                    vtg
+mge                     sh
+ogb                     sh
+hun                    vtg
+zmb                     sh
+heb                    vtg
+kpi                     sh
+chu                     sh
+zha                    vtg
+fin                    vtg
+smv                     sh
+2025-12-11 02:02:44,195 : classifier (110) - DEBUG - crossval score - average:0.9
+2025-12-11 02:02:44,196 : classifier (113) - DEBUG - errors in classification:
+  gold predicted
+0  vtg        sh
+1   sh       vtg
+2  vtg        sh
+3  vtg        sh
+2025-12-11 02:02:44,200 : classifier (137) - DEBUG - selected features:5 Index(['Avggoodpagelength', 'Population Size', 'Stable', 'Digital Support',
+       'is_macrolanguage'],
+      dtype='object')
+2025-12-11 02:02:44,204 : classifier (148) - DEBUG - labelings:
+exp_with_feature_sel_8
+sh     8382
+vtg     514
+Name: count, dtype: int64
+2025-12-11 02:02:44,212 : classifier (99) - DEBUG - training data:                 seed_label
+integrated_code           
+ita                    vtg
+enm                     sh
+jpn                    vtg
+hbo                     sh
+fra                    vtg
+blj                     sh
+non                     sh
+mbo                     sh
+cat                    vtg
+hun                    vtg
+tno                     sh
+grc                     sh
+xlb                     sh
+kir                    vtg
+orv                     sh
+zha                    vtg
+frq                     sh
+wol                    vtg
+zho                    vtg
+rus                    vtg
+osx                     sh
+syc                     sh
+dan                    vtg
+tkd                     sh
+mya                    vtg
+tct                     sh
+mon                    vtg
+slk                    vtg
+hoj                     sh
+lao                    vtg
+urd                    vtg
+xcl                     sh
+tuk                    vtg
+pol                    vtg
+ful                    vtg
+riu                     sh
+uzb                    vtg
+glv                     sh
+juw                     sh
+cor                     sh
+2025-12-11 02:02:44,254 : classifier (110) - DEBUG - crossval score - average:0.95
+2025-12-11 02:02:44,255 : classifier (113) - DEBUG - errors in classification:
+  gold predicted
+0   sh       vtg
+1   sh       vtg
+2025-12-11 02:02:44,260 : classifier (137) - DEBUG - selected features:4 Index(['Population Size', 'Stable', 'Digital Support', 'is_macrolanguage'], dtype='object')
+2025-12-11 02:02:44,267 : classifier (148) - DEBUG - labelings:
+exp_with_feature_sel_9
+sh     8622
+vtg     274
+Name: count, dtype: int64
+2025-12-11 02:02:44,272 : classifier (99) - DEBUG - training data:                 seed_label
+integrated_code           
+grc                     sh
+oge                     sh
+tuk                    vtg
+urd                    vtg
+klu                     sh
+khm                    vtg
+fin                    vtg
+enm                     sh
+heb                    vtg
+teb                     sh
+bos                    vtg
+cor                     sh
+lat                     sh
+ula                     sh
+tel                    vtg
+slk                    vtg
+ggb                     sh
+hin                    vtg
+ita                    vtg
+jjr                     sh
+non                     sh
+eus                    vtg
+arb                    vtg
+kor                    vtg
+pli                     sh
+deh                     sh
+lzh                     sh
+mje                     sh
+jpn                    vtg
+kan                    vtg
+ori                    vtg
+asm                    vtg
+goh                     sh
+chu                     sh
+mnl                     sh
+nld                    vtg
+spa                    vtg
+phq                     sh
+zho                    vtg
+bqr                     sh
+2025-12-11 02:02:44,314 : classifier (110) - DEBUG - crossval score - average:0.925
+2025-12-11 02:02:44,317 : classifier (113) - DEBUG - errors in classification:
+  gold predicted
+0  vtg        sh
+1  vtg        sh
+2  vtg        sh
+2025-12-11 02:02:44,322 : classifier (137) - DEBUG - selected features:5 Index(['Population Size', 'Digital Support', 'has_glottolog', 'has_bible',
+       'is_macrolanguage'],
+      dtype='object')
+2025-12-11 02:02:44,328 : classifier (148) - DEBUG - labelings:
+exp_with_feature_sel_10
+sh     8663
+vtg     233
+Name: count, dtype: int64
+2025-12-11 02:02:44,333 : classifier (99) - DEBUG - training data:                 seed_label
+integrated_code           
+gta                     sh
+heb                    vtg
+niq                     sh
+mfd                     sh
+mmk                     sh
+wol                    vtg
+ces                    vtg
+tbf                     sh
+got                     sh
+non                     sh
+lat                     sh
+rus                    vtg
+lzh                     sh
+aba                     sh
+yue                    vtg
+grc                     sh
+kaf                     sh
+orm                    vtg
+ckb                    vtg
+avn                     sh
+oge                     sh
+zho                    vtg
+tat                    vtg
+fin                    vtg
+seg                     sh
+ori                    vtg
+glg                    vtg
+hbo                     sh
+por                    vtg
+hun                    vtg
+lra                     sh
+ita                    vtg
+wuu                    vtg
+new                    vtg
+jpn                    vtg
+fra                    vtg
+enm                     sh
+glv                     sh
+cop                     sh
+bos                    vtg
+2025-12-11 02:02:44,374 : classifier (110) - DEBUG - crossval score - average:0.9
+2025-12-11 02:02:44,375 : classifier (113) - DEBUG - errors in classification:
+  gold predicted
+0   sh       vtg
+1   sh       vtg
+2  vtg        sh
+3   sh       vtg
+2025-12-11 02:02:44,378 : classifier (137) - DEBUG - selected features:3 Index(['Population Size', 'Digital Support', 'is_macrolanguage'], dtype='object')
+2025-12-11 02:02:44,383 : classifier (148) - DEBUG - labelings:
+exp_with_feature_sel_11
+sh     8381
+vtg     515
+Name: count, dtype: int64
+2025-12-11 02:02:44,388 : classifier (99) - DEBUG - training data:                 seed_label
+integrated_code           
+urd                    vtg
+lzh                     sh
+ita                    vtg
+sun                    vtg
+fin                    vtg
+hib                     sh
+msh                     sh
+tuk                    vtg
+syc                     sh
+heb                    vtg
+kes                     sh
+ibo                    vtg
+spa                    vtg
+ces                    vtg
+cop                     sh
+lug                    vtg
+pli                     sh
+non                     sh
+eus                    vtg
+mvy                     sh
+arb                    vtg
+por                    vtg
+ahi                     sh
+nci                     sh
+nyv                     sh
+goh                     sh
+chu                     sh
+lao                    vtg
+ell                    vtg
+ukr                    vtg
+vah                     sh
+avo                     sh
+tfn                     sh
+vnp                     sh
+oge                     sh
+tat                    vtg
+orv                     sh
+zho                    vtg
+wol                    vtg
+afr                    vtg
+2025-12-11 02:02:44,427 : classifier (110) - DEBUG - crossval score - average:0.925
+2025-12-11 02:02:44,429 : classifier (113) - DEBUG - errors in classification:
+  gold predicted
+0  vtg        sh
+1  vtg        sh
+2  vtg        sh
+2025-12-11 02:02:44,434 : classifier (137) - DEBUG - selected features:7 Index(['Realtotalratio', 'Avggoodpagelength', 'Population Size',
+       'Digital Support', 'has_glottolog', 'tatoeba_sentences',
+       'is_macrolanguage'],
+      dtype='object')
+2025-12-11 02:02:44,440 : classifier (148) - DEBUG - labelings:
+exp_with_feature_sel_12
+sh     8443
+vtg     453
+Name: count, dtype: int64
+2025-12-11 02:02:44,449 : classifier (99) - DEBUG - training data:                 seed_label
+integrated_code           
+fra                    vtg
+non                     sh
+grc                     sh
+yue                    vtg
+tsn                    vtg
+bjs                     sh
+njb                     sh
+gaq                     sh
+hoh                     sh
+tur                    vtg
+pol                    vtg
+lzh                     sh
+mar                    vtg
+gex                     sh
+okl                     sh
+ita                    vtg
+oge                     sh
+swe                    vtg
+cop                     sh
+cat                    vtg
+rus                    vtg
+tat                    vtg
+sqo                     sh
+eng                    vtg
+lat                     sh
+koc                     sh
+chu                     sh
+dan                    vtg
+hbs                    vtg
+ang                     sh
+uzb                    vtg
+xcl                     sh
+syc                     sh
+bqk                     sh
+ces                    vtg
+doq                     sh
+bos                    vtg
+cdo                    vtg
+afr                    vtg
+ibo                    vtg
+2025-12-11 02:02:44,492 : classifier (110) - DEBUG - crossval score - average:0.975
+2025-12-11 02:02:44,494 : classifier (113) - DEBUG - errors in classification:
+  gold predicted
+0  vtg        sh
+2025-12-11 02:02:44,499 : classifier (137) - DEBUG - selected features:4 Index(['Population Size', 'Digital Support', 'tatoeba_sentences',
+       'is_macrolanguage'],
+      dtype='object')
+2025-12-11 02:02:44,503 : classifier (148) - DEBUG - labelings:
+exp_with_feature_sel_13
+sh     8458
+vtg     438
+Name: count, dtype: int64
+2025-12-11 02:02:44,508 : classifier (99) - DEBUG - training data:                 seed_label
+integrated_code           
+lzh                     sh
+kab                    vtg
+afr                    vtg
+arb                    vtg
+nkd                     sh
+swe                    vtg
+siv                     sh
+zha                    vtg
+spa                    vtg
+oge                     sh
+orv                     sh
+eus                    vtg
+nup                     sh
+uzb                    vtg
+pli                     sh
+kor                    vtg
+jpn                    vtg
+dum                     sh
+ukr                    vtg
+ibo                    vtg
+cor                     sh
+rus                    vtg
+orm                    vtg
+kkw                     sh
+vie                    vtg
+enm                     sh
+zsu                     sh
+zho                    vtg
+blq                     sh
+mjo                     sh
+ful                    vtg
+glv                     sh
+hye                    vtg
+osx                     sh
+ita                    vtg
+say                     sh
+ukq                     sh
+mya                    vtg
+syc                     sh
+kae                     sh
+2025-12-11 02:02:44,550 : classifier (110) - DEBUG - crossval score - average:0.95
+2025-12-11 02:02:44,552 : classifier (113) - DEBUG - errors in classification:
+  gold predicted
+0  vtg        sh
+1   sh       vtg
+2025-12-11 02:02:44,558 : classifier (137) - DEBUG - selected features:5 Index(['AdjustedWPsize', 'Population Size', 'Digital Support', 'has_glottolog',
+       'has_bible'],
+      dtype='object')
+2025-12-11 02:02:44,564 : classifier (148) - DEBUG - labelings:
+exp_with_feature_sel_14
+sh     8643
+vtg     253
+Name: count, dtype: int64
+2025-12-11 02:02:44,573 : classifier (99) - DEBUG - training data:                 seed_label
+integrated_code           
+nci                     sh
+slk                    vtg
+vie                    vtg
+aze                    vtg
+lzh                     sh
+ckb                    vtg
+swe                    vtg
+obl                     sh
+ibo                    vtg
+arb                    vtg
+non                     sh
+wuu                    vtg
+hbo                     sh
+got                     sh
+sga                     sh
+ygs                     sh
+ita                    vtg
+rus                    vtg
+ukr                    vtg
+glv                     sh
+khm                    vtg
+kab                    vtg
+mlt                    vtg
+guj                    vtg
+chu                     sh
+fra                    vtg
+urd                    vtg
+inl                     sh
+lat                     sh
+spa                    vtg
+tuk                    vtg
+bxf                     sh
+rnl                     sh
+bzi                     sh
+xpq                     sh
+hun                    vtg
+oge                     sh
+xcl                     sh
+aal                     sh
+osi                     sh
+2025-12-11 02:02:44,620 : classifier (110) - DEBUG - crossval score - average:0.925
+2025-12-11 02:02:44,622 : classifier (113) - DEBUG - errors in classification:
+  gold predicted
+0  vtg        sh
+1  vtg        sh
+2   sh       vtg
+2025-12-11 02:02:44,630 : classifier (137) - DEBUG - selected features:6 Index(['Avggoodpagelength', 'Population Size', 'Digital Support',
+       'has_glottolog', 'has_bible', 'is_macrolanguage'],
+      dtype='object')
+2025-12-11 02:02:44,638 : classifier (148) - DEBUG - labelings:
+exp_with_feature_sel_15
+sh     8549
+vtg     347
+Name: count, dtype: int64
+2025-12-11 02:02:44,644 : classifier (99) - DEBUG - training data:                 seed_label
+integrated_code           
+mkf                     sh
+xcl                     sh
+pnb                    vtg
+rus                    vtg
+ful                    vtg
+cor                     sh
+syc                     sh
+lwh                     sh
+kku                     sh
+nld                    vtg
+pol                    vtg
+zak                     sh
+lzh                     sh
+tur                    vtg
+eus                    vtg
+kir                    vtg
+eng                    vtg
+ces                    vtg
+enm                     sh
+isl                    vtg
+bgb                     sh
+mar                    vtg
+nci                     sh
+tsn                    vtg
+cat                    vtg
+zho                    vtg
+ibo                    vtg
+wuu                    vtg
+chu                     sh
+kfm                     sh
+ang                     sh
+goh                     sh
+cop                     sh
+mdf                    vtg
+bvt                     sh
+fin                    vtg
+muo                     sh
+stb                     sh
+arb                    vtg
+srx                     sh
+2025-12-11 02:02:44,698 : classifier (110) - DEBUG - crossval score - average:0.875
+2025-12-11 02:02:44,701 : classifier (113) - DEBUG - errors in classification:
+  gold predicted
+0  vtg        sh
+1  vtg        sh
+2   sh       vtg
+3  vtg        sh
+4  vtg        sh
+2025-12-11 02:02:44,704 : classifier (137) - DEBUG - selected features:6 Index(['Realtotalratio', 'Avggoodpagelength', 'Population Size',
+       'Digital Support', 'tatoeba_sentences', 'is_macrolanguage'],
+      dtype='object')
+2025-12-11 02:02:44,709 : classifier (148) - DEBUG - labelings:
+exp_with_feature_sel_16
+sh     8412
+vtg     484
+Name: count, dtype: int64
+2025-12-11 02:02:44,716 : classifier (99) - DEBUG - training data:                 seed_label
+integrated_code           
+afr                    vtg
+chu                     sh
+got                     sh
+asm                    vtg
+ces                    vtg
+lao                    vtg
+dan                    vtg
+glv                     sh
+heb                    vtg
+sau                     sh
+mar                    vtg
+pni                     sh
+dum                     sh
+sin                    vtg
+lat                     sh
+syc                     sh
+hii                     sh
+ita                    vtg
+spa                    vtg
+tkm                     sh
+kej                     sh
+eng                    vtg
+ldg                     sh
+cop                     sh
+lzh                     sh
+sun                    vtg
+nld                    vtg
+hun                    vtg
+cor                     sh
+bpn                     sh
+ori                    vtg
+hib                     sh
+glg                    vtg
+rge                     sh
+por                    vtg
+cat                    vtg
+tir                    vtg
+kan                    vtg
+oge                     sh
+xve                     sh
+2025-12-11 02:02:44,755 : classifier (110) - DEBUG - crossval score - average:0.975
+2025-12-11 02:02:44,758 : classifier (113) - DEBUG - errors in classification:
+  gold predicted
+0  vtg        sh
+2025-12-11 02:02:44,762 : classifier (137) - DEBUG - selected features:3 Index(['Population Size', 'Digital Support', 'has_glottolog'], dtype='object')
+2025-12-11 02:02:44,769 : classifier (148) - DEBUG - labelings:
+exp_with_feature_sel_17
+sh     8345
+vtg     551
+Name: count, dtype: int64
+2025-12-11 02:02:44,774 : classifier (99) - DEBUG - training data:                 seed_label
+integrated_code           
+dum                     sh
+mdf                    vtg
+ibo                    vtg
+eus                    vtg
+lat                     sh
+heb                    vtg
+hun                    vtg
+xnb                     sh
+grc                     sh
+tuk                    vtg
+ebg                     sh
+vie                    vtg
+oda                     sh
+eng                    vtg
+mar                    vtg
+slk                    vtg
+glv                     sh
+wan                     sh
+pol                    vtg
+swe                    vtg
+non                     sh
+mal                    vtg
+cop                     sh
+jiu                     sh
+goh                     sh
+orv                     sh
+nld                    vtg
+kak                     sh
+zlm                    vtg
+ndw                     sh
+ang                     sh
+zho                    vtg
+ces                    vtg
+twg                     sh
+prp                     sh
+chu                     sh
+tel                    vtg
+sym                     sh
+new                    vtg
+ckb                    vtg
+2025-12-11 02:02:44,827 : classifier (110) - DEBUG - crossval score - average:0.9
+2025-12-11 02:02:44,829 : classifier (113) - DEBUG - errors in classification:
+  gold predicted
+0  vtg        sh
+1   sh       vtg
+2  vtg        sh
+3  vtg        sh
+2025-12-11 02:02:44,834 : classifier (137) - DEBUG - selected features:6 Index(['Population Size', 'Digital Support', 'has_glottolog', 'has_bible',
+       'tatoeba_sentences', 'is_macrolanguage'],
+      dtype='object')
+2025-12-11 02:02:44,844 : classifier (148) - DEBUG - labelings:
+exp_with_feature_sel_18
+sh     8496
+vtg     400
+Name: count, dtype: int64
+2025-12-11 02:02:44,849 : classifier (99) - DEBUG - training data:                 seed_label
+integrated_code           
+bod                    vtg
+hml                     sh
+zho                    vtg
+ita                    vtg
+fin                    vtg
+cor                     sh
+nra                     sh
+xcl                     sh
+uig                    vtg
+bos                    vtg
+eng                    vtg
+slk                    vtg
+kor                    vtg
+dum                     sh
+ukr                    vtg
+cdo                    vtg
+tur                    vtg
+por                    vtg
+yej                     sh
+raq                     sh
+asm                    vtg
+mdf                    vtg
+kxb                     sh
+lat                     sh
+pli                     sh
+cbd                     sh
+nld                    vtg
+syc                     sh
+nof                     sh
+aze                    vtg
+mjy                     sh
+enm                     sh
+xag                     sh
+kir                    vtg
+osx                     sh
+dne                     sh
+nep                    vtg
+nya                    vtg
+orv                     sh
+cop                     sh
+2025-12-11 02:02:44,885 : classifier (110) - DEBUG - crossval score - average:0.95
+2025-12-11 02:02:44,887 : classifier (113) - DEBUG - errors in classification:
+  gold predicted
+0   sh       vtg
+1  vtg        sh
+2025-12-11 02:02:44,892 : classifier (137) - DEBUG - selected features:8 Index(['Realtotalratio', 'Population Size', 'Stable', 'Digital Support',
+       'has_glottolog', 'has_bible', 'tatoeba_sentences', 'is_macrolanguage'],
+      dtype='object')
+2025-12-11 02:02:44,899 : classifier (148) - DEBUG - labelings:
+exp_with_feature_sel_19
+sh     8623
+vtg     273
+Name: count, dtype: int64
+2025-12-11 02:02:44,905 : classifier (99) - DEBUG - training data:                 seed_label
+integrated_code           
+wuu                    vtg
+lao                    vtg
+goh                     sh
+cor                     sh
+ddw                     sh
+iby                     sh
+tur                    vtg
+bnx                     sh
+drn                     sh
+fra                    vtg
+lzh                     sh
+skt                     sh
+syc                     sh
+ind                    vtg
+chu                     sh
+sin                    vtg
+ang                     sh
+orm                    vtg
+suw                     sh
+heb                    vtg
+mjs                     sh
+dan                    vtg
+ori                    vtg
+mya                    vtg
+cop                     sh
+khm                    vtg
+xcl                     sh
+kor                    vtg
+slk                    vtg
+nep                    vtg
+boo                     sh
+lat                     sh
+zho                    vtg
+bos                    vtg
+xaj                     sh
+zbl                     sh
+got                     sh
+hun                    vtg
+kaz                    vtg
+nld                    vtg
+2025-12-11 02:02:44,949 : classifier (110) - DEBUG - crossval score - average:0.95
+2025-12-11 02:02:44,951 : classifier (113) - DEBUG - errors in classification:
+  gold predicted
+0  vtg        sh
+1  vtg        sh
+2025-12-11 02:02:44,955 : classifier (137) - DEBUG - selected features:7 Index(['Population Size', 'Endangered', 'Digital Support', 'has_glottolog',
+       'has_bible', 'tatoeba_sentences', 'is_macrolanguage'],
+      dtype='object')
+2025-12-11 02:02:44,962 : classifier (148) - DEBUG - labelings:
+exp_with_feature_sel_20
+sh     8650
+vtg     246
+Name: count, dtype: int64
+2025-12-11 02:02:45,089 : classifier (235) - DEBUG - Crossvalidation results (all):
+count    20.000000
+mean      0.937500
+std       0.036724
+min       0.875000
+25%       0.918750
+50%       0.937500
+75%       0.956250
+max       1.000000
+dtype: float64
+2025-12-11 02:02:45,090 : classifier (237) - DEBUG - Statuses based on all labelings:
+status
+dead          8205
+borderline     527
+living         163
+Name: count, dtype: int64
+2025-12-11 02:02:45,091 : classifier (239) - DEBUG - Stable languages based on all labelings:
+stable
+sh     8205
+-       527
+vtg     163
+Name: count, dtype: int64
+2025-12-11 02:02:45,092 : classifier (245) - INFO - Crossvalidation results (filtered by limit 0.9):
+count    15.000000
+mean      0.953333
+std       0.026502
+min       0.925000
+25%       0.925000
+50%       0.950000
+75%       0.975000
+max       1.000000
+dtype: float64
+2025-12-11 02:02:45,093 : classifier (248) - INFO - Statuses based on labelings (where crossvalidation exceeds limit):
+status_best
+dead          8215
+borderline     515
+living         165
+Name: count, dtype: int64
+2025-12-11 02:02:45,093 : classifier (251) - INFO - Stable languages based on labelings (where crossvalidation exceeds limit):
+stable_best
+sh     8215
+-       515
+vtg     165
+Name: count, dtype: int64
+2025-12-11 02:02:45,094 : classifier (258) - INFO - exporting dataframe to scripts/replicated_results/eth_4_valued.tsv
+2025-12-11 02:02:45,121 : classifier (261) - INFO - exporting crossvalidations to scripts/replicated_results/eth_4_valued-crossval.tsv
+2025-12-11 02:02:45,124 : classifier (271) - INFO - exporting probabilities to scripts/replicated_results/eth_4_valued-prob-sh.tsv
+2025-12-11 02:02:45,289 : classifier (271) - INFO - exporting probabilities to scripts/replicated_results/eth_4_valued-prob-vtg.tsv
+2025-12-11 02:02:45,509 : classifier (278) - INFO - exporting weights of first model to scripts/replicated_results/eth_4_valued-weight-vtg.tsv
